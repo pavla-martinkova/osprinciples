@@ -24,6 +24,7 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 
 ### Jak naplnit podmínku otevřeného přístupu 👣
 1. Publikování v otevřeném časopise, který článek zpřístupní pod licencí CC BY. (tzv. Zlatá cesta)
+2. Publikování v uzavřeném časopise a bezodkladné zveřejnění v důvěryhodném repozitáři pod licencí CC BY. (tzv. Zelená cesta)
 <details>
   <summary>Typy časopisů</summary>
   
@@ -37,30 +38,30 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 <details> 
   <summary>APC (Article Processing Charge)</summary> 
   
-* Poplatek za otevření článku, pohybuje se okolo 3000 EUR (může to být mnohem víc). 
-* Jsou na ně vyčleněny projektové finance. 
-* Je možné využít slevy díky smlouvám s vydavateli. Pro MU: tokeny s omezeným počtem nejsou přidělovány projektovým publikacím; je možné využít plošných slev a odpuštění poplatků. 
-* [Více informací o smlouvách v projektu Czechelib](czechelib.cz/cs/419-instrukce-pro-autory)
+<ul>Poplatek za otevření článku, pohybuje se okolo 3000 EUR (může to být mnohem víc). 
+<li>Jsou na ně vyčleněny projektové finance.</li>
+<li>Je možné využít slevy díky smlouvám s vydavateli. Pro MU: tokeny s omezeným počtem nejsou přidělovány projektovým publikacím; je možné využít plošných slev a odpuštění poplatků.</li> 
+<li>[Více informací o smlouvách v projektu Czechelib](czechelib.cz/cs/419-instrukce-pro-autory)</li>
+</ul>
 
 </details>
-
-2. Publikování v uzavřeném časopise a bezodkladné zveřejnění v důvěryhodném repozitáři pod licencí CC BY. (tzv. Zelená cesta)
 
 <details>
   <summary>Uznatelné verze článku</summary>
   
-- Author Accepted Manuscript (verze po recenzním řízení)
-- Version of Record (finální vydavatelská verze)      
+<li>Author Accepted Manuscript (verze po recenzním řízení)</li>
+<li>Version of Record (finální vydavatelská verze)</li>
 
 </details>
 
 <details>
 <summary>Creative Commons licence</summary>
 
-- Pro udělení licence musí mít autor*ka zachována majetková práva k dílu.
-- Licence CC BY 4.0 je nutnou podmínkou pro uznání výstupu v projektu; koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
-- Restriktivnější licence CC BY-NC 4.0 nebo CC BY-NC-ND 4.0 jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
-- [Více informací](creativecommons.org/share-your-work/cclicenses)
+<ul><li>Pro udělení licence musí mít autor*ka zachována majetková práva k dílu.</li>
+<li>Licence CC BY 4.0 je nutnou podmínkou pro uznání výstupu v projektu; koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.</li>
+<li>Restriktivnější licence CC BY-NC 4.0 nebo CC BY-NC-ND 4.0 jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).</li>
+<li>[Více informací](creativecommons.org/share-your-work/cclicenses)</li>
+</ul>
 
 </details>
 
@@ -68,17 +69,6 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 
 1. Výběr časopisu
   - seznámení se s podmínkami vydavatele
-
-<details>
-  <summary>Co musí splňovat časopis ✅</summary> 
-
-- [ ] podmínky vydavatele ponechávají majetková autorská práva autorce*ovi 
-- [ ] článek vyjde v časopise (Gold, Hybridním nebo Diamantovém) pod licencí CC BY 4.0 
-- [ ] vydavatel umožňuje bezodkladné (bez embarga) nahrání verze po recenzním řízení nebo finální verze článku do repozitáře pod licencí CC BY 4.0 
-
-❗ Vydavatelé mají pro zelenou cestu různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se můžete obrátit na OS podporu. 
-
-</details>
 
 2. Odeslání článku do recenzního řízení 
   - vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení 
@@ -91,6 +81,17 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 
 5. Článek je publikován v časopise 
   - nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV
+
+<details>
+  <summary>Co musí splňovat časopis ✅</summary> 
+
+- [ ] podmínky vydavatele ponechávají majetková autorská práva autorce*ovi 
+- [ ] článek vyjde v časopise (Gold, Hybridním nebo Diamantovém) pod licencí CC BY 4.0 
+- [ ] vydavatel umožňuje bezodkladné (bez embarga) nahrání verze po recenzním řízení nebo finální verze článku do repozitáře pod licencí CC BY 4.0 
+
+❗ Vydavatelé mají pro zelenou cestu různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se můžete obrátit na OS podporu. 
+
+</details>
 
 <details>
 <summary>Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅</summary> 
