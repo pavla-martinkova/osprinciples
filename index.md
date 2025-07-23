@@ -8,4 +8,6 @@ Součástí jsou stručné kontrolní seznamy ✅ a postupy 👣.
 
 > Neváhejte kontaktovat OS podporu.
 
+---
+
 This site was built using [GitHub Pages](https://pages.github.com/).
