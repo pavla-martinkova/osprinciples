@@ -1,2 +1,1 @@
-# osprinciples
-Open science principles guide
+# Open Science principles guide
