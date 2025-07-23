@@ -28,9 +28,9 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 <details>
   <summary>Typy časopisů</summary>
   
-- **Gold časopis**: všechny články jsou otevřené po uhrazení APC
-- **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
-- **Diamantový časopis**: všechny články jsou otevřené a autor/ka nic neplatí
+<ul><li>**Gold časopis**: všechny články jsou otevřené po uhrazení APC</li> 
+<li>**Hybridní časopis**: některé články jsou otevřené po uhrazení APC</li>
+<li>**Diamantový časopis**: všechny články jsou otevřené a autor/ka nic neplatí</li>
   
 </details>
 
