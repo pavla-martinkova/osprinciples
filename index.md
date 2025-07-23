@@ -3,7 +3,6 @@
 Účastí na projektu jsme se zavázali naplňovat principy otevřené vědy.
 - [Otevřený přístup k publikacím](#otevřený-přístup-k-publikacím-open-access-oa)
 - [Správa výzkumných dat](#správa-vzkumných-dat)
-- 
 
 Součástí jsou stručné kontrolní seznamy ✅ a postupy 👣.
 
@@ -28,19 +27,20 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 <details>
   <summary>Typy časopisů</summary>
   
-<ul><li>**Gold časopis**: všechny články jsou otevřené po uhrazení APC</li> 
-<li>**Hybridní časopis**: některé články jsou otevřené po uhrazení APC</li>
-<li>**Diamantový časopis**: všechny články jsou otevřené a autor/ka nic neplatí</li>
+<ul><li>Gold časopis: všechny články jsou otevřené po uhrazení APC</li> 
+<li>Hybridní časopis: některé články jsou otevřené po uhrazení APC</li>
+<li>Diamantový časopis: všechny články jsou otevřené a autor/ka nic neplatí</li>
+</ul>
   
 </details>
 
 <details> 
   <summary>APC (Article Processing Charge)</summary> 
   
-- Poplatek za otevření článku, pohybuje se okolo 3000 EUR (může to být mnohem víc). 
-- Jsou na ně vyčleněny projektové finance. 
-- Je možné využít slevy díky smlouvám s vydavateli. Pro MU: tokeny s omezeným počtem nejsou přidělovány projektovým publikacím; je možné využít plošných slev a odpuštění poplatků. 
-- [Více informací o smlouvách v projektu Czechelib](czechelib.cz/cs/419-instrukce-pro-autory)
+* Poplatek za otevření článku, pohybuje se okolo 3000 EUR (může to být mnohem víc). 
+* Jsou na ně vyčleněny projektové finance. 
+* Je možné využít slevy díky smlouvám s vydavateli. Pro MU: tokeny s omezeným počtem nejsou přidělovány projektovým publikacím; je možné využít plošných slev a odpuštění poplatků. 
+* [Více informací o smlouvách v projektu Czechelib](czechelib.cz/cs/419-instrukce-pro-autory)
 
 </details>
 
