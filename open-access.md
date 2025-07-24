@@ -28,7 +28,7 @@ Publikace musí být zároveň nahrána do důvěryhodného repozitáře pod ste
   <summary>Jak uhradit APC (Article Processing Charge)</summary> 
   
 - Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib.
-- ⭑ Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, ale je možné využít plošných slev a odpuštění poplatků.
+- Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, ale je možné využít plošných slev a odpuštění poplatků.
 - [Více informací o smlouvách v projektu Czechelib](czechelib.cz/cs/419-instrukce-pro-autory)
 
 </details>
@@ -84,9 +84,9 @@ Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV.
 </details>
 
 <details markdown="1">
-<summary> ⭑ Pro MU: Jak vyplnit záznam pro RIV</summary>
+<summary>Pro MU: Jak vyplnit záznam pro RIV</summary>
 
-
+...
 
 </details>
 
