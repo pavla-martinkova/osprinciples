@@ -15,7 +15,7 @@ Povinný OA pro všechny publikační výstupy typu:
 U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporučený a vítaný. 
 
 ### Jak naplnit podmínku otevřeného přístupu
-/1. Publikování v otevřeném časopise, který článek zpřístupní pod licencí CC BY. (tzv. Zlatá cesta)
+#### 1) Publikování v otevřeném časopise, který článek zpřístupní pod licencí CC BY (tzv. Zlatá cesta)
 <details markdown="1">
   <summary>Typy časopisů</summary>
   
@@ -35,7 +35,7 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 
 </details>
 
-/2. Publikování v uzavřeném časopise a bezodkladné zveřejnění v důvěryhodném repozitáři pod licencí CC BY. (tzv. Zelená cesta)
+#### 2) Publikování v uzavřeném časopise a bezodkladné zveřejnění v důvěryhodném repozitáři pod licencí CC BY (tzv. Zelená cesta)
 
 <details markdown="1">
   <summary>Uznatelné verze článku</summary>
@@ -57,41 +57,41 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 
 ### Doporučený postup při publikování článku
 
-/1. Výběr časopisu
+#### 1) Výběr časopisu
   - seznámení se s podmínkami vydavatele
 
 <details markdown="1">
   <summary>Co musí splňovat časopis ✅</summary> 
 
- [ ] podmínky vydavatele ponechávají majetková autorská práva autorce*ovi 
- [ ] článek vyjde v časopise (Gold, Hybridním nebo Diamantovém) pod licencí CC BY 4.0 
- [ ] vydavatel umožňuje bezodkladné (bez embarga) nahrání verze po recenzním řízení nebo finální verze článku do repozitáře pod licencí CC BY 4.0 
+ - [ ]  podmínky vydavatele ponechávají majetková autorská práva autorce*ovi 
+ - [ ]  článek vyjde v časopise (Gold, Hybridním nebo Diamantovém) pod licencí CC BY 4.0 
+ - [ ]  vydavatel umožňuje bezodkladné (bez embarga) nahrání verze po recenzním řízení nebo finální verze článku do repozitáře pod licencí CC BY 4.0 
 
 ❗ Vydavatelé mají pro zelenou cestu různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se můžete obrátit na OS podporu. 
 
 </details>
 
-/2. Odeslání článku do recenzního řízení 
+#### 2) Odeslání článku do recenzního řízení 
   - vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení 
 
-/3. Přijetí článku k publikaci 
+#### 3) Přijetí článku k publikaci 
   - informování OS podpory o přijetí článku a datu zveřejnění 
 
-/4. Vložení podkladových dat do repozitáře 
+#### 4) Vložení podkladových dat do repozitáře 
   - pokud to podmínky vydavatele dovolují, lze provést ještě před publikováním článku (v souladu s principem včasného sdílení výsledků) 
 
-/5. Článek je publikován v časopise 
+#### 5) Článek je publikován v časopise 
   - nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV
 
 <details markdown="1">
 <summary>Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅</summary> 
   
- [ ] prokazatelně vznikl v rámci projektu: odeslání do časopisu po začátku projektu a uzavření smlouvy  
- [ ] obsahuje poděkování projektu  
- [ ] má přiděleno DOI 
- [ ] verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 (platí pro zelenou i zlatou cestu) 
- [ ] má publikována podkladová data a je s nimi pomocí metadat propojen 
- [ ] splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a je/bude za instituci odveden
+ - [ ]  prokazatelně vznikl v rámci projektu: odeslání do časopisu po začátku projektu a uzavření smlouvy  
+ - [ ]  obsahuje poděkování projektu  
+ - [ ]  má přiděleno DOI 
+ - [ ]  verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 (platí pro zelenou i zlatou cestu) 
+ - [ ]  má publikována podkladová data a je s nimi pomocí metadat propojen 
+ - [ ]  splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a je/bude za instituci odveden
 
 </details>
 
