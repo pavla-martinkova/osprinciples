@@ -27,11 +27,9 @@ Publikace musí být zároveň nahrána do důvěryhodného repozitáře pod ste
 <details markdown="1">
   <summary>Jak uhradit APC (Article Processing Charge)</summary> 
   
-Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib.
-
-⭑ Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, ale je možné využít plošných slev a odpuštění poplatků.
-
-[Více informací o smlouvách v projektu Czechelib](czechelib.cz/cs/419-instrukce-pro-autory)
+- Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib.
+- ⭑ Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, ale je možné využít plošných slev a odpuštění poplatků.
+- [Více informací o smlouvách v projektu Czechelib](czechelib.cz/cs/419-instrukce-pro-autory)
 
 </details>
 
@@ -85,12 +83,21 @@ Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV.
 
 </details>
 
+<details markdown="1">
+<summary> ⭑ Pro MU: Jak vyplnit záznam pro RIV</summary>
+
+
+
+</details>
+
 ### Creative Commons licence
 
-- Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
-- Licence CC BY 4.0 je nutnou podmínkou pro uznání výstupu v projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
-- Restriktivnější licence CC BY-NC 4.0 nebo CC BY-NC-ND 4.0 jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
-- [Více informací o licencích Creative Commons](creativecommons.org/share-your-work/cclicenses)
+Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
+
+- Licence **CC BY 4.0** je nutnou podmínkou pro uznání výstupu v projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
+- Restriktivnější licence **CC BY-NC 4.0** nebo **CC BY-NC-ND 4.0** jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
+
+[Více informací o licencích Creative Commons](creativecommons.org/share-your-work/cclicenses)
 
 ---
 
