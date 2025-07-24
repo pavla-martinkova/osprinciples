@@ -1,3 +1,5 @@
+[Home](/osprinciples/) | [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) | [Rozšiřující zdroje](/osprinciples/zdroje)
+
 ## Otevřený přístup k publikacím (Open Access, OA)
 Otevřený přístup v OP JAK je… 
 - **bezplatný** – zdarma pro koncové uživatele 
