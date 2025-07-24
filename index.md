@@ -1,4 +1,4 @@
-[Home](/index) | [Otevřený přístup k publikacím](/open-access) | [Správa výzkumných dat](/sprava-dat) | [Další postupy otevřené vědy](/dalsi-postupy) | [Rozšiřující zdroje](/zdroje)
+[Home](/) [Otevřený přístup k publikacím](/open-access) | [Správa výzkumných dat](/sprava-dat) | [Další postupy otevřené vědy](/dalsi-postupy) | [Rozšiřující zdroje](/zdroje)
 
 # Open Science v projektu LangInLife
 
@@ -9,7 +9,7 @@
 
 Součástí jsou stručné kontrolní seznamy a postupy.
 
-> Neváhejte kontaktovat OS podporu: <br>
+> ✉️ V případě nejasností neváhejte kontaktovat OS podporu: <br>
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>
 > CC Mirjana Stanojević – stanojevic[at]phil.muni.cz
 
