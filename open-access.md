@@ -54,7 +54,7 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 - Pro udělení licence musí mít autor*ka zachována majetková práva k dílu.
 - Licence CC BY 4.0 je nutnou podmínkou pro uznání výstupu v projektu; koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
 - Restriktivnější licence CC BY-NC 4.0 nebo CC BY-NC-ND 4.0 jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
-- [Více informací](creativecommons.org/share-your-work/cclicenses)
+- [Více informací o licencích Creative Commons](creativecommons.org/share-your-work/cclicenses)
 
 </details>
 
