@@ -9,3 +9,6 @@ kramdown:
 # Enable GitHub-flavored markdown features
 plugins:
   - jekyll-gfm
+
+baseurl: "/osprinciples" 
+url: "https://pavla-martinkova.github.io" 
