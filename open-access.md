@@ -18,7 +18,7 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 #### 1) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (tzv. Zlatá cesta)
 
 <details markdown="1">
-  <summary>Typy časopisů</summary>
+  <summary>##### Typy časopisů</summary>
   
 - Gold časopis – všechny články jsou otevřené po uhrazení APC 
 - Hybridní časopis – některé články jsou otevřené po uhrazení APC
