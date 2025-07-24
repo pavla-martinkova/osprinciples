@@ -1,6 +1,7 @@
 [Home](/osprinciples/) | [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) 
 
 ## Otevřený přístup k publikacím (Open Access, OA)
+
 Otevřený přístup v OP JAK je: 
 - **bezplatný** – zdarma pro koncové uživatele 
 - **neomezený** – umožněno opětovné využití díky licencím 
@@ -15,6 +16,7 @@ Povinný OA pro všechny publikační výstupy typu:
 U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA doporučený a vítaný. 
 
 ### Jak naplnit podmínku otevřeného přístupu
+
 #### 1) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (tzv. Zlatá cesta)
 
 <details markdown="1">
@@ -56,7 +58,7 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 
 </details>
 
-### Doporučený postup při publikování článku
+### Jak postupovat při publikování článku
 
 #### 1) Výběr časopisu
   - seznámení se s podmínkami vydavatele
@@ -64,11 +66,11 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 <details markdown="1">
   <summary>Co musí splňovat časopis ✅</summary> 
 
- - [ ] &nbsp;podmínky vydavatele ponechávají majetková autorská práva autorce*ovi 
- - [ ] &nbsp;článek vyjde v časopise (Gold, Hybridním nebo Diamantovém) pod licencí CC BY 4.0 
- - [ ] &nbsp;vydavatel umožňuje bezodkladné (bez embarga) nahrání verze po recenzním řízení nebo finální verze článku do repozitáře pod licencí CC BY 4.0 
+ - podmínky vydavatele ponechávají majetková autorská práva autorce*ovi 
+ - článek vyjde v časopise (Gold, Hybridním nebo Diamantovém) pod licencí CC BY 4.0 
+ - vydavatel umožňuje bezodkladné (bez embarga) nahrání verze po recenzním řízení nebo finální verze článku do repozitáře pod licencí CC BY 4.0
 
-❗ Vydavatelé mají pro zelenou cestu různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se můžete obrátit na OS podporu. 
+❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se můžete obrátit na OS podporu. 
 
 </details>
 
@@ -87,12 +89,12 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 <details markdown="1">
 <summary>Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅</summary> 
   
- - [ ] &nbsp;prokazatelně vznikl v rámci projektu: odeslání do časopisu po začátku projektu a uzavření smlouvy 
- - [ ] &nbsp;obsahuje poděkování projektu
- - [ ] &nbsp;má přiděleno DOI
- - [ ] &nbsp;verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 (platí pro zelenou i zlatou cestu)
- - [ ] &nbsp;má publikována podkladová data a je s nimi pomocí metadat propojen
- - [ ] &nbsp;splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a je/bude za instituci odveden
+ - prokazatelně vznikl v rámci projektu: odeslání do časopisu po začátku projektu a uzavření smlouvy 
+ - obsahuje poděkování projektu
+ - má přiděleno DOI
+ - verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 (platí pro zelenou i zlatou cestu)
+ - má publikována podkladová data a je s nimi pomocí metadat propojen
+ - splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a je/bude za instituci odveden
 
 </details>
 
