@@ -4,7 +4,7 @@
 - [Otevřený přístup k publikacím](#otevřený-přístup-k-publikacím-open-access-oa)
 - [Správa výzkumných dat](#správa-vzkumných-dat)
 
-Součástí jsou stručné kontrolní seznamy ✅ a postupy 👣.
+Součástí jsou stručné kontrolní seznamy a postupy.
 
 > Neváhejte kontaktovat OS podporu: <br>
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>
