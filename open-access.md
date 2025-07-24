@@ -7,7 +7,7 @@ Otevřený přístup v OP JAK je:
 - **neomezený** – umožněno opětovné využití díky licencím 
 - **okamžitý** – zpřístupnění bez časového embarga
 
-Povinný OA pro všechny publikační výstupy typu: 
+Povinný je OA pro všechny publikační výstupy typu: 
 - **J, recenzovaný odborný článek** – zahrnuje article (původní článek), review (přehledový článek) a letter (krátké sdělení) 
 - **B, odborná kniha**
 - **C, kapitola v odborné knize**
@@ -18,39 +18,30 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 ### Jak naplnit podmínku otevřeného přístupu
 
 #### 1) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (tzv. Zlatá cesta)
+Publikace musí být zároveň nahrána do důvěryhodného repozitáře pod stejnou licencí.
 
-Typy časopisů: 
-- Gold časopis – všechny články jsou otevřené po uhrazení poplatku
-- Hybridní časopis – některé články jsou otevřené po uhrazení poplatku
-- Diamantový časopis – všechny články jsou otevřené a autor\*ka nic neplatí
-
+- **Gold časopis**: všechny články jsou otevřené po uhrazení APC
+- **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
+- **Diamantový časopis**: všechny články jsou otevřené a autor\*ka nic neplatí
 
 <details markdown="1">
-  <summary>Jak uhradit poplatek APC (Article Processing Charge)</summary> 
+  <summary>Jak uhradit APC (Article Processing Charge)</summary> 
   
-Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc). Jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib.
+Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib.
+
 ⭑ Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, ale je možné využít plošných slev a odpuštění poplatků.
+
 [Více informací o smlouvách v projektu Czechelib](czechelib.cz/cs/419-instrukce-pro-autory)
 
 </details>
 
-Také v tomto případě musí být publikace nahrána do důvěryhodného repozitáře pod stejnou licencí.
-
 #### 2) Publikovat uzavřeně a zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY (tzv. Zelená cesta)
 
-Uznatelné verze článku:
+Uznatelné verze článku pro nahrání do repozitáře:
 - Author Accepted Manuscript (verze po recenzním řízení)
 - Version of Record (finální vydavatelská verze)
 
-<details markdown="1">
-<summary>Creative Commons licence</summary>
-
-- Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
-- Licence CC BY 4.0 je nutnou podmínkou pro uznání výstupu v projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
-- Restriktivnější licence CC BY-NC 4.0 nebo CC BY-NC-ND 4.0 jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
-- [Více informací o licencích Creative Commons](creativecommons.org/share-your-work/cclicenses)
-
-</details>
+❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se můžete obrátit na OS podporu. 
 
 ### Jak postupovat při publikování článku
 
@@ -63,8 +54,6 @@ Seznámení se s podmínkami vydavatele.
  - podmínky vydavatele ponechávají majetková autorská práva autorce\*ovi 
  - článek vyjde v časopise (Gold, Hybridním nebo Diamantovém) pod licencí CC BY 4.0 
  - vydavatel umožňuje bezodkladné (bez embarga) nahrání verze po recenzním řízení nebo finální verze článku do repozitáře pod licencí CC BY 4.0
-
-❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se můžete obrátit na OS podporu. 
 
 </details>
 
@@ -95,6 +84,13 @@ Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV.
  - splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a bude za instituci odveden
 
 </details>
+
+### Creative Commons licence
+
+- Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
+- Licence CC BY 4.0 je nutnou podmínkou pro uznání výstupu v projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
+- Restriktivnější licence CC BY-NC 4.0 nebo CC BY-NC-ND 4.0 jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
+- [Více informací o licencích Creative Commons](creativecommons.org/share-your-work/cclicenses)
 
 ---
 
