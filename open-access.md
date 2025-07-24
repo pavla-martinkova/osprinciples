@@ -19,40 +19,34 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 
 #### 1) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (tzv. Zlatá cesta)
 
-<details markdown="1">
-  <summary>Typy časopisů</summary>
-  
-- Gold časopis – všechny články jsou otevřené po uhrazení APC 
-- Hybridní časopis – některé články jsou otevřené po uhrazení APC
-- Diamantový časopis – všechny články jsou otevřené a autor/ka nic neplatí
-  
-</details>
+Typy časopisů: 
+- Gold časopis – všechny články jsou otevřené po uhrazení poplatku
+- Hybridní časopis – některé články jsou otevřené po uhrazení poplatku
+- Diamantový časopis – všechny články jsou otevřené a autor\*ka nic neplatí
+
 
 <details markdown="1">
-  <summary>APC (Article Processing Charge)</summary> 
+  <summary>Jak uhradit poplatek APC (Article Processing Charge)</summary> 
   
-- Poplatek za otevření článku, pohybuje se okolo 3000 EUR (může to být mnohem víc). 
-- Jsou na ně vyčleněny projektové finance. 
-- Je možné využít slevy díky smlouvám s vydavateli. Pro MU: tokeny s omezeným počtem nejsou přidělovány projektovým publikacím; je možné využít plošných slev a odpuštění poplatků. 
-- [Více informací o smlouvách v projektu Czechelib](czechelib.cz/cs/419-instrukce-pro-autory)
+Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc). Jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib.
+⭑ Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, ale je možné využít plošných slev a odpuštění poplatků.
+[Více informací o smlouvách v projektu Czechelib](czechelib.cz/cs/419-instrukce-pro-autory)
 
 </details>
+
+Také v tomto případě musí být publikace nahrána do důvěryhodného repozitáře pod stejnou licencí.
 
 #### 2) Publikovat uzavřeně a zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY (tzv. Zelená cesta)
 
-<details markdown="1">
-  <summary>Uznatelné verze článku</summary>
-  
+Uznatelné verze článku:
 - Author Accepted Manuscript (verze po recenzním řízení)
-- Version of Record (finální vydavatelská verze)      
-
-</details>
+- Version of Record (finální vydavatelská verze)
 
 <details markdown="1">
 <summary>Creative Commons licence</summary>
 
 - Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
-- Licence CC BY 4.0 je nutnou podmínkou pro uznání výstupu v projektu; koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
+- Licence CC BY 4.0 je nutnou podmínkou pro uznání výstupu v projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
 - Restriktivnější licence CC BY-NC 4.0 nebo CC BY-NC-ND 4.0 jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
 - [Více informací o licencích Creative Commons](creativecommons.org/share-your-work/cclicenses)
 
