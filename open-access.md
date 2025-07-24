@@ -12,14 +12,14 @@ Povinný OA pro všechny publikační výstupy typu:
 
 U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporučený a vítaný. 
 
-### Jak naplnit podmínku otevřeného přístupu 👣
+### Jak naplnit podmínku otevřeného přístupu
 1. Publikování v otevřeném časopise, který článek zpřístupní pod licencí CC BY. (tzv. Zlatá cesta)
 <details>
   <summary>Typy časopisů</summary>
   
-<ul><li>**Gold časopis**: všechny články jsou otevřené po uhrazení APC</li> 
-<li>**Hybridní časopis**: některé články jsou otevřené po uhrazení APC</li>
-<li>**Diamantový časopis**: všechny články jsou otevřené a autor/ka nic neplatí</li>
+- Gold časopis: všechny články jsou otevřené po uhrazení APC 
+- Hybridní časopis: některé články jsou otevřené po uhrazení APC
+- Diamantový časopis: všechny články jsou otevřené a autor/ka nic neplatí
   
 </details>
 
@@ -53,13 +53,13 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 
 </details>
 
-### Doporučený postup při publikování článku 👣
+### Doporučený postup při publikování článku
 
 1. Výběr časopisu
   - seznámení se s podmínkami vydavatele
 
 <details>
-  <summary>Co musí splňovat časopis ✅</summary> 
+  <summary>Co musí splňovat časopis</summary> 
 
 - [ ] podmínky vydavatele ponechávají majetková autorská práva autorce*ovi 
 - [ ] článek vyjde v časopise (Gold, Hybridním nebo Diamantovém) pod licencí CC BY 4.0 
@@ -82,7 +82,7 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
   - nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV
 
 <details>
-<summary>Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅</summary> 
+<summary>Co musí splňovat článek, aby byl uznatelný jako výstup projektu</summary> 
   
 - [ ] prokazatelně vznikl v rámci projektu: odeslání do časopisu po začátku projektu a uzavření smlouvy  
 - [ ] obsahuje poděkování projektu  
@@ -92,5 +92,3 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 - [ ] splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a je/bude za instituci odveden
 
 </details>
-
-## Správa výzkumných dat
