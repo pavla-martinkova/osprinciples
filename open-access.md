@@ -1,6 +1,6 @@
 [Home](/osprinciples/) | [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) 
 
-## Otevřený přístup k publikacím (Open Access, OA)
+# Otevřený přístup k publikacím (Open Access, OA)
 
 Otevřený přístup v OP JAK je: 
 - **bezplatný** – zdarma pro koncové uživatele 
@@ -15,9 +15,9 @@ Povinný je OA pro všechny publikační výstupy typu:
 
 U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA doporučený a vítaný. 
 
-### Jak naplnit podmínku otevřeného přístupu
+## Jak naplnit podmínku otevřeného přístupu
 
-#### 1) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (tzv. Zlatá cesta)
+### 1) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (tzv. Zlatá cesta)
 Publikace musí být zároveň nahrána do důvěryhodného repozitáře pod stejnou licencí.
 
 - **Gold časopis**: všechny články jsou otevřené po uhrazení APC
@@ -33,7 +33,7 @@ Publikace musí být zároveň nahrána do důvěryhodného repozitáře pod ste
 
 </details>
 
-#### 2) Publikovat uzavřeně a zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY (tzv. Zelená cesta)
+### 2) Publikovat uzavřeně a zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY (tzv. Zelená cesta)
 
 Uznatelné verze článku pro nahrání do repozitáře:
 - Author Accepted Manuscript (verze po recenzním řízení)
@@ -41,9 +41,9 @@ Uznatelné verze článku pro nahrání do repozitáře:
 
 ❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se můžete obrátit na OS podporu. 
 
-### Jak postupovat při publikování článku
+## Jak postupovat při publikování článku
 
-#### 1) Výběr časopisu
+### 1) Výběr časopisu
 Seznámení se s podmínkami vydavatele.
 
 <details markdown="1">
@@ -55,20 +55,20 @@ Seznámení se s podmínkami vydavatele.
 
 </details>
 
-#### 2) Odeslání článku do recenzního řízení 
+### 2) Odeslání článku do recenzního řízení 
 Vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení. To nesmí předcházet datu uzavření smlouvy s projektem.
 
 Pokud to vydavatel umožňuje, volba otevřného recenzního řízení.
 
 Informování administrátorky\*ra o případném APC poplatku. 
 
-#### 3) Přijetí článku k publikaci 
+### 3) Přijetí článku k publikaci 
 Informování OS podpory o přijetí článku a předpokládaném datu zveřejnění.
 
-#### 4) Vložení podkladových dat do repozitáře 
+### 4) Vložení podkladových dat do repozitáře 
 Pokud to podmínky vydavatele dovolují, lze data nahrát ještě před publikováním článku, v souladu s principem včasného sdílení výsledků. 
 
-#### 5) Článek je publikován v časopise 
+### 5) Článek je publikován v časopise 
 Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV.
 
 <details markdown="1">
@@ -90,7 +90,7 @@ Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV.
 
 </details>
 
-### Creative Commons licence
+## Creative Commons licence
 
 Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
