@@ -6,8 +6,11 @@
 
 Součástí jsou stručné kontrolní seznamy ✅ a postupy 👣.
 
-> Neváhejte kontaktovat OS podporu.
+> Neváhejte kontaktovat OS podporu:
+> Pavla Martinková martinkova[at]phil.muni.cz
+> CC Mirjana Stanojević stanjevic[at]phil.muni.cz
 
 ---
 
+Text vznikl na základě příručky Metodika pro Open Science v projektu RES-HUM.
 This site was built using [GitHub Pages](https://pages.github.com/).
