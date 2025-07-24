@@ -1,8 +1,8 @@
 ## Otevřený přístup k publikacím (Open Access, OA)
 Otevřený přístup v OP JAK je… 
-- bezplatný: zdarma pro koncové uživatele 
-- neomezený: umožněno opětovné využití díky licencím 
-- okamžitý: zpřístupnění bez časového embarga
+- **bezplatný** – zdarma pro koncové uživatele 
+- **neomezený** – umožněno opětovné využití díky licencím 
+- **okamžitý** – zpřístupnění bez časového embarga
 
 Povinný OA pro všechny publikační výstupy typu: 
 - J (recenzovaný odborný článek) – zahrnuje article (původní článek), review (přehledový článek) a letter (krátké sdělení) 
@@ -17,9 +17,9 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 <details>
   <summary>Typy časopisů</summary>
   
-- Gold časopis: všechny články jsou otevřené po uhrazení APC 
-- Hybridní časopis: některé články jsou otevřené po uhrazení APC
-- Diamantový časopis: všechny články jsou otevřené a autor/ka nic neplatí
+- Gold časopis – všechny články jsou otevřené po uhrazení APC 
+- Hybridní časopis – některé články jsou otevřené po uhrazení APC
+- Diamantový časopis – všechny články jsou otevřené a autor/ka nic neplatí
   
 </details>
 
