@@ -1,4 +1,4 @@
-[Home](/index) | [Otevřený přístup k publikacím](/open-access) | [Správa výzkumnýc dat](/sprava-dat) | [Další postupy otevřené vědy](/dalsi-postupy) | [Rozšiřující zdroje](/zdroje)
+[Home](/index) | [Otevřený přístup k publikacím](/open-access) | [Správa výzkumných dat](/sprava-dat) | [Další postupy otevřené vědy](/dalsi-postupy) | [Rozšiřující zdroje](/zdroje)
 
 # Open Science v projektu LangInLife
 
