@@ -3,9 +3,3 @@ description: Reference manual for researchers and administrators
 markdown: kramdown
 kramdown:
   input: GFM
-  hard_wrap: false
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
