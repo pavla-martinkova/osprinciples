@@ -1,4 +1,4 @@
-[Home](/osprinciples/) | [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) | [Rozšiřující zdroje](/osprinciples/zdroje)
+[Home](/osprinciples/) | [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) 
 
 ## Správa výzkumných dat
 
@@ -75,6 +75,8 @@ FAIR principy blíže a stručně přibližuje kontrolní seznam **Jak FAIR jsou
 - pokud jde o data k publikaci, jsou s ní pomocí metadat propojena
 - Definice druhů výsledků (pro RIV): [isvavai.cz/dokumenty/definice_druhu_vysledku.pdf](https://www.isvavai.cz/dokumenty/definice_druhu_vysledku.pdf)
 
-**Poděkování**
+---
 
-Text vznikl na základě příručky Metodika pro Open Science v projektu RES-HUM.
+Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
+
+This site was built using [GitHub Pages](https://pages.github.com/).

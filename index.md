@@ -1,8 +1,4 @@
----
-layout: default
----
-
-[Home](/osprinciples/) | [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) | [Rozšiřující zdroje](/osprinciples/zdroje)
+[Home](/osprinciples/) | [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy)
 
 # Open Science v projektu LangInLife
 
@@ -17,8 +13,16 @@ Součástí jsou stručné kontrolní seznamy a postupy.
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>
 > CC Mirjana Stanojević – stanojevic[at]phil.muni.cz
 
+## Informace o otevřené vědě
+
+- [Open Science na MU](https://www.openscience.muni.cz)
+- [Open Science na UK](https://openscience.cuni.cz)
+- [Národní platforma Open Science](https://openscience.cz/cs/)
+- [Příručka Otevřená věda OP JAK](https://opjak.cz/dokumenty/otevrena-veda/)
+- [Metodický výklad Otevřená věda v OP JAK](https://opjak.cz/aktuality/metodicky-vyklad-otevrena-veda-pro-projekty-vyzvy-02_22_008-spickovy-vyzkum/)
+
 ---
 
-Text vznikl na základě příručky Metodika pro Open Science v projektu RES-HUM.
+Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
 
 This site was built using [GitHub Pages](https://pages.github.com/).

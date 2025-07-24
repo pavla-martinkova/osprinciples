@@ -46,3 +46,9 @@ Pokud časopis nabízí otevřené recenzní řízení, měli bychom tuto možno
 Občanská věda (Citizen Science) představuje zapojení dalších aktérů mimo vědeckých pracovníků do různých fází vědeckého výzkumu. To může zahrnovat formulaci výzkumné otázky, návrh metod, shromažďování a vyhodnocování dat i prezentování výsledků. Zapojení občanských vědců je uvedeno v poděkování.
 
 - více informací: [Ten Principles of Citizen Science – European Citizen Science Association (ECSA)](https://www.ecsa.ngo/10-principles/)
+
+---
+
+Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
+
+This site was built using [GitHub Pages](https://pages.github.com/).

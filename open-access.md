@@ -1,4 +1,4 @@
-[Home](/osprinciples/) | [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) | [Rozšiřující zdroje](/osprinciples/zdroje)
+[Home](/osprinciples/) | [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) 
 
 ## Otevřený přístup k publikacím (Open Access, OA)
 Otevřený přístup v OP JAK je… 
@@ -16,7 +16,7 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 
 ### Jak naplnit podmínku otevřeného přístupu
 1. Publikování v otevřeném časopise, který článek zpřístupní pod licencí CC BY. (tzv. Zlatá cesta)
-<details>
+<details markdown="1">
   <summary>Typy časopisů</summary>
   
 - Gold časopis – všechny články jsou otevřené po uhrazení APC 
@@ -25,7 +25,7 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
   
 </details>
 
-<details> 
+<details markdown="1">
   <summary>APC (Article Processing Charge)</summary> 
   
 - Poplatek za otevření článku, pohybuje se okolo 3000 EUR (může to být mnohem víc). 
@@ -37,7 +37,7 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 
 2. Publikování v uzavřeném časopise a bezodkladné zveřejnění v důvěryhodném repozitáři pod licencí CC BY. (tzv. Zelená cesta)
 
-<details>
+<details markdown="1">
   <summary>Uznatelné verze článku</summary>
   
 - Author Accepted Manuscript (verze po recenzním řízení)
@@ -45,7 +45,7 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Creative Commons licence</summary>
 
 - Pro udělení licence musí mít autor*ka zachována majetková práva k dílu.
@@ -60,7 +60,7 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 1. Výběr časopisu
   - seznámení se s podmínkami vydavatele
 
-<details>
+<details markdown="1">
   <summary>Co musí splňovat časopis</summary> 
 
 - [ ] podmínky vydavatele ponechávají majetková autorská práva autorce*ovi 
@@ -83,7 +83,7 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 5. Článek je publikován v časopise 
   - nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV
 
-<details>
+<details markdown="1">
 <summary>Co musí splňovat článek, aby byl uznatelný jako výstup projektu</summary> 
   
 - [ ] prokazatelně vznikl v rámci projektu: odeslání do časopisu po začátku projektu a uzavření smlouvy  
@@ -94,3 +94,9 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 - [ ] splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a je/bude za instituci odveden
 
 </details>
+
+---
+
+Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
+
+This site was built using [GitHub Pages](https://pages.github.com/).
