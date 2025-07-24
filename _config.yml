@@ -10,5 +10,5 @@ kramdown:
 plugins:
   - jekyll-gfm
 
-baseurl: "/osprinciples" 
+site.baseurl: "/osprinciples" 
 url: "https://pavla-martinkova.github.io" 
