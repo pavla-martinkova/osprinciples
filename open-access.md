@@ -1,7 +1,7 @@
 [Home](/osprinciples/) | [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) 
 
 ## Otevřený přístup k publikacím (Open Access, OA)
-Otevřený přístup v OP JAK je… 
+Otevřený přístup v OP JAK je: 
 - **bezplatný** – zdarma pro koncové uživatele 
 - **neomezený** – umožněno opětovné využití díky licencím 
 - **okamžitý** – zpřístupnění bez časového embarga
@@ -15,7 +15,7 @@ Povinný OA pro všechny publikační výstupy typu:
 U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA doporučený a vítaný. 
 
 ### Jak naplnit podmínku otevřeného přístupu
-#### 1) Publikování v otevřeném časopise, který článek zpřístupní pod licencí CC BY (tzv. Zlatá cesta)
+#### 1) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (tzv. Zlatá cesta)
 <details markdown="1">
   <summary>Typy časopisů</summary>
   
@@ -35,7 +35,7 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 
 </details>
 
-#### 2) Publikování v uzavřeném časopise a bezodkladné zveřejnění v důvěryhodném repozitáři pod licencí CC BY (tzv. Zelená cesta)
+#### 2) Publikovat uzavřeně a zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY (tzv. Zelená cesta)
 
 <details markdown="1">
   <summary>Uznatelné verze článku</summary>
