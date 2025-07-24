@@ -51,7 +51,7 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 <details markdown="1">
 <summary>Creative Commons licence</summary>
 
-- Pro udělení licence musí mít autor*ka zachována majetková práva k dílu.
+- Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 - Licence CC BY 4.0 je nutnou podmínkou pro uznání výstupu v projektu; koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
 - Restriktivnější licence CC BY-NC 4.0 nebo CC BY-NC-ND 4.0 jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
 - [Více informací o licencích Creative Commons](creativecommons.org/share-your-work/cclicenses)
@@ -61,12 +61,12 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 ### Jak postupovat při publikování článku
 
 #### 1) Výběr časopisu
-  - seznámení se s podmínkami vydavatele
+Seznámení se s podmínkami vydavatele.
 
 <details markdown="1">
   <summary>Co musí splňovat časopis ✅</summary> 
 
- - podmínky vydavatele ponechávají majetková autorská práva autorce*ovi 
+ - podmínky vydavatele ponechávají majetková autorská práva autorce\*ovi 
  - článek vyjde v časopise (Gold, Hybridním nebo Diamantovém) pod licencí CC BY 4.0 
  - vydavatel umožňuje bezodkladné (bez embarga) nahrání verze po recenzním řízení nebo finální verze článku do repozitáře pod licencí CC BY 4.0
 
@@ -75,26 +75,30 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 </details>
 
 #### 2) Odeslání článku do recenzního řízení 
-  - vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení 
+Vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení. To nesmí předcházet datu uzavření smlouvy s projektem.
+
+Pokud to vydavatel umožňuje, volba otevřného recenzního řízení.
+
+Informování administrátorky\*ra o případném APC poplatku. 
 
 #### 3) Přijetí článku k publikaci 
-  - informování OS podpory o přijetí článku a datu zveřejnění 
+Informování OS podpory o přijetí článku a předpokládaném datu zveřejnění.
 
 #### 4) Vložení podkladových dat do repozitáře 
-  - pokud to podmínky vydavatele dovolují, lze provést ještě před publikováním článku (v souladu s principem včasného sdílení výsledků) 
+Pokud to podmínky vydavatele dovolují, lze data nahrát ještě před publikováním článku, v souladu s principem včasného sdílení výsledků. 
 
 #### 5) Článek je publikován v časopise 
-  - nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV
+Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV.
 
 <details markdown="1">
 <summary>Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅</summary> 
   
- - prokazatelně vznikl v rámci projektu: odeslání do časopisu po začátku projektu a uzavření smlouvy 
+ - prokazatelně vznikl v rámci projektu – odeslání do časopisu po začátku projektu a uzavření smlouvy 
  - obsahuje poděkování projektu
  - má přiděleno DOI
- - verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 (platí pro zelenou i zlatou cestu)
+ - verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 – platí pro zelenou i zlatou cestu
  - má publikována podkladová data a je s nimi pomocí metadat propojen
- - splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a je/bude za instituci odveden
+ - splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a bude za instituci odveden
 
 </details>
 
