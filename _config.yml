@@ -1,5 +1,11 @@
 title: Open Science principles in LangInLife project
 description: Reference manual for researchers and administrators
+
+# Use GitHub's markdown processor
 markdown: kramdown
 kramdown:
   input: GFM
+
+# Enable GitHub-flavored markdown features
+plugins:
+  - jekyll-gfm
