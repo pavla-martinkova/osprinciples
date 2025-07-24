@@ -7,12 +7,12 @@ Otevřený přístup v OP JAK je…
 - **okamžitý** – zpřístupnění bez časového embarga
 
 Povinný OA pro všechny publikační výstupy typu: 
-- J (recenzovaný odborný článek) – zahrnuje article (původní článek), review (přehledový článek) a letter (krátké sdělení) 
-- B (odborná kniha) 
-- C (kapitola v odborné knize) 
-- D (stať ve sborníku)
+- **J, recenzovaný odborný článek** – zahrnuje article (původní článek), review (přehledový článek) a letter (krátké sdělení) 
+- **B, odborná kniha**
+- **C, kapitola v odborné knize**
+- **D, stať ve sborníku**
 
-U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporučený a vítaný. 
+U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA doporučený a vítaný. 
 
 ### Jak naplnit podmínku otevřeného přístupu
 #### 1) Publikování v otevřeném časopise, který článek zpřístupní pod licencí CC BY (tzv. Zlatá cesta)
@@ -86,12 +86,12 @@ U ostatních typů výsledků (prezentace na konferenci, poster) je OA doporuče
 <details markdown="1">
 <summary>Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅</summary> 
   
- - [ ]  prokazatelně vznikl v rámci projektu: odeslání do časopisu po začátku projektu a uzavření smlouvy  
- - [ ]  obsahuje poděkování projektu  
- - [ ]  má přiděleno DOI 
- - [ ]  verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 (platí pro zelenou i zlatou cestu) 
- - [ ]  má publikována podkladová data a je s nimi pomocí metadat propojen 
- - [ ]  splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a je/bude za instituci odveden
+ - prokazatelně vznikl v rámci projektu: odeslání do časopisu po začátku projektu a uzavření smlouvy  [ ] 
+ - obsahuje poděkování projektu [ ]  
+ - má přiděleno DOI [ ] 
+ - verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 (platí pro zelenou i zlatou cestu) [ ] 
+ - má publikována podkladová data a je s nimi pomocí metadat propojen [ ] 
+ - splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a je/bude za instituci odveden [ ] 
 
 </details>
 
