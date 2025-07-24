@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [Home](/osprinciples/) | [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) | [Rozšiřující zdroje](/osprinciples/zdroje)
 
 # Open Science v projektu LangInLife
