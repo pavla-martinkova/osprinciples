@@ -3,9 +3,9 @@
 # Open Science v projektu LangInLife
 
 Účastí na projektu jsme se zavázali naplňovat principy otevřené vědy.
-- [Otevřený přístup k publikacím](/open-access)
-- [Správa výzkumných dat](/sprava-dat)
-- [Další postupy otevřené vědy](/dalsi-postupy)
+- [Otevřený přístup k publikacím](/osprinciples/open-access)
+- [Správa výzkumných dat](/osprinciples/sprava-dat)
+- [Další postupy otevřené vědy](/osprinciples/dalsi-postupy)
 
 Součástí jsou stručné kontrolní seznamy a postupy.
 
