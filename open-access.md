@@ -64,9 +64,9 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 <details markdown="1">
   <summary>Co musí splňovat časopis ✅</summary> 
 
- - [ ]&nbsp;podmínky vydavatele ponechávají majetková autorská práva autorce*ovi 
- - [ ]&nbsp;článek vyjde v časopise (Gold, Hybridním nebo Diamantovém) pod licencí CC BY 4.0 
- - [ ]&nbsp;vydavatel umožňuje bezodkladné (bez embarga) nahrání verze po recenzním řízení nebo finální verze článku do repozitáře pod licencí CC BY 4.0 
+ - [ ] &nbsp;podmínky vydavatele ponechávají majetková autorská práva autorce*ovi 
+ - [ ] &nbsp;článek vyjde v časopise (Gold, Hybridním nebo Diamantovém) pod licencí CC BY 4.0 
+ - [ ] &nbsp;vydavatel umožňuje bezodkladné (bez embarga) nahrání verze po recenzním řízení nebo finální verze článku do repozitáře pod licencí CC BY 4.0 
 
 ❗ Vydavatelé mají pro zelenou cestu různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se můžete obrátit na OS podporu. 
 
@@ -87,12 +87,12 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 <details markdown="1">
 <summary>Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅</summary> 
   
- - [ ]&nbsp;prokazatelně vznikl v rámci projektu: odeslání do časopisu po začátku projektu a uzavření smlouvy 
- - [ ]&nbsp;obsahuje poděkování projektu
- - [ ]&nbsp;má přiděleno DOI
- - [ ]&nbsp;verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 (platí pro zelenou i zlatou cestu)
- - [ ]&nbsp;má publikována podkladová data a je s nimi pomocí metadat propojen
- - [ ]&nbsp;splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a je/bude za instituci odveden
+ - [ ] &nbsp;prokazatelně vznikl v rámci projektu: odeslání do časopisu po začátku projektu a uzavření smlouvy 
+ - [ ] &nbsp;obsahuje poděkování projektu
+ - [ ] &nbsp;má přiděleno DOI
+ - [ ] &nbsp;verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 (platí pro zelenou i zlatou cestu)
+ - [ ] &nbsp;má publikována podkladová data a je s nimi pomocí metadat propojen
+ - [ ] &nbsp;splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a je/bude za instituci odveden
 
 </details>
 
