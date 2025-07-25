@@ -35,7 +35,7 @@ V odůvodněných případech je možné ponechat data uzavřená, zpřístupnit
 
 </details>
 
-## Kde data zveřejnit
+## Kde zveřejnit výzkumná data
 
 Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma vydavatele (supplement u článku), ani v případě, že má dataset takto přidělené DOI. 
 
@@ -49,6 +49,19 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 - [Figshare](https://figshare.com/): obecný repozitář, spravuje Digital Science Company
 - [Dataverse](https://dataverse.org/): obecný repozitář, spravuje Harvard
 - [Národní datový repozitář](https://data.narodni-repozitar.cz/): český obecný repozitář, spravuje CESNET
+
+</details>
+
+<details markdown="1">
+<summary>Co musí splňovat zveřejněná výzkumná data ✅</summary>
+
+- Neobsahují citlivé nebo osobní údaje v neanonymizované podobě.
+- Mají přidělen persistentní identifikátor (DOI, Handle).
+- Jsou uložena v důvěryhodném repozitáři pod jasně uvedenou licencí (CC 0, CC BY 4.0).
+- Jsou uložena ve vhodném formátu.
+- Jsou popsána bohatými metadaty.
+- Metadata jsou dostupná ve strojově čitelné podobě.
+- Pokud jde o podkladová data k publikaci, jsou s ní pomocí metadat propojena.
 
 </details>
 
@@ -76,19 +89,6 @@ FAIR principy přibližuje dokument [Jak FAIR jsou vaše výzkumná data](https:
 - [Linguistic Annotation Format](https://fairsharing.org/FAIRsharing.3cfa81) (LAF)
 - [Minimum Information about an fMRI Study](https://fairsharing.org/10.25504/FAIRsharing.s3swh2) (MIfMRI)
 - [Open Language Archives Community Metadata](https://fairsharing.org/FAIRsharing.17fbae) (OLAC Metadata)
-
-</details>
-
-<details markdown="1">
-<summary>Co musí splňovat zveřejněná výzkumná data ✅</summary>
-
-- Neobsahují citlivé nebo osobní údaje v neanonymizované podobě.
-- Mají přidělen persistentní identifikátor (DOI, Handle).
-- Jsou uložena v důvěryhodném repozitáři pod jasně uvedenou licencí (CC 0, CC BY 4.0).
-- Jsou uložena ve vhodném formátu.
-- Jsou popsána bohatými metadaty.
-- Metadata jsou dostupná ve strojově čitelné podobě.
-- Pokud jde o podkladová data k publikaci, jsou s ní pomocí metadat propojena.
 
 </details>
 

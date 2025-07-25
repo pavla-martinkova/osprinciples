@@ -10,6 +10,8 @@
 Řešíte problém? Součástí manuálu jsou postupy pro následující situace.
 - [Jak naplnit podmínku otevřeného přístupu k publikacím](https://pavla-martinkova.github.io/osprinciples/open-access#jak-naplnit-podmínku-otevřeného-přístupu)
 - [Jak postupovat při publikování článku](/osprinciples/open-access#jak-postupovat-při-publikování-článku)
+- [Jak nakládat s daty v průběhu projektu](/osprinciples/open-access#jak-nakladat-s-daty-v-průběhu-projektu)
+- [Kde zveřejnit výzkumná data](/osprinciples/open-access#kde-zveřejnit-výzkumná-data)
 
 > ✉️ V případě nejasností neváhejte s čímkoliv kontaktovat OS podporu: <br>
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>
