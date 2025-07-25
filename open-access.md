@@ -76,6 +76,8 @@ Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV.
   
  - Prokazatelně vznikl v rámci projektu – odeslání do časopisu po začátku projektu a uzavření smlouvy.
  - Obsahuje poděkování projektu.
+  - CZ: Tato práce vznikla za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj.
+  - ENG: This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
  - Má přiděleno DOI.
  - Verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 – platí pro zelenou i zlatou cestu.
  - Má publikována podkladová data a je s nimi pomocí metadat propojen.

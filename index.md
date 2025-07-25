@@ -32,3 +32,5 @@
 Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+<img src="/osprinciples/footer.png" alt="Poděkování projektu" style="width: 10%;">
