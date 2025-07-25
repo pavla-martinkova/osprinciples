@@ -106,6 +106,10 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 [Správa výzkumných dat ➡](/osprinciples/sprava-dat)
 
+---
+
+<img src="/osprinciples/footer.png" alt="Logo projektu" style="width: 60%;">
+
 Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
 
 This site was built using [GitHub Pages](https://pages.github.com/).

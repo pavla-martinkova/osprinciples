@@ -1,5 +1,7 @@
 [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy)
 
+<img src="/osprinciples/LOGO.png" alt="Neoficiální logo projektu" style="width: 20%;">
+
 # Manuál otevřené vědy pro projekt LangInLife
 
 Účastí na projektu jsme se zavázali naplňovat principy otevřené vědy představené v tomto manuálu.
@@ -10,7 +12,7 @@
 Řešíte problém? Součástí manuálu jsou postupy pro následující situace.
 - [Jak naplnit podmínku otevřeného přístupu k publikacím](https://pavla-martinkova.github.io/osprinciples/open-access#jak-naplnit-podmínku-otevřeného-přístupu)
 - [Jak postupovat při publikování článku](/osprinciples/sprava-dat#jak-postupovat-při-publikování-článku)
-- [Jak nakládat s daty v průběhu projektu](/osprinciples/sprava-dat#jak-nakladat-s-daty-v-průběhu-projektu)
+- [Jak nakládat s daty v průběhu projektu](/osprinciples/sprava-dat#jak-nakládat-s-daty-v-průběhu-projektu)
 - [Kde zveřejnit výzkumná data](/osprinciples/sprava-dat#kde-zveřejnit-výzkumná-data)
 - [Jaká poskytnout metadata k datovým sadám](/osprinciples/sprava-dat#jaká-poskytnout-metadata-k-datovým-sadám)
 
