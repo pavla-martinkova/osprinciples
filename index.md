@@ -15,7 +15,7 @@
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>
 > CC Mirjana Stanojević – stanojevic[at]phil.muni.cz
 
-<img src="/osprinciples/LOGO.png" alt="Neoficiální logo projektu" style="width: 30%;">
+<img src="/osprinciples/LOGO.png" alt="Neoficiální logo projektu" style="width: 10%;">
 
 ## Informace o otevřené vědě
 
