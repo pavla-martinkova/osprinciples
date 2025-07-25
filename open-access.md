@@ -101,14 +101,12 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 - Restriktivnější licence **CC BY-NC 4.0** nebo **CC BY-NC-ND 4.0** jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
 
 [Více informací o licencích Creative Commons](creativecommons.org/share-your-work/cclicenses)
-
----
-
+/
+/
+/
 [Správa výzkumných dat ➡](/osprinciples/sprava-dat)
 
 ---
-
-<img src="/osprinciples/footer.png" alt="Logo projektu" style="width: 60%;">
 
 Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
 

@@ -49,7 +49,9 @@ Občanská věda (Citizen Science) představuje zapojení dalších aktérů mim
 
 - [Ten Principles of Citizen Science – European Citizen Science Association (ECSA)](https://www.ecsa.ngo/10-principles/)
 
----
+/
+/
+/
 
 [⬅ Správa výzkumných dat](/osprinciples/sprava-dat) 
 

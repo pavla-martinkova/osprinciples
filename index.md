@@ -1,7 +1,5 @@
 [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy)
 
-<img src="/osprinciples/LOGO.png" alt="Neoficiální logo projektu" style="width: 20%;">
-
 # Manuál otevřené vědy pro projekt LangInLife
 
 Účastí na projektu jsme se zavázali naplňovat principy otevřené vědy představené v tomto manuálu.
