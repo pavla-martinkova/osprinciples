@@ -104,9 +104,10 @@ Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výz
 FAIR principy přibližuje dokument [Jak FAIR jsou vaše výzkumná data](https://zenodo.org/records/3739188).
 
 - [fairsharing.org](https://fairsharing.org/): databáze standardů, formátů a dalších zdrojů pro FAIR data
-/
-/
-/
+
+
+
+
 [⬅ Otevřený přístup k publikacím](/osprinciples/open-access) | [Další postupy otevřené vědy ➡](/osprinciples/dalsi-postupy) 
 
 ---
