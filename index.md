@@ -15,6 +15,8 @@
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>
 > CC Mirjana Stanojević – stanojevic[at]phil.muni.cz
 
+![image](/osprinciples/logo.png)
+
 ## Informace o otevřené vědě
 
 - [Open Science na MU](https://www.openscience.muni.cz)
