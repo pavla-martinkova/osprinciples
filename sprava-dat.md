@@ -4,7 +4,7 @@
 
 Nakládání s daty je popsáno v projektovém plánu správy dat (Data Management Plan, DMP).
 
-[Plán správy dat na Zenodo](...)
+[Plán správy dat na Zenodo](https://zenodo.org/records/16419711)
 
 ## Jak nakládat s daty v průběhu projektu
 
@@ -13,6 +13,8 @@ Tak, aby byla srozumitelná a dostupná i v případě odchodu klíčových prac
 - Konzistentní pojmenovávání souborů a složek.
 - Využívání bezpečných uložišť a zálohování, aby byla data uložena alespoň na dvou místech.
 - Udržování dokumentace, aby bylo jasné například co znamenají názvy sloupců v tabulce nebo použité zkratky.
+
+Při znovupoužití dat je potřeba dokumentovat filtrování nebo výběr, pokud nebude využit kompletní dataset.
 
 ## Jaká data je potřeba zveřejňovat
 
@@ -58,7 +60,7 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 - Neobsahují citlivé nebo osobní údaje v neanonymizované podobě.
 - Mají přidělen persistentní identifikátor (DOI, Handle).
 - Jsou uložena v důvěryhodném repozitáři pod jasně uvedenou licencí (CC 0, CC BY 4.0).
-- Jsou uložena ve vhodném formátu.
+- Jsou uložena ve vhodném formátu: - [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
 - Jsou popsána bohatými metadaty.
 - Metadata jsou dostupná ve strojově čitelné podobě.
 - Pokud jde o podkladová data k publikaci, jsou s ní pomocí metadat propojena.
@@ -74,7 +76,6 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 
 FAIR principy přibližuje dokument [Jak FAIR jsou vaše výzkumná data](https://zenodo.org/records/3739188)
 
-- [Přehledová tabulka podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
 - [fairsharing.org](https://fairsharing.org/): databáze standardů, formátů a dalších zdrojů pro FAIR data
 
 ## Metadata
