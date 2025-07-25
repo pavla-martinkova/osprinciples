@@ -2,7 +2,7 @@
 
 # Další postupy otevřené vědy
 
-Zavázali jsme se plnit i následující postupy otevřené vědy. Pokud využijete některou z níže uvedených možností (kromě ORCID), informujte OS podporu kvůli vykazování.
+Pokud využijete některou z níže uvedených možností (kromě ORCID), informujte OS podporu kvůli vykazování.
 
 ## Identifikátor ORCID
 
