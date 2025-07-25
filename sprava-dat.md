@@ -67,18 +67,20 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 
 </details>
 
-## FAIR principy
+## Jaká uvádět metadata
 
-- **F**indable – Data jsou nalezitelná lidmi i stroji díky popisným metadatům a persistentním identifikátorům.
-- **A**ccessible – Data jsou dostupná díky důvěryhodným repozitářům.
-- **I**nteroperable – Data jsou interoperabilní díky otevřeným formátům a používání standardů.
-- **R**eusable – Data jsou opětovně využitelná díky poskytnutí kontextu pomocí metadat a dokumentace.
-
-FAIR principy přibližuje dokument [Jak FAIR jsou vaše výzkumná data](https://zenodo.org/records/3739188)
-
-- [fairsharing.org](https://fairsharing.org/): databáze standardů, formátů a dalších zdrojů pro FAIR data
-
-## Metadata
+Na základě [Obecných doporučení pro metadatový popis výsledků výzkumu](https://doi.org/10.48813/yt6w-6h15) je potřeba uvést následující metadata:
+- název datové sady,
+- celá jména původců (autorů a přispěvatelů),
+- datum (plánovaného, v případě embarga) zveřejnění,
+- vydavatel (instituce nebo platforma),
+- srozumitelný popis datové sady,
+- informace o dostupnosti dat (časové embargo, licence a jiné údaje o dostupnosti),
+- trvalé identifikátory datové sady,
+- informace o financování (poskytovatel financí a číslo projektu),
+- trvalé identifikátory osob (ORCID) a organizací,
+- zařazení do vědní klasifikace podle oborů,
+- klíčová slova.
 
 <details markdown="1"> 
 <summary>Relevantní metadatové standardy</summary>
@@ -91,6 +93,17 @@ FAIR principy přibližuje dokument [Jak FAIR jsou vaše výzkumná data](https:
 - [Open Language Archives Community Metadata](https://fairsharing.org/FAIRsharing.17fbae) (OLAC Metadata)
 
 </details>
+
+## FAIR principy
+
+- **F**indable – Data jsou nalezitelná lidmi i stroji díky popisným metadatům a persistentním identifikátorům.
+- **A**ccessible – Data jsou dostupná díky důvěryhodným repozitářům.
+- **I**nteroperable – Data jsou interoperabilní díky otevřeným formátům a používání standardů.
+- **R**eusable – Data jsou opětovně využitelná díky poskytnutí kontextu pomocí metadat a dokumentace.
+
+FAIR principy přibližuje dokument [Jak FAIR jsou vaše výzkumná data](https://zenodo.org/records/3739188)
+
+- [fairsharing.org](https://fairsharing.org/): databáze standardů, formátů a dalších zdrojů pro FAIR data
 
 ---
 
