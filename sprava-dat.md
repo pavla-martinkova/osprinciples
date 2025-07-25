@@ -67,7 +67,7 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 
 </details>
 
-## Jaká uvádět metadata
+## Jaká poskytnout metadata k datovým sadám
 
 Na základě [Obecných doporučení pro metadatový popis výsledků výzkumu](https://doi.org/10.48813/yt6w-6h15) je potřeba uvést následující metadata:
 - název datové sady,
