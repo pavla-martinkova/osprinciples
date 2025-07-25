@@ -1,14 +1,12 @@
-title: Open Science principles in LangInLife project
-description: Reference manual for researchers and administrators
+title: Otevřená věda v projektu LangInLife
+description: Manuál pro vědkyně\*ce a administrativu
 
-# Use GitHub's markdown processor
 markdown: kramdown
 kramdown:
   input: GFM
 
-# Enable GitHub-flavored markdown features
 plugins:
   - jekyll-gfm
 
-site.baseurl: "/osprinciples" 
+baseurl: "/osprinciples" 
 url: "https://pavla-martinkova.github.io" 
