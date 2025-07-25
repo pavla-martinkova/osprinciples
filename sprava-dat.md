@@ -92,9 +92,9 @@ FAIR principy přibližuje dokument [Jak FAIR jsou vaše výzkumná data](https:
 
 </details>
 
-[⬅ Otevřený přístup k publikacím](/osprinciples/open-access) | [Další postupy otevřené vědy ➡](/osprinciples/dalsi-postupy) 
-
 ---
+
+[⬅ Otevřený přístup k publikacím](/osprinciples/open-access) | [Další postupy otevřené vědy ➡](/osprinciples/dalsi-postupy) 
 
 Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
 

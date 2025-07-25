@@ -16,6 +16,8 @@ Autorky\*ři budou mít zřízený identifikátor ORCID a budou jej uvádět u s
 
 Aby se publikace vyplněné v ISu zobrazovaly v ORCID profilu, je nutno udělit MU souhlas v sekci [Identifikátory osob (IS)](https://is.muni.cz/auth/publikace/identifikatory_osob). Pak lze zvolit, jaký typ publikací se budou přenášet, nebo je vybrat ručně ve [Správě publikací (IS)](https://is.muni.cz/auth/publications?orcid=1).
 
+</details>
+
 ## Včasné sdílení výsledků výzkumu
 
 **Preprinty**
@@ -50,9 +52,9 @@ Občanská věda (Citizen Science) představuje zapojení dalších aktérů mim
 
 - [Ten Principles of Citizen Science – European Citizen Science Association (ECSA)](https://www.ecsa.ngo/10-principles/)
 
-[⬅ Správa výzkumných dat](osprinciples/sprava-dat) 
-
 ---
+
+[⬅ Správa výzkumných dat](osprinciples/sprava-dat) 
 
 Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
 
