@@ -52,7 +52,7 @@ Občanská věda (Citizen Science) představuje zapojení dalších aktérů mim
 
 
 
-[⬅ Správa výzkumných dat](/osprinciples/sprava-dat) 
+[⬅ Správa výzkumných dat](/osprinciples/sprava-dat) | [Home ➡](/osprinciples) 
 
 ---
 

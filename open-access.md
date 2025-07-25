@@ -105,7 +105,7 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 
 
-[Správa výzkumných dat ➡](/osprinciples/sprava-dat)
+[⬅ Home](/osprinciples) | [Správa výzkumných dat ➡](/osprinciples/sprava-dat)
 
 ---
 
