@@ -51,7 +51,7 @@ Občanská věda (Citizen Science) představuje zapojení dalších aktérů mim
 
 ---
 
-[⬅ Správa výzkumných dat](osprinciples/sprava-dat) 
+[⬅ Správa výzkumných dat](/osprinciples/sprava-dat) 
 
 Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
 
