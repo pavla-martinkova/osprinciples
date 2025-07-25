@@ -2,7 +2,7 @@
 
 # Další postupy otevřené vědy
 
-Zavázali jsme se plnit i následující tzv. nepovinné postupy otevřené vědy, čímž se staly povinnými. Pokud využijete některou z níže uvedených možností (krom ORCID), informujte OS podporu kvůli vykazování.
+Zavázali jsme se plnit i následující postupy otevřené vědy. Pokud využijete některou z níže uvedených možností (kromě ORCID), informujte OS podporu kvůli vykazování.
 
 ## Identifikátor ORCID
 
@@ -20,18 +20,18 @@ Aby se publikace vyplněné v ISu zobrazovaly v ORCID profilu, je nutno udělit 
 
 ## Včasné sdílení výsledků výzkumu
 
-**Preprinty**
+### Preprinty
 
 Autorky\*ři budou „v relevantních případech“ sdílet články ve verzi před recenzním řízením, pokud to není v rozporu s podmínkami zvoleného časopisu.
 
 - [Rejstřík preprintových serverů ASAPbio](https://asapbio.org/preprint-servers)
 - [Server pro lingvistiku Lingbuzz](https://lingbuzz.net/)
 
-**Předregistrace výzkumu**
+### Předregistrace výzkumu
 
 Předregistrace výzkumu (hypotéz, metodologie) zajistí větší transparentnost. Ve studii proveditelnosti bylo slíbeno využití platformy [Open Science Framework (OSF)](https://osf.io/)
 
-**Včasné sdílení dat**
+### Včasné sdílení dat
 
 Sdílení dat v důvěryhodném repozitáři ještě před zveřejněním daného článku.
 
@@ -41,10 +41,7 @@ Pokud časopis nabízí otevřené recenzní řízení, měli bychom tuto možno
 
 ## Zveřejňování výzkumných zpráv
 
-Výzkumné zprávy budou
-- opatřeny persistentním identifikátorem,
-- vloženy do institucionálních repozitářů partnerů,
-- odkazovány na webu projektu.
+Výzkumné zprávy budou opatřeny persistentním identifikátorem,vloženy do institucionálních repozitářů partnerů a odkazovány na webu projektu.
 
 ## Občanská věda
 
