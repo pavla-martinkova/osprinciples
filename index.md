@@ -17,8 +17,6 @@
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>
 > CC Mirjana Stanojević – stanojevic[at]phil.muni.cz
 
-<img src="/osprinciples/LOGO.png" alt="Neoficiální logo projektu" style="width: 10%;">
-
 ## Informace o otevřené vědě
 
 - [Open Science na MU](https://www.openscience.muni.cz)
@@ -33,4 +31,4 @@ Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-H
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-<img src="/osprinciples/footer.png" alt="Poděkování projektu" style="width: 10%;">
+<img src="/osprinciples/footer.png" alt="Poděkování projektu" style="width: 50%;">
