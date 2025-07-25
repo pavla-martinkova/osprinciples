@@ -67,11 +67,10 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 
 ## FAIR principy
 
-Výzkumná data mají být:
-- **F**indable <br>Nalezitelná lidmi i stroji díky popisným metadatům a persistentním identifikátorům.
-- **A**ccessible <br> Dostupná díky důvěryhodným repozitářům.
-- **I**nteroperable <br> Interoperabilní díky otevřeným formátům a používání standardů.
-- **R**eusable <br> Opětovně využitelná díky poskytnutí kontextu pomocí metadat a dokumentace.
+- **F**indable – Data jsou nalezitelná lidmi i stroji díky popisným metadatům a persistentním identifikátorům.
+- **A**ccessible – Data jsou dostupná díky důvěryhodným repozitářům.
+- **I**nteroperable – Data jsou interoperabilní díky otevřeným formátům a používání standardů.
+- **R**eusable – Data jsou opětovně využitelná díky poskytnutí kontextu pomocí metadat a dokumentace.
 
 FAIR principy přibližuje dokument [Jak FAIR jsou vaše výzkumná data](https://zenodo.org/records/3739188)
 
