@@ -29,7 +29,7 @@ Autorky\*ři budou „v relevantních případech“ sdílet články ve verzi p
 
 ### Předregistrace výzkumu
 
-Předregistrace výzkumu (hypotéz, metodologie) zajistí větší transparentnost. Ve studii proveditelnosti bylo slíbeno využití platformy [Open Science Framework (OSF)](https://osf.io/)
+Předregistrace výzkumu (hypotéz, metodologie) zajistí větší transparentnost. Ve studii proveditelnosti bylo slíbeno využití platformy [Open Science Framework (OSF)](https://osf.io/).
 
 ### Včasné sdílení dat
 
@@ -56,3 +56,5 @@ Občanská věda (Citizen Science) představuje zapojení dalších aktérů mim
 Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+[Otevřená věda v projektu LangInLife](https://pavla-martinkova.github.io/osprinciples/) © 2025 by Pavla Martinková is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

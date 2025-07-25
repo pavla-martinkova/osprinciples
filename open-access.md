@@ -109,3 +109,5 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+[Otevřená věda v projektu LangInLife](https://pavla-martinkova.github.io/osprinciples/) © 2025 by Pavla Martinková is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
