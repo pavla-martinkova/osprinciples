@@ -12,7 +12,7 @@
 - [Jak postupovat při publikování článku](/osprinciples/sprava-dat#jak-postupovat-při-publikování-článku)
 - [Jak nakládat s daty v průběhu projektu](/osprinciples/sprava-dat#jak-nakladat-s-daty-v-průběhu-projektu)
 - [Kde zveřejnit výzkumná data](/osprinciples/sprava-dat#kde-zveřejnit-výzkumná-data)
-- [Jaká poskytnout metadata k datovým sadám]((/osprinciples/sprava-dat#jaká-poskytnout-metadata))
+- [Jaká poskytnout metadata k datovým sadám](/osprinciples/sprava-dat#jaká-poskytnout-metadata)
 
 > ✉️ V případě nejasností neváhejte s čímkoliv kontaktovat OS podporu: <br>
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>
