@@ -46,11 +46,11 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 <details markdown="1"> 
 <summary>Obecné důvěryhodné repozitáře</summary>
 
-- [Zenodo](https://zenodo.org/): obecný repozitář, spravuje CERN
-  - Komunitě projektu, ke které lze výstupy přiřadit: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
-- [Figshare](https://figshare.com/): obecný repozitář, spravuje Digital Science Company
-- [Dataverse](https://dataverse.org/): obecný repozitář, spravuje Harvard
-- [Národní datový repozitář](https://data.narodni-repozitar.cz/): český obecný repozitář, spravuje CESNET
+- [Zenodo](https://zenodo.org/) spravuje CERN
+  - Komunita projektu, ke které lze výstupy přiřadit: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
+- [Figshare](https://figshare.com/) spravuje Digital Science Company
+- [Dataverse](https://dataverse.org/) spravuje Harvard
+- [Národní datový repozitář](https://data.narodni-repozitar.cz/) spravuje CESNET
 
 </details>
 
