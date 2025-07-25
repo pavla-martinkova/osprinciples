@@ -69,18 +69,17 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 
 ## Jaká poskytnout metadata k datovým sadám
 
-Na základě [Obecných doporučení pro metadatový popis výsledků výzkumu](https://doi.org/10.48813/yt6w-6h15) je potřeba uvést následující metadata:
-- název datové sady,
-- celá jména původců (autorů a přispěvatelů),
-- datum (plánovaného, v případě embarga) zveřejnění,
-- vydavatel (instituce nebo platforma),
-- srozumitelný popis datové sady,
-- informace o dostupnosti dat (časové embargo, licence a jiné údaje o dostupnosti),
-- trvalé identifikátory datové sady,
-- informace o financování (poskytovatel financí a číslo projektu),
-- trvalé identifikátory osob (ORCID) a organizací,
-- zařazení do vědní klasifikace podle oborů,
-- klíčová slova.
+Na základě [Obecných doporučení pro metadatový popis výsledků výzkumu](https://doi.org/10.48813/yt6w-6h15) je potřeba uvést následující metadata.
+- Název datové sady, srozumitelný sám o sobě (ne Data k článku)
+- Celá jména původců (autorů a přispěvatelů) a jejich trvalý identifikátor (ORCID)
+- Datum (plánovaného, v případě embarga) zveřejnění
+- Vydavatel a jeho trvalý identifikátor (ROR)
+- Srozumitelný popis datové sady
+- Informace o dostupnosti dat (časové embargo, licence a další údaje)
+- Trvalé identifikátory datové sady
+- Informace o financování (poskytovatel financí a číslo projektu)
+- Zařazení do vědní klasifikace podle oborů
+- Klíčová slova
 
 <details markdown="1"> 
 <summary>Relevantní metadatové standardy</summary>
