@@ -102,10 +102,9 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 [Více informací o licencích Creative Commons](creativecommons.org/share-your-work/cclicenses)
 
-|---:|
-| [Správa výzkumných dat ➡](/osprinciples/sprava-dat) |
-
 ---
+
+[Správa výzkumných dat ➡](/osprinciples/sprava-dat)
 
 Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
 
