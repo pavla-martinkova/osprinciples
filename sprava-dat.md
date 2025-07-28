@@ -44,8 +44,9 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 - [re3data.org](https://www.re3data.org/): rejstřík datových repozitářů s možností vyhledávání a filtrování
 
 <details markdown="1"> 
-<summary>Obecné důvěryhodné repozitáře</summary>
+<summary>Doporučené důvěryhodné repozitáře</summary>
 
+  Pokud neexistuje vhodný oborový repozitář, lze využít repozitáře obecné.
 - [Zenodo](https://zenodo.org/) spravuje CERN
   - Komunita projektu, ke které lze výstupy přiřadit: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
 - [Figshare](https://figshare.com/) spravuje Digital Science Company
@@ -60,7 +61,7 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 - Neobsahují citlivé nebo osobní údaje v neanonymizované podobě.
 - Mají přidělen persistentní identifikátor (DOI, Handle).
 - Jsou uložena v důvěryhodném repozitáři pod jasně uvedenou licencí (CC 0, CC BY 4.0).
-- Jsou uložena ve vhodném formátu: - [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
+- Jsou uložena ve vhodném formátu: [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
 - Jsou popsána bohatými metadaty.
 - Metadata jsou dostupná ve strojově čitelné podobě.
 - Pokud jde o podkladová data k publikaci, jsou s ní pomocí metadat propojena.
@@ -103,7 +104,7 @@ Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výz
 
 FAIR principy přibližuje dokument [Jak FAIR jsou vaše výzkumná data](https://zenodo.org/records/3739188).
 
-- [fairsharing.org](https://fairsharing.org/): databáze standardů, formátů a dalších zdrojů pro FAIR data
+- [FAIRsharing.org](https://fairsharing.org/): databáze standardů, formátů a dalších zdrojů pro FAIR data
 
 
 
