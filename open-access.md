@@ -26,10 +26,9 @@ Publikace musí být zároveň neprodleně po dni publikování nahrána do dův
 
 <details markdown="1">
   <summary>Jak uhradit APC (Article Processing Charge)</summary> 
-  
-- Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib.
-- Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, ale je možné využít plošných slev a odpuštění poplatků.
-- [Více informací o smlouvách v projektu Czechelib](czechelib.cz/cs/419-instrukce-pro-autory)
+
+  Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib – [instrukce pro autory](czechelib.cz/cs/419-instrukce-pro-autory).
+- Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, je možné využít plošných slev a odpuštění poplatků.
 
 </details>
 
@@ -44,7 +43,7 @@ Uznatelné verze článku pro nahrání do repozitáře:
 ## Jak postupovat při publikování článku
 
 ### 1) Výběr časopisu
-Seznámení se s podmínkami vydavatele.
+Seznámení se s podmínkami vydavatele. Informování administrátorky\*ra o případném APC poplatku a zajištění financí.
 
 <details markdown="1">
   <summary>Co musí splňovat časopis ✅</summary> 
@@ -58,9 +57,7 @@ Seznámení se s podmínkami vydavatele.
 ### 2) Odeslání článku do recenzního řízení 
 Vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení. To nesmí předcházet datu uzavření smlouvy s projektem.
 
-Pokud to vydavatel umožňuje, volba otevřného recenzního řízení.
-
-Informování administrátorky\*ra o případném APC poplatku. 
+Pokud to vydavatel umožňuje, volba otevřeného recenzního řízení.
 
 ### 3) Přijetí článku k publikaci 
 Informování administrátorky\*ra o přijetí článku a předpokládaném datu zveřejnění.
