@@ -15,8 +15,8 @@
 - [Jaká poskytnout metadata k datovým sadám](/osprinciples/sprava-dat#jaká-poskytnout-metadata-k-datovým-sadám)
 
 > ✉️ V případě nejasností neváhejte s čímkoliv kontaktovat OS podporu: <br>
-> Pavla Martinková – martinkova[at]phil.muni.cz <br>
-> CC Mirjana Stanojević – stanojevic[at]phil.muni.cz
+> Pavla Martinková – martinkova@phil.muni.cz <br>
+> CC Mirjana Stanojević – stanojevic@phil.muni.cz
 
 ## Informace o otevřené vědě
 
