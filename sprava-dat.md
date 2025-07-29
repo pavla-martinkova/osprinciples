@@ -37,11 +37,14 @@ V odůvodněných případech je možné ponechat data uzavřená, zpřístupnit
 
 </details>
 
-## Kde zveřejnit výzkumná data
+## Kde a jak zveřejnit výzkumná data
 
-Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma vydavatele (supplement u článku), ani v případě, že má dataset takto přidělené DOI. 
+Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma vydavatele (supplement u článku), ani v případě, že má dataset takto přidělené DOI.
+
+Data musí být uložena ve vhodném formátu a dostatečně popsána metadaty, ideálně podle oborových standardů. Dostatečná dokumentace zajistí srozumitelnost dat pro další využití.
 
 - [re3data.org](https://www.re3data.org/): rejstřík datových repozitářů s možností vyhledávání a filtrování
+- [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
 
 <details markdown="1"> 
 <summary>Doporučené důvěryhodné repozitáře</summary>
@@ -55,7 +58,8 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 
 </details>
 
-## Jaká poskytnout metadata k datovým sadám
+<details markdown="1"> 
+<summary>Jaká poskytnout metadata k datovým sadám</summary>
 
 - Název datové sady, srozumitelný sám o sobě (ne Data k článku)
 - Celá jména původců (autorů a přispěvatelů) a jejich trvalý identifikátor (ORCID)
@@ -69,6 +73,8 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 - Klíčová slova
 
 Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výzkumu (NTK)](https://doi.org/10.48813/yt6w-6h15).
+
+</details>
 
 <details markdown="1"> 
 <summary>Relevantní metadatové standardy</summary>
@@ -87,7 +93,7 @@ Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výz
 - Neobsahují citlivé nebo osobní údaje v neanonymizované podobě.
 - Mají přidělen persistentní identifikátor (DOI, Handle).
 - Jsou uložena v důvěryhodném repozitáři pod jasně uvedenou licencí (CC 0, CC BY 4.0).
-- Jsou uložena ve vhodném formátu: [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
+- Jsou uložena ve vhodném formátu.
 - Jsou popsána bohatými metadaty.
 - Metadata jsou dostupná ve strojově čitelné podobě.
 - Pokud jde o podkladová data k publikaci, jsou s ní pomocí metadat propojena.
