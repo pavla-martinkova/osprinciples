@@ -44,6 +44,7 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 Data musí být uložena ve vhodném formátu a dostatečně popsána metadaty, ideálně podle oborových standardů. Dostatečná dokumentace zajistí srozumitelnost dat pro další využití.
 
 [re3data.org](https://www.re3data.org/): rejstřík datových repozitářů s možností vyhledávání a filtrování
+
 [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
 
 <details markdown="1"> 
