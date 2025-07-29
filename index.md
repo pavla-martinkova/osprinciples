@@ -14,8 +14,8 @@
 - [Kde a jak zveřejnit výzkumná data](/osprinciples/sprava-dat#kde-a-jakzveřejnit-výzkumná-data)
 
 Užitečné mohou být také následující kontrolní seznamy.
-- [Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅](/osprinciples/open-access#Co-musí-splňovat-článek,-aby-byl-uznatelný-jako-výstup-projektu-✅)
-- [Co musí splňovat zveřejněná výzkumná data ✅](/osprinciples/sprava-dat#Co-musí-splňovat-zveřejněná-výzkumná-data-✅)
+- [Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅](/osprinciples/open-access#co-musí-splňovat-článek-aby-byl-uznatelný-jako-výstup-projektu-)
+- [Co musí splňovat zveřejněná výzkumná data ✅](/osprinciples/sprava-dat#co-musí-splňovat-zveřejněná-výzkumná-data-)
 
 > ✉️ V případě nejasností neváhejte s čímkoliv kontaktovat OS podporu: <br>
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>
