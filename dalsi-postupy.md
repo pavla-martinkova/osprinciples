@@ -8,7 +8,7 @@ Pokud využijete některou z níže uvedených možností (kromě ORCID), inform
 
 Autorky\*ři budou mít zřízený identifikátor ORCID a budou jej uvádět u svých výstupů.
 
-- [orcid.org](https://orcid.org/)
+[orcid.org](https://orcid.org/)
 
 <details markdown="1">
 
@@ -24,8 +24,8 @@ Aby se publikace vyplněné v ISu zobrazovaly v ORCID profilu, je nutno udělit 
 
 Autorky\*ři budou „v relevantních případech“ sdílet články ve verzi před recenzním řízením, pokud to není v rozporu s podmínkami zvoleného časopisu.
 
-- [Rejstřík preprintových serverů ASAPbio](https://asapbio.org/preprint-servers)
-- [Server pro lingvistiku Lingbuzz](https://lingbuzz.net/)
+[Rejstřík preprintových serverů ASAPbio](https://asapbio.org/preprint-servers)
+[Server pro lingvistiku Lingbuzz](https://lingbuzz.net/)
 
 ### Předregistrace výzkumu
 
