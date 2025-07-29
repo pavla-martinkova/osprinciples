@@ -84,13 +84,13 @@ Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výz
 
 ## Co musí splňovat zveřejněná výzkumná data ✅
 
-- [ ] Neobsahují citlivé nebo osobní údaje v neanonymizované podobě.
-- [ ] Mají přidělen persistentní identifikátor (DOI, Handle).
-- [ ] Jsou uložena v důvěryhodném repozitáři pod jasně uvedenou licencí (CC 0, CC BY 4.0).
-- [ ] Jsou uložena ve vhodném formátu: [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
-- [ ] Jsou popsána bohatými metadaty.
-- [ ] Metadata jsou dostupná ve strojově čitelné podobě.
-- [ ] Pokud jde o podkladová data k publikaci, jsou s ní pomocí metadat propojena.
+- Neobsahují citlivé nebo osobní údaje v neanonymizované podobě.
+- Mají přidělen persistentní identifikátor (DOI, Handle).
+- Jsou uložena v důvěryhodném repozitáři pod jasně uvedenou licencí (CC 0, CC BY 4.0).
+- Jsou uložena ve vhodném formátu: [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
+- Jsou popsána bohatými metadaty.
+- Metadata jsou dostupná ve strojově čitelné podobě.
+- Pokud jde o podkladová data k publikaci, jsou s ní pomocí metadat propojena.
 
 ## FAIR principy
 
