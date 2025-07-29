@@ -47,12 +47,8 @@ Výzkumné zprávy budou opatřeny persistentním identifikátorem,vloženy do i
 
 Občanská věda (Citizen Science) představuje zapojení dalších aktérů mimo vědeckých pracovníků do různých fází vědeckého výzkumu. To může zahrnovat formulaci výzkumné otázky, návrh metod, shromažďování a vyhodnocování dat i prezentování výsledků. Zapojení občanských vědců je uvedeno v poděkování.
 
-- [Ten Principles of Citizen Science – European Citizen Science Association (ECSA)](https://www.ecsa.ngo/10-principles/)
+[Ten Principles of Citizen Science – European Citizen Science Association (ECSA)](https://www.ecsa.ngo/10-principles/)
 
-
-
-
-[⬅ Správa výzkumných dat](/osprinciples/sprava-dat) | [Home ➡](/osprinciples) 
 
 ---
 
