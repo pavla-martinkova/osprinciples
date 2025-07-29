@@ -78,7 +78,7 @@ Nic jiného se nezaškrtává, pokud nejde o kombinaci financování.
 
 </details>
 
-## Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅
+## Co musí splňovat článek, aby byl uznatelný jako výstup projektu
   
 - Prokazatelně vznikl v rámci projektu – odeslání do časopisu po začátku projektu a uzavření smlouvy.
 - Má přiděleno DOI.

@@ -11,11 +11,11 @@
 - [Jak naplnit podmínku otevřeného přístupu k publikacím](https://pavla-martinkova.github.io/osprinciples/open-access#jak-naplnit-podmínku-otevřeného-přístupu)
 - [Jak postupovat při publikování článku](/osprinciples/open-access#jak-postupovat-při-publikování-článku)
 - [Jak nakládat s daty v průběhu projektu](/osprinciples/sprava-dat#jak-nakládat-s-daty-v-průběhu-projektu)
-- [Kde a jak zveřejnit výzkumná data](/osprinciples/sprava-dat#kde-a-jakzveřejnit-výzkumná-data)
+- [Kde a jak zveřejnit výzkumná data](/osprinciples/sprava-dat#kde-a-jak-zveřejnit-výzkumná-data)
 
 Užitečné mohou být také následující kontrolní seznamy.
-- [Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅](/osprinciples/open-access#co-musí-splňovat-článek-aby-byl-uznatelný-jako-výstup-projektu-)
-- [Co musí splňovat zveřejněná výzkumná data ✅](/osprinciples/sprava-dat#co-musí-splňovat-zveřejněná-výzkumná-data-)
+- [Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅](/osprinciples/open-access#co-musí-splňovat-článek-aby-byl-uznatelný-jako-výstup-projektu)
+- [Co musí splňovat zveřejněná výzkumná data ✅](/osprinciples/sprava-dat#co-musí-splňovat-zveřejněná-výzkumná-data)
 
 > ✉️ V případě nejasností neváhejte s čímkoliv kontaktovat OS podporu: <br>
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>

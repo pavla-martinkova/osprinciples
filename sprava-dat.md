@@ -88,7 +88,7 @@ Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výz
 
 </details>
 
-## Co musí splňovat zveřejněná výzkumná data ✅
+## Co musí splňovat zveřejněná výzkumná data
 
 - Neobsahují citlivé nebo osobní údaje v neanonymizované podobě.
 - Mají přidělen persistentní identifikátor (DOI, Handle).
