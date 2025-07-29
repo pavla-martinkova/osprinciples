@@ -69,18 +69,6 @@ Pokud to podmínky vydavatele dovolují, lze data nahrát ještě před publikov
 Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV.
 
 <details markdown="1">
-<summary>Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅</summary> 
-  
- - Prokazatelně vznikl v rámci projektu – odeslání do časopisu po začátku projektu a uzavření smlouvy.
- - Obsahuje poděkování projektu – Tato práce vznikla za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj. / This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
-  - Má přiděleno DOI.
- - Verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 – platí pro zelenou i zlatou cestu.
- - Má publikována podkladová data a je s nimi pomocí metadat propojen.
- - Splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a bude za instituci odveden.
-
-</details>
-
-<details markdown="1">
 <summary>Pro MU: Jak vyplnit záznam pro RIV</summary>
 
 Při vytváření záznamu [v aplikaci Publikace (IS)](https://is.muni.cz/auth/publikace) je pro zajištění návaznosti na projekt v příslušné sekci potřeba vložit dva kódy:
@@ -89,6 +77,17 @@ Při vytváření záznamu [v aplikaci Publikace (IS)](https://is.muni.cz/auth/p
 Nic jiného se nezaškrtává, pokud nejde o kombinaci financování.
 
 </details>
+
+## Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅
+  
+- [] Prokazatelně vznikl v rámci projektu – odeslání do časopisu po začátku projektu a uzavření smlouvy.
+- [] Obsahuje poděkování projektu 
+  - Tato práce vznikla za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj.
+  - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
+- [] Má přiděleno DOI.
+- [] Verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 – platí pro zelenou i zlatou cestu.
+- [] Má publikována podkladová data a je s nimi pomocí metadat propojen.
+- [] Splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a bude za instituci odveden.
 
 ## Creative Commons licence
 

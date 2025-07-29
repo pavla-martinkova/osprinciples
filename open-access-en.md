@@ -1,21 +1,21 @@
 [Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) 
 
-# Otevřený přístup k publikacím (Open Access, OA)
+# Open Access to publications (OA)
 
-Otevřený přístup v OP JAK je: 
-- **Bezplatný** – zdarma pro koncové uživatele
-- **Neomezený** – umožněno opětovné využití díky licencím 
-- **Okamžitý** – zpřístupnění bez časového embarga
+Open Access according to OP JAK is: 
+- **Free** – outcomes are freely available to end users
+- **Unlimited** – outcomes are reusable thanks to licenses 
+- **Immediate** – access is provided without time embargo
 
-Povinný je OA pro všechny publikační výstupy typu: 
-- **J, recenzovaný odborný článek** – zahrnuje article (původní článek), review (přehledový článek) a letter (krátké sdělení) 
-- **B, odborná kniha**
-- **C, kapitola v odborné knize**
-- **D, stať ve sborníku**
+Mandatory OA for all publication outputs of the type: 
+- **J, peer-reviewed article** – includes article, review and letter 
+- **B, peer-reviewed book**
+- **C, chapter in a peer-reviewed book**
+- **D, paper in proceedings**
 
-U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA doporučený a vítaný. 
+For other types of outputs (**O, conference presentations, posters**), OA is recommended and welcome.
 
-## Jak naplnit podmínku otevřeného přístupu
+## How to meet the OA condition
 
 ### 1) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (Zlatá cesta)
 Publikace musí být zároveň neprodleně po dni publikování nahrána do důvěryhodného repozitáře pod stejnou licencí.

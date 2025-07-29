@@ -1,36 +1,35 @@
-[Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy)
+[Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science principles](/osprinciples/dalsi-postupy-en)
 
-# Manuál otevřené vědy pro projekt LangInLife
+# Open Science manual for LangInLife project 
 
-Účastí na projektu jsme se zavázali naplňovat principy otevřené vědy představené v tomto manuálu.
-- [Otevřený přístup k publikacím](/osprinciples/open-access)
-- [Správa výzkumných dat](/osprinciples/sprava-dat)
-- [Další postupy otevřené vědy](/osprinciples/dalsi-postupy)
+By participating on the project, we committed to open science principles which are presented in this manual. 
+- [Open Access to publications](/osprinciples/open-access-en)
+- [Research data management](/osprinciples/sprava-dat-en)
+- [Other open science principles](/osprinciples/dalsi-postupy-en)
 
-Řešíte problém? Součástí manuálu jsou postupy pro následující situace.
-- [Jak naplnit podmínku otevřeného přístupu k publikacím](https://pavla-martinkova.github.io/osprinciples/open-access#jak-naplnit-podmínku-otevřeného-přístupu)
-- [Jak postupovat při publikování článku](/osprinciples/sprava-dat#jak-postupovat-při-publikování-článku)
-- [Jak nakládat s daty v průběhu projektu](/osprinciples/sprava-dat#jak-nakládat-s-daty-v-průběhu-projektu)
-- [Kde zveřejnit výzkumná data](/osprinciples/sprava-dat#kde-zveřejnit-výzkumná-data)
-- [Jaká poskytnout metadata k datovým sadám](/osprinciples/sprava-dat#jaká-poskytnout-metadata-k-datovým-sadám)
+Are you dealing with a specific issue? Step-by-step procedures for following situations are included.
+- [Jak naplnit podmínku otevřeného přístupu k publikacím](https://pavla-martinkova.github.io/osprinciples/open-access-en)
+- [Jak postupovat při publikování článku](/osprinciples/sprava-dat-en)
+- [Jak nakládat s daty v průběhu projektu](/osprinciples/sprava-dat-en)
+- [Kde zveřejnit výzkumná data](/osprinciples/sprava-dat-en)
+- [Jaká poskytnout metadata k datovým sadám](/osprinciples/sprava-dat-en)
 
-> ✉️ V případě nejasností neváhejte s čímkoliv kontaktovat OS podporu: <br>
+> ✉️ Do not hesitate to contact OS support <br>
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>
 > CC Mirjana Stanojević – stanojevic[at]phil.muni.cz
 
-## Informace o otevřené vědě
+## Resources on Open Science
 
-- [Open Science na MU](https://www.openscience.muni.cz)
-- [Open Science na UK](https://openscience.cuni.cz)
-- [Národní platforma Open Science](https://openscience.cz/cs/)
-- [Příručka Otevřená věda OP JAK](https://opjak.cz/dokumenty/otevrena-veda/)
-- [Metodický výklad Otevřená věda v OP JAK](https://opjak.cz/aktuality/metodicky-vyklad-otevrena-veda-pro-projekty-vyzvy-02_22_008-spickovy-vyzkum/)
+- [Open Science @ MU](https://www.openscience.muni.cz/en)
+- [Open Science @ UK](https://openscience.cuni.cz/en)
+- [Národní platforma Open Science (Czech only)](https://openscience.cz)
+- [Open Science policy for OP JAK/P JAC projects](https://opjak.cz/wp-content/uploads/2025/07/P-JAC-Open-Science-Policy.pdf)
 
 ---
 
-<img src="/osprinciples/footer.png" alt="Logo projektu" style="width: 60%;">
+<img src="/osprinciples/footer.png" alt="Logo" style="width: 60%;">
 
-Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
+Text is based on the Methodology for Open Science in.  [the RES-HUM project](https://reshum.muni.cz).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
