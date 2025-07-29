@@ -55,19 +55,6 @@ Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma
 
 </details>
 
-<details markdown="1">
-<summary>Co musí splňovat zveřejněná výzkumná data ✅</summary>
-
-- Neobsahují citlivé nebo osobní údaje v neanonymizované podobě.
-- Mají přidělen persistentní identifikátor (DOI, Handle).
-- Jsou uložena v důvěryhodném repozitáři pod jasně uvedenou licencí (CC 0, CC BY 4.0).
-- Jsou uložena ve vhodném formátu: [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
-- Jsou popsána bohatými metadaty.
-- Metadata jsou dostupná ve strojově čitelné podobě.
-- Pokud jde o podkladová data k publikaci, jsou s ní pomocí metadat propojena.
-
-</details>
-
 ## Jaká poskytnout metadata k datovým sadám
 
 - Název datové sady, srozumitelný sám o sobě (ne Data k článku)
@@ -94,6 +81,16 @@ Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výz
 - [Open Language Archives Community Metadata](https://fairsharing.org/FAIRsharing.17fbae) (OLAC Metadata)
 
 </details>
+
+## Co musí splňovat zveřejněná výzkumná data ✅
+
+- [ ] Neobsahují citlivé nebo osobní údaje v neanonymizované podobě.
+- [ ] Mají přidělen persistentní identifikátor (DOI, Handle).
+- [ ] Jsou uložena v důvěryhodném repozitáři pod jasně uvedenou licencí (CC 0, CC BY 4.0).
+- [ ] Jsou uložena ve vhodném formátu: [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
+- [ ] Jsou popsána bohatými metadaty.
+- [ ] Metadata jsou dostupná ve strojově čitelné podobě.
+- [ ] Pokud jde o podkladová data k publikaci, jsou s ní pomocí metadat propojena.
 
 ## FAIR principy
 
