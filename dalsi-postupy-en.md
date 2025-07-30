@@ -1,4 +1,4 @@
-[Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science practices](/osprinciples/dalsi-postupy-en) | [ČEŠTINA](/osprinciples/dalsi-postupy)
+[Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science practices](/osprinciples/dalsi-postupy-en) | [ČEŠTINA 🇨🇿](/osprinciples/dalsi-postupy)
 
 # Other open science practices
 

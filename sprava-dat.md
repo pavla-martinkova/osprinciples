@@ -1,4 +1,4 @@
-[Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) | [ENGLISH](/osprinciples/sprava-dat-en) |
+[Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) | [ENGLISH 🇬🇧](/osprinciples/sprava-dat-en) |
 
 # Správa výzkumných dat
 
