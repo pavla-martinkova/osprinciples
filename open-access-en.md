@@ -46,7 +46,7 @@ Acceptable versions for depositing:
 Getting acquainted with the terms and conditions of the publisher. Inform project administration about the potential cost of APC.
 
 <details markdown="1">
-  <summary>Co musí splňovat časopis ✅</summary> 
+  <summary>Conditions of a compliant journal</summary> 
 
  - Publisher's terms and conditions allow the author to retain copyright ownership.
  - The article will be published with a CC BY 4.0 license (in case of Gold, Hybrid or Diamond journal).
