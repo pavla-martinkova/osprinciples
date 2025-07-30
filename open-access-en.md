@@ -1,4 +1,4 @@
-[Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) 
+[Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science practices](/osprinciples/dalsi-postupy-en) | [ČEŠTINA](/osprinciples/open-access) |
 
 # Open Access to publications (OA)
 
@@ -15,98 +15,94 @@ Mandatory OA for all publication outputs of the type:
 
 For other types of outputs (**O, conference presentations, posters**), OA is recommended and welcome.
 
-## How to meet the OA condition
+## How to comply with the OA condition
 
-### 1) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (Zlatá cesta)
-Publikace musí být zároveň neprodleně po dni publikování nahrána do důvěryhodného repozitáře pod stejnou licencí.
+### 1) Publishing with a publisher that will make the publication available under a CC BY license (Gold OA)
+The publication must also be uploaded to a trusted repository with the same license immediately after the date of publication.
 
-- **Gold časopis**: všechny články jsou otevřené po uhrazení APC
-- **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
-- **Diamantový časopis**: všechny články jsou otevřené a autor\*ka nic neplatí
+- **Gold journal**: all articles are open after APC is paid 
+- **Hybrid journal**: some articles are open after APC is paid 
+- **Diamond journal**: all articles are open with no cost for the author 
 
 <details markdown="1">
-  <summary>Jak uhradit APC (Article Processing Charge)</summary> 
+  <summary>How to pay the APC (Article Processing Charge)</summary> 
 
-  Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib – [instrukce pro autory](czechelib.cz/cs/419-instrukce-pro-autory).
-- Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, je možné využít plošných slev a odpuštění poplatků.
+  The fees for opening an article are around EUR 3,000 (it can be much more) and project funds are allocated for this purpose. It is possible to take advantage of discounts thanks to agreements with publishers within the Czechelib project – [instructions for authors](https://www.czechelib.cz/en/442-instructions-for-authors).
+- For MU: Limited-number tokens are not allocated to project publications; discounts and fee waivers are available.
 
 </details>
 
-### 2) Publikovat uzavřeně a zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY (Zelená cesta)
+### 2) Non-open publishing and depositing the publication in a trusted repository under a CC BY license (Green Road)
 
-Uznatelné verze článku pro nahrání do repozitáře:
-- Author Accepted Manuscript (verze po recenzním řízení)
-- Version of Record (finální vydavatelská verze)
+Acceptable versions for depositing: 
+- Author Accepted Manuscript (version after peer-review)
+- Version of Record (final version)
 
-❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se můžete obrátit na OS podporu. 
+❗ Publishers have various conditions for uploading to repositories, which often include embargoes, the option to store only preprints or only in institutional, non-commercial, or closed repositories, or without granting a license. It is always necessary to familiarize yourself with the conditions before submitting an article. For assistance with selecting a journal and checking compliance with OA principles, please contact OS support. 
 
-## Jak postupovat při publikování článku
+## How to proceed when publishing an article
 
-### 1) Výběr časopisu
-Seznámení se s podmínkami vydavatele. Informování administrátorky\*ra o případném APC poplatku a zajištění financí.
+### 1) Selecting a journal 
+Getting acquainted with the terms and conditions of the publisher. Inform project administration about the potential cost of APC.
 
 <details markdown="1">
   <summary>Co musí splňovat časopis ✅</summary> 
 
- - Podmínky vydavatele ponechávají majetková autorská práva autorce\*ovi.
- - Článek vyjde v časopise (Gold, Hybridním nebo Diamantovém) pod licencí CC BY 4.0.
- - Vydavatel umožňuje bezodkladné (bez embarga) nahrání verze po recenzním řízení nebo finální verze článku do repozitáře pod licencí CC BY 4.0.
+ - Publisher's terms and conditions allow the author to retain copyright ownership.
+ - The article will be published with a CC BY 4.0 license (in case of Gold, Hybrid or Diamond journal).
+ - Publisher allows for the Author Accepted Manuscript or the final version of the article to be deposited in a repository under a CC BY 4.0 license immediately after publication (no embargo period).
 
 </details>
 
-### 2) Odeslání článku do recenzního řízení 
-Vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení. To nesmí předcházet datu uzavření smlouvy s projektem.
+### 2) Submitting the article 
+Create a screenshot or archive the email communication to prove the date of submission. The date must be after the start of your contract with the project.
 
-Pokud to vydavatel umožňuje, volba otevřeného recenzního řízení.
+If possible, opt for open peer review.
 
-### 3) Přijetí článku k publikaci 
-Informování administrátorky\*ra o přijetí článku a předpokládaném datu zveřejnění.
+### 3) Article is accepted for publication
+Inform project administration about the planned date of publication.
 
-### 4) Vložení podkladových dat do repozitáře 
-Pokud to podmínky vydavatele dovolují, lze data nahrát ještě před publikováním článku, v souladu s principem včasného sdílení výsledků. 
+### 4) Uploading any related data to the repository 
+If the publisher's conditions allow, this can be done before the article is published (in line with the principle of early access to results).
 
-### 5) Článek je publikován v časopise
-Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV.
+### 5) Article is published 
+Depositing the appropriate version of the article to a trusted repository and creating a publication record for RIV 
 
 <details markdown="1">
-<summary>Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅</summary> 
+<summary>What criteria must an article meet to be recognized as a project output</summary> 
   
- - Prokazatelně vznikl v rámci projektu – odeslání do časopisu po začátku projektu a uzavření smlouvy.
- - Obsahuje poděkování projektu – Tato práce vznikla za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj. / This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
-  - Má přiděleno DOI.
- - Verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 – platí pro zelenou i zlatou cestu.
- - Má publikována podkladová data a je s nimi pomocí metadat propojen.
- - Splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a bude za instituci odveden.
+ - Was verifiably produced within the project – submission to a journal after the project has started and author has signed the contract.
+ - DOI is assigned.
+ - The version after peer review or the final version is uploaded to a trusted repository under a CC BY 4.0 license – this applies to both green and gold OA.
+ - Underlying data are published and linked to the article by metadata.
+ - Meets the criteria for inclusion in RIV (Czech register of scientific outcomes) as an expected outcome and will be submitted on behalf of the institution.
+ - Contains project acknowledgement.
+    - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
 </details>
 
 <details markdown="1">
 <summary>Pro MU: Jak vyplnit záznam pro RIV</summary>
 
-Při vytváření záznamu [v aplikaci Publikace (IS)](https://is.muni.cz/auth/publikace) je pro zajištění návaznosti na projekt v příslušné sekci potřeba vložit dva kódy:
-- CZ.02.01.01/00/23_025/0008726 s příznakem interní kód MU
-- EH23_025/0008726 s příznakem řešení projektu VaV
-Nic jiného se nezaškrtává, pokud nejde o kombinaci financování.
+When creating a publication record in the [IS Publications app](https://is.muni.cz/auth/publikace/?lang=en) it is necessary to enter two codes in the relevant sections to ensure the correct attribution to the project: 
+- CZ.02.01.01/00/23_025/0008726 as interní kód MU (not translated)
+- EH23_025/0008726 as research and development project  
+Other checkboxes remain unchecked, unless there is a combination of funding.
 
 </details>
 
-## Creative Commons licence
+## Creative Commons license
 
-Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
+For granting a license, the author must retain ownership rights.
 
-- Licence **CC BY 4.0** je nutnou podmínkou pro uznání výstupu v projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
-- Restriktivnější licence **CC BY-NC 4.0** nebo **CC BY-NC-ND 4.0** jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
+- **CC BY 4.0** license is necessary for accepting the article as a project output; it allows end users to use the work under the condition of attribution  
+- More restrictive **CC BY-NC 4.0** or **CC BY-NC-ND 4.0** licenses are only acceptable for longer texts (e.g. monographs) after justification; the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work).
 
-[Více informací o licencích Creative Commons](creativecommons.org/share-your-work/cclicenses)
-
-
-
-
-[⬅ Home](/osprinciples) | [Správa výzkumných dat ➡](/osprinciples/sprava-dat)
+[Creative Commons licenses](https://creativecommons.org/share-your-work/cclicenses/)
 
 ---
 
-Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
+Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 

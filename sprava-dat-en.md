@@ -1,90 +1,95 @@
-[Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) 
+[Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science practices](/osprinciples/dalsi-postupy-en) | [ČEŠTINA](/osprinciples/sprava-dat) |
 
-# Správa výzkumných dat
+# Research data management
 
-Nakládání s daty je popsáno v projektovém plánu správy dat (Data Management Plan, DMP).
+Data management is described in detail in the project's Data Management Plan.
 
-[Plán správy dat na Zenodo](https://zenodo.org/records/16419711)
+[Data Management Plan on Zenodo](https://zenodo.org/records/16419711)
 
-## Jak nakládat s daty v průběhu projektu
+## How to handle data during the project
 
-Tak, aby byla srozumitelná a dostupná i v případě odchodu klíčových pracovnic\*ků projektu a jiných nečekaných událostech.
+So that it remains understandable and accessible even in case of departure of key project members or other unexpected events.
 
-- Konzistentní pojmenovávání souborů a složek.
-- Využívání bezpečných uložišť a zálohování, aby byla data uložena alespoň na dvou místech.
-- Udržování dokumentace, aby bylo jasné například co znamenají názvy sloupců v tabulce nebo použité zkratky.
+- Consistent naming of files and folders.
+- Secure storage and backup to ensure that data is stored in at least two locations.
+- Sufficient documentation to clarify, for example, the meaning of column names in tables or abbreviations used.
 
-Při znovupoužití dat je potřeba dokumentovat filtrování nebo výběr, pokud nebude využit kompletní dataset.
+When reusing data, it is necessary to document filtering or selection if the complete dataset is not used.
 
-## Jaká data je potřeba zveřejňovat
+## Which data needs to be open
 
-- Podkladová data k recenzovaným publikacím vzniklým v rámci projektu.
-- Data spjatá s dalšími (nepublikačními) výsledky.
-- Data, která nejsou spjatá s konkrétním výsledkem, ale mohou být využitelná mimo projekt.
+- Data supporting peer-reviewed publications produced within the project.
+- Data associated with other (non-publication) results.
+- Data that are not associated with a specific result but may be usable outside the project.
 
-V odůvodněných případech je možné ponechat data uzavřená, zpřístupnit je na vyžádání, nebo se zpožděním. Vždy musí být zveřejněna metadata.
+In justified cases, data may be kept closed, made available on request or after an embargo period. Metadata must always be published. 
 
 <details markdown="1"> 
-  <summary>Oprávněné důvody pro nezveřejnění dat</summary>
+  <summary>Legitimate reasons for non-disclosure</summary>
 
-- Právo na ochranu soukromí
-- Ochrana osobních údajů
-- Důvěrnost údajů a dat
-- Oprávněné obchodní zájmy, obchodní tajemství
-- Práva duševního vlastnictví třetích stran
-- Rozpor s oprávněnými zájmy příjemce, včetně komerčního využití dat
-- Jiné oprávněné zájmy a oprávněná omezení
+- Right to privacy
+- Data protection and confidentiality
+- Legitimate business interests, trade secrets
+- Third party intellectual property rights
+- Conflict with legitimate interests of the recipient, including commercial exploitation of the data 
+- Other legitimate interests and restrictions 
 
 </details>
 
-## Kde zveřejnit výzkumná data
+## Where and how to publish research data
 
-Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma vydavatele (supplement u článku), ani v případě, že má dataset takto přidělené DOI. 
+Data needs to be published in a trusted repository. The publisher's platform (data supplement) is not sufficient, even if DOI has been assigned this way.
 
-- [re3data.org](https://www.re3data.org/): rejstřík datových repozitářů s možností vyhledávání a filtrování
+Data needs to be stored in a suitable format and adequately described by metadata, ideally in accordance with standards. Adequate documentation will ensure that data is comprehensible for re-users.
+
+[re3data.org](https://www.re3data.org/): data repositories registry with search and filter options
+[File formats recommended by the UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
 
 <details markdown="1"> 
-<summary>Doporučené důvěryhodné repozitáře</summary>
+<summary>Recommended trusted repositories</summary>
 
-  Pokud neexistuje vhodný oborový repozitář, lze využít repozitáře obecné.
-- [Zenodo](https://zenodo.org/) spravuje CERN
-  - Komunita projektu, ke které lze výstupy přiřadit: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
-- [Figshare](https://figshare.com/) spravuje Digital Science Company
-- [Dataverse](https://dataverse.org/) spravuje Harvard
-- [Národní datový repozitář](https://data.narodni-repozitar.cz/) spravuje CESNET
+  If there is no suitable subject-specific repository, general repositories can be used.
+- [Zenodo](https://zenodo.org/) maintained by CERN
+  - Community for LangInLife project: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
+- [Figshare](https://figshare.com/) maintained by Digital Science Company
+- [Dataverse](https://dataverse.org/) maintained Harvard
+- [Národní datový repozitář](https://data.narodni-repozitar.cz/) maintained by CESNET
 
 </details>
 
 <details markdown="1">
-<summary>Co musí splňovat zveřejněná výzkumná data ✅</summary>
+<summary>What must published research data comply with</summary>
 
-- Neobsahují citlivé nebo osobní údaje v neanonymizované podobě.
-- Mají přidělen persistentní identifikátor (DOI, Handle).
-- Jsou uložena v důvěryhodném repozitáři pod jasně uvedenou licencí (CC 0, CC BY 4.0).
-- Jsou uložena ve vhodném formátu: [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
-- Jsou popsána bohatými metadaty.
-- Metadata jsou dostupná ve strojově čitelné podobě.
-- Pokud jde o podkladová data k publikaci, jsou s ní pomocí metadat propojena.
+- No non-anonymised sensitive or personal data are included.
+- DOI (or another persistent identifier) is assigned.
+- Data are deposited in a trusted repository under a clearly stated licence (CC 0, CC BY 4.0 or equivalent).
+- Data are deposited in an appropriate format.
+- Data are described by rich metadata.
+- Metadata are available in a machine readable format.
+- Related publication is linked to the dataset by metadata.
 
 </details>
 
-## Jaká poskytnout metadata k datovým sadám
+<details markdown="1"> 
+<summary>What metadata to provide for datasets</summary>
 
-- Název datové sady, srozumitelný sám o sobě (ne Data k článku)
-- Celá jména původců (autorů a přispěvatelů) a jejich trvalý identifikátor (ORCID)
-- Datum (plánovaného, v případě embarga) zveřejnění
-- Vydavatel a jeho trvalý identifikátor (ROR)
-- Srozumitelný popis datové sady
-- Informace o dostupnosti dat (časové embargo, licence a další údaje)
-- Trvalé identifikátory datové sady
-- Informace o financování (poskytovatel financí a číslo projektu)
-- Zařazení do vědní klasifikace podle oborů
-- Klíčová slova
+- Name of the dataset, understandable on its own (not Data for the article)
+- Full names of the creators (authors and contributors) and their permanent identifier (ORCID)
+- Date (planned, in case of embargo) of publication
+- Publisher and its persistent identifier (ROR)
+- Comprehensible description of the dataset
+- Information about data availability (time embargo, license, and other details)
+- Persistent identifiers of the dataset
+- Information about funding (funding provider and project number)
+- Classification according to scientific disciplines
+- Keywords
 
-Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výzkumu (NTK)](https://doi.org/10.48813/yt6w-6h15).
+The list is based on [General recommendations for metadata description of research results (NTK, Czech only)](https://doi.org/10.48813/yt6w-6h15).
+
+</details>
 
 <details markdown="1"> 
-<summary>Relevantní metadatové standardy</summary>
+<summary>Relevant metadata standards</summary>
 
 - [Brain Imaging Data Structure](https://bids.neuroimaging.io/) (BIDS)
 - [Component Metadata Specification](https://fairsharing.org/FAIRsharing.2e0599) (CMDI)
@@ -95,25 +100,20 @@ Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výz
 
 </details>
 
-## FAIR principy
+## FAIR principles
 
-- **F**indable – Data jsou nalezitelná lidmi i stroji díky popisným metadatům a persistentním identifikátorům.
-- **A**ccessible – Data jsou dostupná díky důvěryhodným repozitářům.
-- **I**nteroperable – Data jsou interoperabilní díky otevřeným formátům a používání standardů.
-- **R**eusable – Data jsou opětovně využitelná díky poskytnutí kontextu pomocí metadat a dokumentace.
+- **F**indable by both humans and machines thanks to descriptive metadata and persistent identifiers.
+- **A**ccessible thanks to trusted repositories.
+- **I**nteroperable thanks to open formats and standards.
+- **R**eusable  thanks to providing context through metadata and documentation.
 
-FAIR principy přibližuje dokument [Jak FAIR jsou vaše výzkumná data](https://zenodo.org/records/3739188).
+[How FAIR are your data](https://zenodo.org/records/3739188).
 
-- [FAIRsharing.org](https://fairsharing.org/): databáze standardů, formátů a dalších zdrojů pro FAIR data
-
-
-
-
-[⬅ Otevřený přístup k publikacím](/osprinciples/open-access) | [Další postupy otevřené vědy ➡](/osprinciples/dalsi-postupy) 
+[FAIRsharing.org](https://fairsharing.org/): database of standards, formats, and other resources for FAIR data
 
 ---
 
-Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
+Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 

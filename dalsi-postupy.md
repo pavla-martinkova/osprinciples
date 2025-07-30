@@ -1,8 +1,8 @@
-[Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy)
+[Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) | [ENGLISH](/osprinciples/dalsi-postupy-en) |
 
 # Další postupy otevřené vědy
 
-Pokud využijete některou z níže uvedených možností (kromě ORCID), informujte OS podporu kvůli vykazování.
+Pokud využijete některou z níže uvedených možností (kromě ORCID), informujte administrátorky\*y projektu kvůli vykazování.
 
 ## Identifikátor ORCID
 

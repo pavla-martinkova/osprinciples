@@ -1,4 +1,4 @@
-[Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) 
+[Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) | [ENGLISH](/osprinciples/open-access-en) |
 
 # Otevřený přístup k publikacím (Open Access, OA)
 
@@ -27,7 +27,7 @@ Publikace musí být zároveň neprodleně po dni publikování nahrána do dův
 <details markdown="1">
   <summary>Jak uhradit APC (Article Processing Charge)</summary> 
 
-  Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib – [instrukce pro autory](czechelib.cz/cs/419-instrukce-pro-autory).
+  Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib – [instrukce pro autory](https://www.czechelib.cz/cs/419-instrukce-pro-autory).
 - Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, je možné využít plošných slev a odpuštění poplatků.
 
 </details>
@@ -43,7 +43,7 @@ Uznatelné verze článku pro nahrání do repozitáře:
 ## Jak postupovat při publikování článku
 
 ### 1) Výběr časopisu
-Seznámení se s podmínkami vydavatele. Informování administrátorky\*ra o případném APC poplatku a zajištění financí.
+Seznámení se s podmínkami vydavatele. Informování administrátorky\*a o případném APC poplatku a zajištění financí.
 
 <details markdown="1">
   <summary>Co musí splňovat časopis ✅</summary> 
@@ -60,7 +60,7 @@ Vytvoření screenshotu nebo archivace mailové komunikace pro případné dolo�
 Pokud to vydavatel umožňuje, volba otevřeného recenzního řízení.
 
 ### 3) Přijetí článku k publikaci 
-Informování administrátorky\*ra o přijetí článku a předpokládaném datu zveřejnění.
+Informování administrátorky\*a o přijetí článku a předpokládaném datu zveřejnění.
 
 ### 4) Vložení podkladových dat do repozitáře 
 Pokud to podmínky vydavatele dovolují, lze data nahrát ještě před publikováním článku, v souladu s principem včasného sdílení výsledků. 
