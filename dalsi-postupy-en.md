@@ -6,9 +6,7 @@ If you apply any of the following practices, please inform project administratio
 
 ## ORCID
 
-Authors will create and maintain an ORCID identifier and include it in their outputs when possible. 
-
-[orcid.org](https://orcid.org/)
+Authors will create and maintain an [ORCID](https://orcid.org/) and include it in their outputs when possible. 
 
 <details markdown="1">
 
