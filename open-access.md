@@ -60,13 +60,13 @@ Vytvoření screenshotu nebo archivace mailové komunikace pro případné dolo�
 Pokud to vydavatel umožňuje, volba otevřeného recenzního řízení.
 
 ### 3) Přijetí článku k publikaci 
-Informování administrátorky\*a o přijetí článku a předpokládaném datu zveřejnění.
+Informování administrátorky\*a o přijetí článku, předpokládaném datu zveřejnění, zda byl vydán preprint a využito otevřené recenzní řízení.
 
 ### 4) Vložení podkladových dat do repozitáře 
 Pokud to podmínky vydavatele dovolují, lze data nahrát ještě před publikováním článku, v souladu s principem včasného sdílení výsledků. 
 
 ### 5) Článek je publikován v časopise
-Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV.
+Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV. 
 
 <details markdown="1">
 <summary>Pro MU: Jak vyplnit záznam pro RIV</summary>
