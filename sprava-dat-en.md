@@ -57,19 +57,6 @@ Data needs to be stored in a suitable format and adequately described by metadat
 
 </details>
 
-<details markdown="1">
-<summary>What must published research data comply with</summary>
-
-- No non-anonymised sensitive or personal data are included.
-- DOI (or another persistent identifier) is assigned.
-- Data are deposited in a trusted repository under a clearly stated licence (CC 0, CC BY 4.0 or equivalent).
-- Data are deposited in an appropriate format.
-- Data are described by rich metadata.
-- Metadata are available in a machine readable format.
-- Related publication is linked to the dataset by metadata.
-
-</details>
-
 <details markdown="1"> 
 <summary>What metadata to provide for datasets</summary>
 
@@ -99,6 +86,16 @@ The list is based on [General recommendations for metadata description of resear
 - [Open Language Archives Community Metadata](https://fairsharing.org/FAIRsharing.17fbae) (OLAC Metadata)
 
 </details>
+
+## What criteria must published dataset meet to be recognized as a project output
+
+- No non-anonymised sensitive or personal data are included.
+- DOI (or another persistent identifier) is assigned.
+- Data are deposited in a trusted repository under a clearly stated licence (CC 0, CC BY 4.0 or equivalent).
+- Data are deposited in an appropriate format.
+- Data are described by rich metadata.
+- Metadata are available in a machine readable format.
+- Related publication is linked to the dataset by metadata.
 
 ## FAIR principles
 
