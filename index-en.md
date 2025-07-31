@@ -14,8 +14,8 @@ Are you dealing with a specific issue? Step-by-step procedures for following sit
 - [Where and how to publish research data](/osprinciples/sprava-dat-en/where-to-publish-research-data)
 
 The following checklists may also be useful.
-- [What criteria must an article meet to be recognized as a project output ✅](/osprinciples/open-access-en/what-criteria-must-an-article-meet-to-be-recognized-as-a-project-output?)
-- 
+- [What criteria must an article meet to be recognized as a project output ✅](/osprinciples/open-access-en/what-criteria-must-an-article-meet-to-be-recognized-as-a-project-output)
+- [What criteria must published dataset meet to be recognized as a project output ✅](/osprinciples/sprava-dat-en/what-criteria-must-published-dataset-meet-to-be-recognized-as-a-project-output)
 
 > ✉️ Do not hesitate to contact OS support <br>
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>
