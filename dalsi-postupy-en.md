@@ -6,7 +6,7 @@ If you apply any of the following practices, please inform project administratio
 
 ## ORCID
 
-Authors will create and maintain an [ORCID](https://orcid.org/) and include it in their outputs when possible. 
+Authors will create and maintain [ORCID](https://orcid.org/) and include it in their outputs when possible. 
 
 <details markdown="1">
 
