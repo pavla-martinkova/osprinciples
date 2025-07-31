@@ -2,7 +2,7 @@
 
 # Other open science practices
 
-If you apply any of the following practices, please inform project administration.
+If you apply any of the following practices (excluding ORCID) please inform project administration.
 
 ## ORCID
 
