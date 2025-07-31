@@ -95,8 +95,8 @@ Other checkboxes remain unchecked, unless there is a combination of funding.
 
 For granting a license, the author must retain ownership rights.
 
-- **CC BY 4.0** license is necessary for accepting the article as a project output; it allows end users to use the work under the condition of attribution  
-- More restrictive **CC BY-NC 4.0** or **CC BY-NC-ND 4.0** licenses are only acceptable for longer texts (e.g. monographs) after justification; the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work).
+- [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license is necessary for accepting the article as a project output; it allows end users to use the work under the condition of attribution  
+- More restrictive [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) or [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licenses are only acceptable for longer texts (e.g. monographs) after justification; the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work).
 
 [Creative Commons licenses](https://creativecommons.org/share-your-work/cclicenses/)
 
