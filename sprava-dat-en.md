@@ -105,7 +105,7 @@ The list is based on [General recommendations for metadata description of resear
 - **I**nteroperable thanks to open formats and standards.
 - **R**eusable  thanks to providing context through metadata and documentation.
 
-[How FAIR are your data](https://zenodo.org/records/3739188).
+[How FAIR are your data checklist](https://zenodo.org/records/3739188)
 
 [FAIRsharing.org](https://fairsharing.org/): database of standards, formats, and other resources for FAIR data
 
