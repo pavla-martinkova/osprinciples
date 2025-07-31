@@ -69,19 +69,6 @@ If the publisher's conditions allow, this can be done before the article is publ
 Depositing the appropriate version of the article to a trusted repository and creating a publication record for RIV 
 
 <details markdown="1">
-<summary>What criteria must an article meet to be recognized as a project output</summary> 
-  
- - Was verifiably produced within the project – submission to a journal after the project has started and author has signed the contract.
- - DOI is assigned.
- - The version after peer review or the final version is uploaded to a trusted repository under a CC BY 4.0 license – this applies to both green and gold OA.
- - Underlying data are published and linked to the article by metadata.
- - Meets the criteria for inclusion in RIV (Czech register of scientific outcomes) as an expected outcome and will be submitted on behalf of the institution.
- - Contains project acknowledgement.
-    - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
-
-</details>
-
-<details markdown="1">
 <summary>Pro MU: Jak vyplnit záznam pro RIV</summary>
 
 When creating a publication record in the [IS Publications app](https://is.muni.cz/auth/publikace/?lang=en) it is necessary to enter two codes in the relevant sections to ensure the correct attribution to the project: 
@@ -90,6 +77,16 @@ When creating a publication record in the [IS Publications app](https://is.muni.
 Other checkboxes remain unchecked, unless there is a combination of funding.
 
 </details>
+
+## What criteria must an article meet to be recognized as a project output
+  
+ - Was verifiably produced within the project – submission to a journal after the project has started and author has signed the contract.
+ - DOI is assigned.
+ - The version after peer review or the final version is uploaded to a trusted repository under a CC BY 4.0 license – this applies to both green and gold OA.
+ - Underlying data are published and linked to the article by metadata.
+ - Meets the criteria for inclusion in RIV (Czech register of scientific outcomes) as an expected outcome and will be submitted on behalf of the institution.
+ - Contains project acknowledgement.
+    - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
 ## Creative Commons license
 
