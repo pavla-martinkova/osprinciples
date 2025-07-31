@@ -106,7 +106,7 @@ Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výz
 - **I**nteroperable – Data jsou interoperabilní díky otevřeným formátům a používání standardů.
 - **R**eusable – Data jsou opětovně využitelná díky poskytnutí kontextu pomocí metadat a dokumentace.
 
-FAIR principy přibližuje dokument [Jak FAIR jsou vaše výzkumná data](https://zenodo.org/records/3739188).
+[Kontrolní seznam Jak FAIR jsou vaše výzkumná data](https://zenodo.org/records/3739188)
 
 [FAIRsharing.org](https://fairsharing.org/): databáze standardů, formátů a dalších zdrojů pro FAIR data
 
