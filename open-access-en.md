@@ -60,16 +60,16 @@ Create a screenshot or archive the email communication to prove the date of subm
 If possible, opt for open peer review.
 
 ### 3) Article is accepted for publication
-Inform project administration about the planned date of publication.
+Informing the project administrator about the acceptance of the article, the expected date of publication, whether a preprint has been issued, and whether an open review process has been used.
 
 ### 4) Uploading any related data to the repository 
 If the publisher's conditions allow, this can be done before the article is published (in line with the principle of early access to results).
 
 ### 5) Article is published 
-Depositing the appropriate version of the article to a trusted repository and creating a publication record for RIV 
+Depositing the appropriate version of the article to a trusted repository and creating a publication record for RIV (Czech register of scientific outcomes).
 
 <details markdown="1">
-<summary>Pro MU: Jak vyplnit záznam pro RIV</summary>
+<summary>For MU: How to fill in a publication record for RIV</summary>
 
 When creating a publication record in the [IS Publications app](https://is.muni.cz/auth/publikace/?lang=en) it is necessary to enter two codes in the relevant sections to ensure the correct attribution to the project: 
 - CZ.02.01.01/00/23_025/0008726 as interní kód MU (not translated)
