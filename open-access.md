@@ -59,6 +59,8 @@ Vytvoření screenshotu nebo archivace mailové komunikace pro případné dolo�
 
 Pokud to vydavatel umožňuje, volba otevřeného recenzního řízení.
 
+[Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅](/osprinciples/open-access#co-musí-splňovat-článek-aby-byl-uznatelný-jako-výstup-projektu)
+
 ### 3) Přijetí článku k publikaci 
 Informování administrátorky\*a o přijetí článku, předpokládaném datu zveřejnění, zda byl vydán preprint a využito otevřené recenzní řízení.
 
