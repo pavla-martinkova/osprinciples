@@ -1,4 +1,4 @@
-[Home](/osprinciples/index-en) | [Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science practices](/osprinciples/dalsi-postupy-en) | [ČEŠTINA 🇨🇿](/osprinciples/index) |
+[Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science practices](/osprinciples/dalsi-postupy-en) | [ČEŠTINA 🇨🇿](/osprinciples/index) |
 
 # Open Science manual for LangInLife project 
 
