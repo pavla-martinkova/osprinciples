@@ -8,14 +8,14 @@ By participating on the project, we committed to open science principles which a
 - [Other open science principles](/osprinciples/dalsi-postupy-en)
 
 Are you dealing with a specific issue? Step-by-step procedures for following situations are included.
-- [How to comply with the OA condition](/osprinciples/open-access-en/how-to-comply-with-the-OA-condition)
-- [How to proceed when publishing an article](/osprinciples/open-access-en/how-to-proceed-when-publishing-an-article)
-- [How to handle data during the project](/osprinciples/sprava-dat-en/how-to-handle-data-during-the-project)
-- [Where and how to publish research data](/osprinciples/sprava-dat-en/where-to-publish-research-data)
+- [How to comply with the OA condition](/osprinciples/open-access-en#how-to-comply-with-the-OA-condition)
+- [How to proceed when publishing an article](/osprinciples/open-access-en#how-to-proceed-when-publishing-an-article)
+- [How to handle data during the project](/osprinciples/sprava-dat-en#how-to-handle-data-during-the-project)
+- [Where and how to publish research data](/osprinciples/sprava-dat-en#where-to-publish-research-data)
 
 The following checklists may also be useful.
-- [What criteria must an article meet to be recognized as a project output ✅](/osprinciples/open-access-en/what-criteria-must-an-article-meet-to-be-recognized-as-a-project-output)
-- [What criteria must published dataset meet to be recognized as a project output ✅](/osprinciples/sprava-dat-en/what-criteria-must-published-dataset-meet-to-be-recognized-as-a-project-output)
+- [What criteria must an article meet to be recognized as a project output ✅](/osprinciples/open-access-en#what-criteria-must-an-article-meet-to-be-recognized-as-a-project-output)
+- [What criteria must published dataset meet to be recognized as a project output ✅](/osprinciples/sprava-dat-en#what-criteria-must-published-dataset-meet-to-be-recognized-as-a-project-output)
 
 > ✉️ Do not hesitate to contact OS support <br>
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>
