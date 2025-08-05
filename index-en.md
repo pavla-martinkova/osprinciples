@@ -8,7 +8,7 @@ By participating on the project, we committed to open science principles which a
 - [Other open science principles](/osprinciples/dalsi-postupy-en)
 
 Are you dealing with a specific issue? Step-by-step procedures for following situations are included.
-- [How to comply with the OA condition](/osprinciples/open-access-en#how-to-comply-with-the-OA-condition)
+- [How to comply with the OA condition](/osprinciples/open-access-en#how-to-comply-with-the-oa-condition)
 - [How to proceed when publishing an article](/osprinciples/open-access-en#how-to-proceed-when-publishing-an-article)
 - [How to handle data during the project](/osprinciples/sprava-dat-en#how-to-handle-data-during-the-project)
 - [Where and how to publish research data](/osprinciples/sprava-dat-en#where-and-how-to-publish-research-data)
