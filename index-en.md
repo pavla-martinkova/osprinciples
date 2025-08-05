@@ -11,7 +11,7 @@ Are you dealing with a specific issue? Step-by-step procedures for following sit
 - [How to comply with the OA condition](/osprinciples/open-access-en#how-to-comply-with-the-OA-condition)
 - [How to proceed when publishing an article](/osprinciples/open-access-en#how-to-proceed-when-publishing-an-article)
 - [How to handle data during the project](/osprinciples/sprava-dat-en#how-to-handle-data-during-the-project)
-- [Where and how to publish research data](/osprinciples/sprava-dat-en#where-to-publish-research-data)
+- [Where and how to publish research data](/osprinciples/sprava-dat-en#where-and-how-to-publish-research-data)
 
 The following checklists may also be useful.
 - [What criteria must an article meet to be recognized as a project output ✅](/osprinciples/open-access-en#what-criteria-must-an-article-meet-to-be-recognized-as-a-project-output)
