@@ -59,7 +59,7 @@ Create a screenshot or archive the email communication to prove the date of subm
 
 If possible, opt for open peer review.
 
-Check [What criteria must an article meet to be recognized as a project output ✅](/osprinciples/open-access-en/what-criteria-must-an-article-meet-to-be-recognized-as-a-project-output)
+Check [What criteria must an article meet to be recognized as a project output ✅](/osprinciples/open-access-en#what-criteria-must-an-article-meet-to-be-recognized-as-a-project-output)
 
 ### 3) Article is accepted for publication
 Informing the project administrator about the acceptance of the article, the expected date of publication, whether a preprint has been issued, and whether an open review process has been used.
