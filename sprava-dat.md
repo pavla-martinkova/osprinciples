@@ -4,7 +4,7 @@
 
 Nakládání s daty je popsáno v projektovém plánu správy dat (Data Management Plan, DMP).
 
-[Plán správy dat na Zenodo](https://zenodo.org/records/16419711)
+[Plán správy dat na Zenodo](https://doi.org/10.5281/zenodo.16419710)
 
 ## Jak nakládat s daty v průběhu projektu
 

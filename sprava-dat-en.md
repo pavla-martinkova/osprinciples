@@ -4,7 +4,7 @@
 
 Data management is described in detail in the project's Data Management Plan.
 
-[Data Management Plan on Zenodo](https://zenodo.org/records/16419711)
+[Data Management Plan on Zenodo](https://doi.org/10.5281/zenodo.16419710)
 
 ## How to handle data during the project
 
