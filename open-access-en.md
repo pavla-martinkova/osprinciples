@@ -1,4 +1,4 @@
-[Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science practices](/osprinciples/dalsi-postupy-en) | [ČEŠTINA 🇨🇿](/osprinciples/open-access) |
+[Home](/osprinciples/index-en) | [Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science practices](/osprinciples/dalsi-postupy-en) | [ČEŠTINA 🇨🇿](/osprinciples/open-access) |
 
 # Open Access to publications (OA)
 
@@ -46,7 +46,7 @@ Acceptable versions for depositing:
 Getting acquainted with the terms and conditions of the publisher. Inform project administration about the potential cost of APC.
 
 <details markdown="1">
-  <summary>Co musí splňovat časopis ✅</summary> 
+  <summary>Conditions of a compliant journal</summary> 
 
  - Publisher's terms and conditions allow the author to retain copyright ownership.
  - The article will be published with a CC BY 4.0 license (in case of Gold, Hybrid or Diamond journal).
@@ -59,17 +59,28 @@ Create a screenshot or archive the email communication to prove the date of subm
 
 If possible, opt for open peer review.
 
+Check [What criteria must an article meet to be recognized as a project output ✅](/osprinciples/open-access-en#what-criteria-must-an-article-meet-to-be-recognized-as-a-project-output)
+
 ### 3) Article is accepted for publication
-Inform project administration about the planned date of publication.
+Informing the project administrator about the acceptance of the article, the expected date of publication, whether a preprint has been issued, and whether an open review process has been used.
 
 ### 4) Uploading any related data to the repository 
 If the publisher's conditions allow, this can be done before the article is published (in line with the principle of early access to results).
 
 ### 5) Article is published 
-Depositing the appropriate version of the article to a trusted repository and creating a publication record for RIV 
+Depositing the appropriate version of the article to a trusted repository and creating a publication record for RIV (Czech register of scientific outcomes).
 
 <details markdown="1">
-<summary>What criteria must an article meet to be recognized as a project output</summary> 
+<summary>For MU: How to fill in a publication record for RIV</summary>
+
+When creating a publication record in the [IS Publications app](https://is.muni.cz/auth/publikace/?lang=en) it is necessary to enter two codes in the relevant sections to ensure the correct attribution to the project: 
+- CZ.02.01.01/00/23_025/0008726 as interní kód MU (not translated)
+- EH23_025/0008726 as research and development project  
+Other checkboxes remain unchecked, unless there is a combination of funding.
+
+</details>
+
+## What criteria must an article meet to be recognized as a project output
   
  - Was verifiably produced within the project – submission to a journal after the project has started and author has signed the contract.
  - DOI is assigned.
@@ -79,26 +90,12 @@ Depositing the appropriate version of the article to a trusted repository and cr
  - Contains project acknowledgement.
     - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
-</details>
-
-<details markdown="1">
-<summary>Pro MU: Jak vyplnit záznam pro RIV</summary>
-
-When creating a publication record in the [IS Publications app](https://is.muni.cz/auth/publikace/?lang=en) it is necessary to enter two codes in the relevant sections to ensure the correct attribution to the project: 
-- CZ.02.01.01/00/23_025/0008726 as interní kód MU (not translated)
-- EH23_025/0008726 as research and development project  
-Other checkboxes remain unchecked, unless there is a combination of funding.
-
-</details>
-
 ## Creative Commons license
 
 For granting a license, the author must retain ownership rights.
 
-- **CC BY 4.0** license is necessary for accepting the article as a project output; it allows end users to use the work under the condition of attribution  
-- More restrictive **CC BY-NC 4.0** or **CC BY-NC-ND 4.0** licenses are only acceptable for longer texts (e.g. monographs) after justification; the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work).
-
-[Creative Commons licenses](https://creativecommons.org/share-your-work/cclicenses/)
+- [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license is necessary for accepting the article as a project output; it allows end users to use the work under the condition of attribution  
+- More restrictive [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) or [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licenses are only acceptable for longer texts (e.g. monographs) after justification; the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work).
 
 ---
 

@@ -59,14 +59,16 @@ Vytvoření screenshotu nebo archivace mailové komunikace pro případné dolo�
 
 Pokud to vydavatel umožňuje, volba otevřeného recenzního řízení.
 
+[Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅](/osprinciples/open-access#co-musí-splňovat-článek-aby-byl-uznatelný-jako-výstup-projektu)
+
 ### 3) Přijetí článku k publikaci 
-Informování administrátorky\*a o přijetí článku a předpokládaném datu zveřejnění.
+Informování administrátorky\*a o přijetí článku, předpokládaném datu zveřejnění, zda byl vydán preprint a využito otevřené recenzní řízení.
 
 ### 4) Vložení podkladových dat do repozitáře 
 Pokud to podmínky vydavatele dovolují, lze data nahrát ještě před publikováním článku, v souladu s principem včasného sdílení výsledků. 
 
 ### 5) Článek je publikován v časopise
-Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV.
+Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV. 
 
 <details markdown="1">
 <summary>Pro MU: Jak vyplnit záznam pro RIV</summary>
@@ -93,11 +95,8 @@ Nic jiného se nezaškrtává, pokud nejde o kombinaci financování.
 
 Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
-- Licence **CC BY 4.0** je nutnou podmínkou pro uznání výstupu v projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
-- Restriktivnější licence **CC BY-NC 4.0** nebo **CC BY-NC-ND 4.0** jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
-
-[creativecommons.org](https://creativecommons.org/share-your-work/cclicenses/)
-
+- Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) je nutnou podmínkou pro uznání výstupu v projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
+- Restriktivnější licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) nebo [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
 
 ---
 

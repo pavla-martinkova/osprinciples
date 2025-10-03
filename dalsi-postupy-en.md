@@ -1,14 +1,12 @@
-[Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science practices](/osprinciples/dalsi-postupy-en) | [ČEŠTINA 🇨🇿](/osprinciples/dalsi-postupy)
+[Home](/osprinciples/index-en) | [Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science practices](/osprinciples/dalsi-postupy-en) | [ČEŠTINA 🇨🇿](/osprinciples/dalsi-postupy)
 
 # Other open science practices
 
-If you apply any of the following practices, please inform project administration.
+If you apply any of the following practices (excluding ORCID) please inform project administration.
 
 ## ORCID
 
-Authors will create and maintain an ORCID identifier and include it in their outputs when possible. 
-
-- [orcid.org](https://orcid.org/)
+Authors will create and maintain [ORCID](https://orcid.org/) and include it in their outputs when possible. 
 
 <details markdown="1">
 
@@ -24,8 +22,9 @@ In order for publications entered in the IS to be displayed in your ORCID profil
 
 Authors will share preprint versions of articles ‘when relevant’, unless this conflicts with the terms and conditions of the chosen journal. 
 
-- [Preprint servers registry ASAPbio](https://asapbio.org/preprint-servers)
-- [Lingbuzz preprint server](https://lingbuzz.net/)
+[Preprint servers registry ASAPbio](https://asapbio.org/preprint-servers)
+
+[Lingbuzz preprint server](https://lingbuzz.net/)
 
 ### Pre-registration of research 
 

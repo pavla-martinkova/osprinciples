@@ -1,4 +1,4 @@
-[Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science practices](/osprinciples/dalsi-postupy-en) | [ČEŠTINA 🇨🇿](/osprinciples/sprava-dat) |
+[Home](/osprinciples/index-en) | [Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science practices](/osprinciples/dalsi-postupy-en) | [ČEŠTINA 🇨🇿](/osprinciples/sprava-dat) |
 
 # Research data management
 
@@ -43,6 +43,7 @@ Data needs to be published in a trusted repository. The publisher's platform (da
 Data needs to be stored in a suitable format and adequately described by metadata, ideally in accordance with standards. Adequate documentation will ensure that data is comprehensible for re-users.
 
 [re3data.org](https://www.re3data.org/): data repositories registry with search and filter options
+
 [File formats recommended by the UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
 
 <details markdown="1"> 
@@ -54,19 +55,6 @@ Data needs to be stored in a suitable format and adequately described by metadat
 - [Figshare](https://figshare.com/) maintained by Digital Science Company
 - [Dataverse](https://dataverse.org/) maintained Harvard
 - [Národní datový repozitář](https://data.narodni-repozitar.cz/) maintained by CESNET
-
-</details>
-
-<details markdown="1">
-<summary>What must published research data comply with</summary>
-
-- No non-anonymised sensitive or personal data are included.
-- DOI (or another persistent identifier) is assigned.
-- Data are deposited in a trusted repository under a clearly stated licence (CC 0, CC BY 4.0 or equivalent).
-- Data are deposited in an appropriate format.
-- Data are described by rich metadata.
-- Metadata are available in a machine readable format.
-- Related publication is linked to the dataset by metadata.
 
 </details>
 
@@ -100,6 +88,16 @@ The list is based on [General recommendations for metadata description of resear
 
 </details>
 
+## What criteria must published dataset meet to be recognized as a project output
+
+- No non-anonymised sensitive or personal data are included.
+- DOI (or another persistent identifier) is assigned.
+- Data are deposited in a trusted repository under a clearly stated licence (CC 0, CC BY 4.0 or equivalent).
+- Data are deposited in an appropriate format.
+- Data are described by rich metadata.
+- Metadata are available in a machine readable format.
+- Related publication is linked to the dataset by metadata.
+
 ## FAIR principles
 
 - **F**indable by both humans and machines thanks to descriptive metadata and persistent identifiers.
@@ -107,7 +105,7 @@ The list is based on [General recommendations for metadata description of resear
 - **I**nteroperable thanks to open formats and standards.
 - **R**eusable  thanks to providing context through metadata and documentation.
 
-[How FAIR are your data](https://zenodo.org/records/3739188).
+[How FAIR are your data checklist](https://zenodo.org/records/3739188)
 
 [FAIRsharing.org](https://fairsharing.org/): database of standards, formats, and other resources for FAIR data
 

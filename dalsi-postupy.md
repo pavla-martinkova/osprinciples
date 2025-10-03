@@ -6,9 +6,7 @@ Pokud využijete některou z níže uvedených možností (kromě ORCID), inform
 
 ## Identifikátor ORCID
 
-Autorky\*ři budou mít zřízený identifikátor ORCID a budou jej uvádět u svých výstupů.
-
-[orcid.org](https://orcid.org/)
+Autorky\*ři budou mít zřízený [ORCID](https://orcid.org/) a budou jej uvádět u svých výstupů.
 
 <details markdown="1">
 
