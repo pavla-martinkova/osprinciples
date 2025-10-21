@@ -15,57 +15,51 @@ Povinný je OA pro všechny publikační výstupy typu:
 
 U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA doporučený a vítaný. 
 
-## Jak naplnit podmínku otevřeného přístupu
+## Jak postupovat při publikování článku
 
-### 1) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (Zlatá cesta)
-Publikace musí být zároveň neprodleně po dni publikování nahrána do důvěryhodného repozitáře pod stejnou licencí.
-
+### 1) Výběr časopisu a seznámení se s podmínkami vydavatele
+Máte dvě možnosti:
+1. Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (Zlatá cesta). Publikace musí být zároveň neprodleně po dni publikování nahrána do důvěryhodného repozitáře pod stejnou licencí.
 - **Gold časopis**: všechny články jsou otevřené po uhrazení APC
 - **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
 - **Diamantový časopis**: všechny články jsou otevřené a autor\*ka nic neplatí
 
-<details markdown="1">
-  <summary>Jak uhradit APC (Article Processing Charge)</summary> 
+2. Publikovat v uzavřeném časopise a neprodleně (bez embarga) zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY (Zelená cesta). Uznatelné verze článku pro nahrání do repozitáře jsou Author Accepted Manuscript (verze po recenzním řízení) nebo Version of Record (finální vydavatelská verze).
 
-  Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib – [instrukce pro autory](https://www.czechelib.cz/cs/419-instrukce-pro-autory).
+❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se můžete obrátit na OS podporu. 
+
+<details markdown="1">
+  <summary><h4>Jak uhradit APC (Article Processing Charge)</h4></summary> 
+
+  Prosíme, informujte administrátorky\*a o případném APC poplatku. Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib – [instrukce pro autory](https://www.czechelib.cz/cs/419-instrukce-pro-autory).
 - Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, je možné využít plošných slev a odpuštění poplatků.
 
 </details>
 
-### 2) Publikovat uzavřeně a zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY (Zelená cesta)
-
-Uznatelné verze článku pro nahrání do repozitáře:
-- Author Accepted Manuscript (verze po recenzním řízení)
-- Version of Record (finální vydavatelská verze)
-
-❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se můžete obrátit na OS podporu. 
-
-## Jak postupovat při publikování článku
-
-### 1) Výběr časopisu
-Seznámení se s podmínkami vydavatele. Informování administrátorky\*a o případném APC poplatku a zajištění financí.
-
 <details markdown="1">
-  <summary>Co musí splňovat časopis ✅</summary> 
+  <summary><h4>Jak fungují Creative Commons licence</h4></summary> 
 
- - Podmínky vydavatele ponechávají majetková autorská práva autorce\*ovi.
- - Článek vyjde v časopise (Gold, Hybridním nebo Diamantovém) pod licencí CC BY 4.0.
- - Vydavatel umožňuje bezodkladné (bez embarga) nahrání verze po recenzním řízení nebo finální verze článku do repozitáře pod licencí CC BY 4.0.
+Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
+
+- Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) je nutnou podmínkou pro uznání výstupu v projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
+- Restriktivnější licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) nebo [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
 
 </details>
 
 ### 2) Odeslání článku do recenzního řízení 
 Vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení. To nesmí předcházet datu uzavření smlouvy s projektem.
 
-Pokud to vydavatel umožňuje, volba otevřeného recenzního řízení.
+Pokud to vydavatel umožňuje, zvolte otevřené recenzní řízení.
 
-[Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅](/osprinciples/open-access#co-musí-splňovat-článek-aby-byl-uznatelný-jako-výstup-projektu)
+Uveďte dedikaci projektu:
+ - Tato práce vznikla za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj.
+  - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
 ### 3) Přijetí článku k publikaci 
-Informování administrátorky\*a o přijetí článku, předpokládaném datu zveřejnění, zda byl vydán preprint a využito otevřené recenzní řízení.
+Prosíme, informujte administrátorky\*a o přijetí článku, předpokládaném datu zveřejnění, zda byl vydán preprint a využito otevřené recenzní řízení.
 
 ### 4) Vložení podkladových dat do repozitáře 
-Pokud to podmínky vydavatele dovolují, lze data nahrát ještě před publikováním článku, v souladu s principem včasného sdílení výsledků. 
+Pokud to podmínky vydavatele dovolují, lze data vložit do repozitáře ještě před publikováním článku, v souladu s principem včasného sdílení výsledků. 
 
 ### 5) Článek je publikován v časopise
 Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV. 
@@ -87,16 +81,7 @@ Nic jiného se nezaškrtává, pokud nejde o kombinaci financování.
 - Verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 – platí pro zelenou i zlatou cestu.
 - Má publikována podkladová data a je s nimi pomocí metadat propojen.
 - Splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a bude za instituci odveden.
-- Obsahuje poděkování projektu 
-  - Tato práce vznikla za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj.
-  - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
-
-## Creative Commons licence
-
-Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
-
-- Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) je nutnou podmínkou pro uznání výstupu v projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
-- Restriktivnější licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) nebo [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
+- Obsahuje dedikaci projektu.
 
 ---
 
