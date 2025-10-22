@@ -72,7 +72,7 @@ Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV.
 
 #### Doporučené repozitáře pro publikace
 - Institucionální repozitáře: [Masarykova univerzita](https://is.muni.cz/repozitar/), [Univerzita Karlova](https://dspace.cuni.cz/), [Psychologický ústav AV ČR](https://asep-portal.lib.cas.cz/)
-- Obecný repozitář [Zenodo](https://zenodo.org/)
+- Obecný repozitář [Zenodo](https://zenodo.org/); komunita projektu, ke které lze výstupy přiřadit: [zenodo.org/communities/langinlife]
 
 Pro asistenci s výběrem repozitáře a nahráním publikace se neváhejte obracet na OS podporu.
 
