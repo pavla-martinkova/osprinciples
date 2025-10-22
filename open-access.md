@@ -24,7 +24,7 @@ A) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY.
 - **Gold časopis**: všechny články jsou otevřené po uhrazení APC
 - **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
 - **Diamantový časopis**: všechny články jsou otevřené a autor\*ka nic neplatí
-
+  
 
 B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY. 
 
@@ -32,7 +32,7 @@ Uznatelné verze článku pro nahrání do repozitáře jsou Author Accepted Man
 
 ❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. 
 
-**Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu.** Pokud vydavatel licenci CC BY 4.0 nenabízí, pokusíme se najít řešení.
+Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu. Pokud vydavatel licenci CC BY 4.0 nenabízí, pokusíme se najít řešení.
 
 <details markdown="1">
   <summary>Jak uhradit APC (Article Processing Charge)</summary> 
