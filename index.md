@@ -2,6 +2,11 @@
 
 # Příručka otevřené vědy pro projekt LangInLife
 
+Účastí na projektu jsme se zavázali naplňovat principy otevřené vědy přiblížené v této příručce.
+- [Otevřený přístup k publikacím](/osprinciples/open-access)
+- [Správa výzkumných dat](/osprinciples/sprava-dat)
+- [Další postupy otevřené vědy](/osprinciples/dalsi-postupy)
+  
 ## Řešíte problém?
 - [Jak postupovat při publikování článku](/osprinciples/open-access#jak-postupovat-při-publikování-článku)
 - [Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅](/osprinciples/open-access#co-musí-splňovat-článek-aby-byl-uznatelný-jako-výstup-projektu)
@@ -12,11 +17,6 @@
 > ✉️ V případě nejasností neváhejte s čímkoliv kontaktovat OS podporu: <br>
 > Pavla Martinková – martinkova[at]phil.muni.cz <br>
 > CC Mirjana Stanojević – stanojevic[at]phil.muni.cz
-
-Účastí na projektu jsme se zavázali naplňovat principy otevřené vědy přiblížené v této příručce.
-- [Otevřený přístup k publikacím](/osprinciples/open-access)
-- [Správa výzkumných dat](/osprinciples/sprava-dat)
-- [Další postupy otevřené vědy](/osprinciples/dalsi-postupy)
 
 ## Další informace o otevřené vědě
 
