@@ -4,7 +4,7 @@
 
 Nakládání s daty je popsáno v projektovém plánu správy dat (Data Management Plan, DMP).
 
-[Plán správy dat na Zenodo](https://doi.org/10.5281/zenodo.16419710)
+- [Plán správy dat na Zenodo](https://doi.org/10.5281/zenodo.16419710)
 
 ## Jak nakládat s daty v průběhu projektu
 
@@ -41,23 +41,19 @@ V odůvodněných případech je možné ponechat data uzavřená, zpřístupnit
 
 Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma vydavatele (supplement u článku), ani v případě, že má dataset takto přidělené DOI.
 
-Data musí být uložena ve vhodném formátu a dostatečně popsána metadaty, ideálně podle oborových standardů. Dostatečná dokumentace zajistí srozumitelnost dat pro další využití.
+**Doporučené repozitáře pro data**
+- [re3data.org](https://www.re3data.org/): rejstřík datových repozitářů s možností vyhledávání a filtrování
 
-[re3data.org](https://www.re3data.org/): rejstřík datových repozitářů s možností vyhledávání a filtrování
-
-[Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
-
-<details markdown="1"> 
-<summary>Doporučené důvěryhodné repozitáře</summary>
-
-  Pokud neexistuje vhodný oborový repozitář, lze využít repozitáře obecné.
+Pokud neexistuje vhodný oborový repozitář, lze využít repozitáře obecné.
 - [Zenodo](https://zenodo.org/) spravuje CERN
   - Komunita projektu, ke které lze výstupy přiřadit: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
 - [Figshare](https://figshare.com/) spravuje Digital Science Company
 - [Dataverse](https://dataverse.org/) spravuje Harvard
 - [Národní datový repozitář](https://data.narodni-repozitar.cz/) spravuje CESNET
 
-</details>
+Data musí být uložena ve vhodném formátu a dostatečně popsána metadaty, ideálně podle oborových standardů. Dostatečná dokumentace zajistí srozumitelnost dat pro další využití.
+
+- [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
 
 <details markdown="1"> 
 <summary>Jaká poskytnout metadata k datovým sadám</summary>
