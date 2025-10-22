@@ -22,6 +22,7 @@
 
 - [Open Science na MU](https://www.openscience.muni.cz)
 - [Open Science na UK](https://openscience.cuni.cz)
+- [Open Science na AV ČR](https://openscience.lib.cas.cz/)
 - [Národní platforma Open Science](https://openscience.cz/cs/)
 - [Příručka Otevřená věda OP JAK](https://opjak.cz/dokumenty/otevrena-veda/)
 - [Metodický výklad Otevřená věda v OP JAK](https://opjak.cz/aktuality/metodicky-vyklad-otevrena-veda-pro-projekty-vyzvy-02_22_008-spickovy-vyzkum/)
