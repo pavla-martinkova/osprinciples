@@ -57,7 +57,7 @@ Vytvoření screenshotu nebo archivace mailové komunikace pro případné dolo�
 
 ❗Zavázali jsme se využívat **otevřené recenzní řízení** (je-li to možné) a **publikovat preprinty**.
 
-V článku musí být obsažena dedikace projektu:
+V článku musí být obsažena **dedikace projektu**:
  - Tato práce vznikla za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj.
   - This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
