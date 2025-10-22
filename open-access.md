@@ -90,7 +90,7 @@ Nic jiného se nezaškrtává, pokud nejde o kombinaci financování.
   
 - Prokazatelně vznikl v rámci projektu – odeslání do časopisu po začátku projektu a uzavření smlouvy.
 - Má přiděleno DOI.
-- Verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0 – platí pro zelenou i zlatou cestu.
+- Verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0. Platí i pokud článek vyšel v otevřeném časopise.
 - Má publikována podkladová data a je s nimi pomocí metadat propojen.
 - Splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a bude za instituci odveden.
 - Obsahuje dedikaci projektu.
