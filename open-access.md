@@ -28,7 +28,7 @@ A) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (Z
 
 B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY (Zelená cesta). Uznatelné verze článku pro nahrání do repozitáře jsou Author Accepted Manuscript (verze po recenzním řízení) nebo Version of Record (finální vydavatelská verze).
 
-❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu. 
+❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. 
 
 <details markdown="1">
   <summary>Jak uhradit APC (Article Processing Charge)</summary> 
@@ -48,14 +48,16 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 </details>
 
+❗**Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu.** Pokud vydavatel licenci CC BY 4.0 nenabízí, pokusíme se najít řešení.
+
 ### 2) Odeslání článku do recenzního řízení 
 Vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení. To nesmí předcházet datu uzavření smlouvy s projektem.
 
-Pokud to vydavatel umožňuje, volba otevřeného recenzního řízení.
+❗Zavázali jsme se využívat **otevřené recenzní řízení** je-li to možné, a **publikovat preprinty**.
 
 V článku musí být obsažena dedikace projektu:
  - Tato práce vznikla za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj.
-  - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
+  - This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
 ### 3) Přijetí článku k publikaci 
 Prosíme, informujte administrátorky\*a o přijetí článku, předpokládaném datu zveřejnění, zda byl vydán preprint a využito otevřené recenzní řízení.
@@ -65,6 +67,12 @@ Pokud to podmínky vydavatele dovolují, lze data vložit do repozitáře ješt�
 
 ### 5) Článek je publikován v časopise
 Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV. 
+
+#### Doporučené repozitáře pro publikace
+- Institucionální repozitáře: [Masarykova univerzita](https://is.muni.cz/repozitar/), [Univerzita Karlova](https://dspace.cuni.cz/), [Psychologický ústav AV ČR](https://asep-portal.lib.cas.cz/)
+- Obecný repozitář [Zenodo](https://zenodo.org/)
+
+❗**Pro asistenci s výběrem repozitáře a nahráním publikace se neváhejte obracet na OS podporu.** 
 
 <details markdown="1">
 <summary>Pro MU: Jak vyplnit záznam pro RIV</summary>
