@@ -30,6 +30,8 @@ B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejně
 
 ❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. 
 
+💡**Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu.** Pokud vydavatel licenci CC BY 4.0 nenabízí, pokusíme se najít řešení.
+
 <details markdown="1">
   <summary>Jak uhradit APC (Article Processing Charge)</summary> 
 
@@ -48,12 +50,10 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 </details>
 
-💡**Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu.** Pokud vydavatel licenci CC BY 4.0 nenabízí, pokusíme se najít řešení.
-
 ### 2) Odeslání článku do recenzního řízení 
 Vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení. To nesmí předcházet datu uzavření smlouvy s projektem.
 
-❗Zavázali jsme se využívat **otevřené recenzní řízení** je-li to možné, a **publikovat preprinty**.
+❗Zavázali jsme se využívat **otevřené recenzní řízení** (je-li to možné) a **publikovat preprinty**.
 
 V článku musí být obsažena dedikace projektu:
  - Tato práce vznikla za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj.
