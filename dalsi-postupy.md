@@ -22,9 +22,8 @@ Aby se publikace vyplněné v ISu zobrazovaly v ORCID profilu, je nutno udělit 
 
 Autorky\*ři budou „v relevantních případech“ sdílet články ve verzi před recenzním řízením, pokud to není v rozporu s podmínkami zvoleného časopisu.
 
-[Rejstřík preprintových serverů ASAPbio](https://asapbio.org/preprint-servers)
-
-[Server pro lingvistiku Lingbuzz](https://lingbuzz.net/)
+- [Rejstřík preprintových serverů](https://doapr.coar-repositories.org/repositories/)
+- [Server pro lingvistiku Lingbuzz](https://lingbuzz.net/)
 
 ### Předregistrace výzkumu
 
