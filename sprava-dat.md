@@ -48,10 +48,10 @@ Data musí být uložena ve vhodném formátu a dostatečně popsána metadaty, 
 
 **Doporučené repozitáře pro data**
 - [re3data.org](https://www.re3data.org/): rejstřík datových repozitářů s možností vyhledávání a filtrování
+- [LINDAT/CLARIAH-CZ](https://lindat.mff.cuni.cz/repository/): pro lingvistická data
 
 Pokud neexistuje vhodný oborový repozitář, lze využít repozitáře obecné.
-- [Zenodo](https://zenodo.org/) spravuje CERN
-  - Komunita projektu, ke které lze výstupy přiřadit: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
+- [Zenodo](https://zenodo.org/) spravuje CERN; komunita projektu, ke které lze výstupy přiřadit: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
 - [Figshare](https://figshare.com/) spravuje Digital Science Company
 - [Dataverse](https://dataverse.org/) spravuje Harvard
 - [Národní datový repozitář](https://data.narodni-repozitar.cz/) spravuje CESNET
