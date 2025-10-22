@@ -19,7 +19,7 @@ U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA do
 
 ### 1) Výběr časopisu a seznámení se s podmínkami vydavatele
 
-A) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (Zlatá cesta). Publikace musí být zároveň neprodleně po dni publikování nahrána do důvěryhodného repozitáře pod stejnou licencí.
+A) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (Zlatá cesta).
 
 - **Gold časopis**: všechny články jsou otevřené po uhrazení APC
 - **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
@@ -28,7 +28,7 @@ A) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY (Z
 
 B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY (Zelená cesta). Uznatelné verze článku pro nahrání do repozitáře jsou Author Accepted Manuscript (verze po recenzním řízení) nebo Version of Record (finální vydavatelská verze).
 
-❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se můžete obrátit na OS podporu. 
+❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu. 
 
 <details markdown="1">
   <summary>Jak uhradit APC (Article Processing Charge)</summary> 
@@ -39,7 +39,7 @@ B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejně
 </details>
 
 <details markdown="1">
-  <summary>Jak fungují Creative Commons licence</summary> 
+  <summary>Jak fungují Creative Commons licence</summary>
 
 Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
@@ -51,9 +51,9 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 ### 2) Odeslání článku do recenzního řízení 
 Vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení. To nesmí předcházet datu uzavření smlouvy s projektem.
 
-Pokud to vydavatel umožňuje, zvolte otevřené recenzní řízení.
+Pokud to vydavatel umožňuje, volba otevřeného recenzního řízení.
 
-Uveďte dedikaci projektu:
+V článku musí být obsažena dedikace projektu:
  - Tato práce vznikla za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj.
   - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
