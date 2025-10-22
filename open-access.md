@@ -48,7 +48,7 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 </details>
 
-❗**Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu.** Pokud vydavatel licenci CC BY 4.0 nenabízí, pokusíme se najít řešení.
+💡**Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu.** Pokud vydavatel licenci CC BY 4.0 nenabízí, pokusíme se najít řešení.
 
 ### 2) Odeslání článku do recenzního řízení 
 Vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení. To nesmí předcházet datu uzavření smlouvy s projektem.
@@ -72,7 +72,7 @@ Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV.
 - Institucionální repozitáře: [Masarykova univerzita](https://is.muni.cz/repozitar/), [Univerzita Karlova](https://dspace.cuni.cz/), [Psychologický ústav AV ČR](https://asep-portal.lib.cas.cz/)
 - Obecný repozitář [Zenodo](https://zenodo.org/)
 
-❗**Pro asistenci s výběrem repozitáře a nahráním publikace se neváhejte obracet na OS podporu.** 
+💡**Pro asistenci s výběrem repozitáře a nahráním publikace se neváhejte obracet na OS podporu.** 
 
 <details markdown="1">
 <summary>Pro MU: Jak vyplnit záznam pro RIV</summary>
