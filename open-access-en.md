@@ -40,21 +40,19 @@ Acceptable versions for depositing:
 ❗ Publishers have various conditions for uploading to repositories, which often include embargoes, the option to store only preprints or only in institutional, non-commercial, or closed repositories, or without granting a license. It is always necessary to familiarize yourself with the conditions before submitting an article. For assistance with selecting a journal and checking compliance with OA principles, please contact OS support.
 
 <details markdown="1">
-  <summary>Characteristics of a compliant journal</summary> 
-
- - Publisher's terms and conditions allow the author to retain copyright ownership.
- - The article will be published with a CC BY 4.0 license (in case of Gold, Hybrid or Diamond journal).
- - Publisher allows for the Author Accepted Manuscript or the final version of the article to be deposited in a repository under a CC BY 4.0 license immediately after publication (no embargo period).
-
-</details>
-
-<details markdown="1">
   <summary>How to pay the APC (Article Processing Charge)</summary> 
 
   The fees for opening an article are around EUR 3,000 (it can be much more) and project funds are allocated for this purpose. It is possible to take advantage of discounts thanks to agreements with publishers within the Czechelib project – [instructions for authors](https://www.czechelib.cz/en/442-instructions-for-authors).
 - For MU: Limited-number tokens are not allocated to project publications; discounts and fee waivers are available.
 
 </details>
+
+
+#### Characteristics of a compliant journal
+
+ - Publisher's terms and conditions allow the author to retain copyright ownership.
+ - The article will be published with a CC BY 4.0 license (in case of Gold, Hybrid or Diamond journal).
+ - Publisher allows for the Author Accepted Manuscript or the final version of the article to be deposited in a repository under a CC BY 4.0 license immediately after publication (no embargo period).
 
 ### 2) Submitting the article 
 Create a screenshot or archive the email communication to prove the date of submission. The date must be after the start of your contract with the project.
