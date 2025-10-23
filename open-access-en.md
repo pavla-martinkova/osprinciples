@@ -17,7 +17,7 @@ For other types of outputs (**O, conference presentations, posters**), OA is rec
 
 ## Creative Commons licenses
 
-For granting a license, the author must retain ownership rights.
+For granting a license, the author must retain copyright ownership.
 
 - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license is necessary for accepting the article as a project output; it allows end users to use the work under the condition of attribution  
 - More restrictive [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) or [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licenses are only acceptable for longer texts (e.g. monographs) after justification; the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work).
@@ -37,7 +37,7 @@ Acceptable versions for depositing:
 - Author Accepted Manuscript (version after peer-review)
 - Version of Record (final version)
 
-❗ Publishers have various conditions for uploading to repositories, which often include embargoes, the option to store only preprints or only in institutional, non-commercial, or closed repositories, or without granting a license. It is always necessary to familiarize yourself with the conditions before submitting an article. For assistance with selecting a journal and checking compliance with OA principles, please contact OS support.
+❗ Publishers have various conditions for uploading to repositories, which often include embargoes, the option to store only preprints, or only in institutional, non-commercial or closed repositories, or without granting a license. It is always necessary to familiarize yourself with the conditions before submitting an article. For assistance with selecting a journal and checking compliance with OA principles, please do not hesitate to contact OS support.
 
 <details markdown="1">
   <summary>How to pay the APC (Article Processing Charge)</summary> 
@@ -47,9 +47,7 @@ Acceptable versions for depositing:
 
 </details>
 
-
 #### Characteristics of a compliant journal
-
  - Publisher's terms and conditions allow the author to retain copyright ownership.
  - The article will be published with a CC BY 4.0 license (in case of Gold, Hybrid or Diamond journal).
  - Publisher allows for the Author Accepted Manuscript or the final version of the article to be deposited in a repository under a CC BY 4.0 license immediately after publication (no embargo period).
@@ -63,10 +61,16 @@ The article must contain project acknowledgement:
     - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
 ### 3) Article is accepted for publication
-If the publisher's conditions allow, this can be done before the article is published (in line with the principle of early access to results).
+If the publisher's conditions allow, this can be done before the article is published – in line with the principle of early access to results.
 
 ### 4) Article is published 
 Depositing the appropriate version of the article to a trusted repository and creating a publication record for RIV (Czech register of scientific outcomes).
+
+#### Recommended repositories for publications
+- Institutional repositories: [Masaryk University](https://is.muni.cz/repozitar/?lang=en), [Charles University](https://dspace.cuni.cz/?locale-attribute=en), [Institute of Psychology of the Czech Academy of Sciences](https://asep.lib.cas.cz/arl-cav/en/search/)
+- General repository [Zenodo](https://zenodo.org/); project community to which outputs can be assigned: [[zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)]
+
+For assistance with selecting a repository and uploading a publication, please do not hesitate to contact OS support.
 
 <details markdown="1">
 <summary>For MU: How to fill in a publication record for RIV</summary>
