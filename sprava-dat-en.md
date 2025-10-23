@@ -4,7 +4,7 @@
 
 Data management is described in detail in the project's Data Management Plan.
 
-[Data Management Plan on Zenodo](https://doi.org/10.5281/zenodo.16419710)
+- [Data Management Plan on Zenodo](https://doi.org/10.5281/zenodo.16419710)
 
 ## How to handle data during the project
 
@@ -37,26 +37,24 @@ In justified cases, data may be kept closed, made available on request or after 
 </details>
 
 ## Where and how to publish research data
+Do not hesitate to contact OS support for more information.
 
 Data needs to be published in a trusted repository. The publisher's platform (data supplement) is not sufficient, even if DOI has been assigned this way.
 
 Data needs to be stored in a suitable format and adequately described by metadata, ideally in accordance with standards. Adequate documentation will ensure that data is comprehensible for re-users.
 
-[re3data.org](https://www.re3data.org/): data repositories registry with search and filter options
+- [File formats recommended by the UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
+- [FAIRsharing.org](https://fairsharing.org/): database of standards, formats, and other resources for FAIR data
 
-[File formats recommended by the UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
+### Recommended trusted repositorie
+- [re3data.org](https://www.re3data.org/): data repositories registry with search and filter options
+- [LINDAT/CLARIAH-CZ](https://lindat.mff.cuni.cz/repository/): for linguistic data
 
-<details markdown="1"> 
-<summary>Recommended trusted repositories</summary>
-
-  If there is no suitable subject-specific repository, general repositories can be used.
-- [Zenodo](https://zenodo.org/) maintained by CERN
-  - Community for LangInLife project: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
+If there is no suitable subject-specific repository, general repositories can be used.
+- [Zenodo](https://zenodo.org/) maintained by CERN; Community for LangInLife project: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
 - [Figshare](https://figshare.com/) maintained by Digital Science Company
 - [Dataverse](https://dataverse.org/) maintained Harvard
 - [Národní datový repozitář](https://data.narodni-repozitar.cz/) maintained by CESNET
-
-</details>
 
 <details markdown="1"> 
 <summary>What metadata to provide for datasets</summary>
@@ -106,8 +104,6 @@ The list is based on [General recommendations for metadata description of resear
 - **R**eusable  thanks to providing context through metadata and documentation.
 
 [How FAIR are your data checklist](https://zenodo.org/records/3739188)
-
-[FAIRsharing.org](https://fairsharing.org/): database of standards, formats, and other resources for FAIR data
 
 ---
 
