@@ -15,6 +15,13 @@ Povinný je OA pro všechny publikační výstupy typu:
 
 U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA doporučený a vítaný. 
 
+## Jak fungují Creative Commons licence
+
+Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
+
+- Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) je nutnou podmínkou pro uznání výstupu v projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
+- Restriktivnější licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) nebo [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
+
 ## Jak postupovat při publikování článku
 
 ### 1) Výběr časopisu a seznámení se s podmínkami vydavatele
@@ -42,16 +49,6 @@ Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se nevá
 
 </details>
 
-<details markdown="1">
-  <summary>Jak fungují Creative Commons licence</summary>
-
-Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
-
-- Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) je nutnou podmínkou pro uznání výstupu v projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
-- Restriktivnější licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) nebo [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
-
-</details>
-
 ### 2) Odeslání článku do recenzního řízení 
 Vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení. To nesmí předcházet datu uzavření smlouvy s projektem.
 
@@ -61,14 +58,11 @@ V článku musí být obsažena **dedikace projektu**:
  - Tato práce vznikla za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj.
   - This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
-### 3) Přijetí článku k publikaci 
-Prosíme, informujte administrátorky\*a o přijetí článku, předpokládaném datu zveřejnění, zda byl vydán preprint a využito otevřené recenzní řízení.
+### 3) Přijetí článku k publikaci
+Pokud to podmínky vydavatele dovolují, lze data vložit do repozitáře ještě před samotným publikováním článku, v souladu s principem včasného sdílení výsledků.
 
-### 4) Vložení podkladových dat do repozitáře 
-Pokud to podmínky vydavatele dovolují, lze data vložit do repozitáře ještě před publikováním článku, v souladu s principem včasného sdílení výsledků. 
-
-### 5) Článek je publikován v časopise
-Nahrání článku do repozitáře a vyplnění publikačního záznamu pro RIV. 
+### 4) Článek je publikován v časopise
+Nahrání článku do repozitáře pod licencí CC BY 4.0 a vyplnění publikačního záznamu pro RIV.
 
 #### Doporučené repozitáře pro publikace
 - Institucionální repozitáře: [Masarykova univerzita](https://is.muni.cz/repozitar/), [Univerzita Karlova](https://dspace.cuni.cz/), [Psychologický ústav AV ČR](https://asep-portal.lib.cas.cz/)
