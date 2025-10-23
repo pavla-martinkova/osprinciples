@@ -15,14 +15,38 @@ Mandatory OA for all publication outputs of the type:
 
 For other types of outputs (**O, conference presentations, posters**), OA is recommended and welcome.
 
-## How to comply with the OA condition
+## Creative Commons licenses
 
-### 1) Publishing with a publisher that will make the publication available under a CC BY license (Gold OA)
-The publication must also be uploaded to a trusted repository with the same license immediately after the date of publication.
+For granting a license, the author must retain ownership rights.
 
+- [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license is necessary for accepting the article as a project output; it allows end users to use the work under the condition of attribution  
+- More restrictive [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) or [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licenses are only acceptable for longer texts (e.g. monographs) after justification; the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work).
+
+## How to proceed when publishing an article
+
+### 1) Selecting a journal 
+
+A) Publishing with a publisher that will make the publication available under a CC BY license.
 - **Gold journal**: all articles are open after APC is paid 
 - **Hybrid journal**: some articles are open after APC is paid 
-- **Diamond journal**: all articles are open with no cost for the author 
+- **Diamond journal**: all articles are open with no cost for the author
+
+B) Publishing in a subscription-based journal and depositing the publication in a trusted repository under a CC BY license.
+
+Acceptable versions for depositing: 
+- Author Accepted Manuscript (version after peer-review)
+- Version of Record (final version)
+
+❗ Publishers have various conditions for uploading to repositories, which often include embargoes, the option to store only preprints or only in institutional, non-commercial, or closed repositories, or without granting a license. It is always necessary to familiarize yourself with the conditions before submitting an article. For assistance with selecting a journal and checking compliance with OA principles, please contact OS support.
+
+<details markdown="1">
+  <summary>Characteristics of a compliant journal</summary> 
+
+ - Publisher's terms and conditions allow the author to retain copyright ownership.
+ - The article will be published with a CC BY 4.0 license (in case of Gold, Hybrid or Diamond journal).
+ - Publisher allows for the Author Accepted Manuscript or the final version of the article to be deposited in a repository under a CC BY 4.0 license immediately after publication (no embargo period).
+
+</details>
 
 <details markdown="1">
   <summary>How to pay the APC (Article Processing Charge)</summary> 
@@ -32,42 +56,18 @@ The publication must also be uploaded to a trusted repository with the same lice
 
 </details>
 
-### 2) Non-open publishing and depositing the publication in a trusted repository under a CC BY license (Green Road)
-
-Acceptable versions for depositing: 
-- Author Accepted Manuscript (version after peer-review)
-- Version of Record (final version)
-
-❗ Publishers have various conditions for uploading to repositories, which often include embargoes, the option to store only preprints or only in institutional, non-commercial, or closed repositories, or without granting a license. It is always necessary to familiarize yourself with the conditions before submitting an article. For assistance with selecting a journal and checking compliance with OA principles, please contact OS support. 
-
-## How to proceed when publishing an article
-
-### 1) Selecting a journal 
-Getting acquainted with the terms and conditions of the publisher. Inform project administration about the potential cost of APC.
-
-<details markdown="1">
-  <summary>Conditions of a compliant journal</summary> 
-
- - Publisher's terms and conditions allow the author to retain copyright ownership.
- - The article will be published with a CC BY 4.0 license (in case of Gold, Hybrid or Diamond journal).
- - Publisher allows for the Author Accepted Manuscript or the final version of the article to be deposited in a repository under a CC BY 4.0 license immediately after publication (no embargo period).
-
-</details>
-
 ### 2) Submitting the article 
 Create a screenshot or archive the email communication to prove the date of submission. The date must be after the start of your contract with the project.
 
-If possible, opt for open peer review.
+❗ If possible, opt for open peer review and publish a preprint.
 
-Check [What criteria must an article meet to be recognized as a project output ✅](/osprinciples/open-access-en#what-criteria-must-an-article-meet-to-be-recognized-as-a-project-output)
+The article must contain project acknowledgement:
+    - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
 ### 3) Article is accepted for publication
-Informing the project administrator about the acceptance of the article, the expected date of publication, whether a preprint has been issued, and whether an open review process has been used.
-
-### 4) Uploading any related data to the repository 
 If the publisher's conditions allow, this can be done before the article is published (in line with the principle of early access to results).
 
-### 5) Article is published 
+### 4) Article is published 
 Depositing the appropriate version of the article to a trusted repository and creating a publication record for RIV (Czech register of scientific outcomes).
 
 <details markdown="1">
@@ -89,13 +89,6 @@ Other checkboxes remain unchecked, unless there is a combination of funding.
  - Meets the criteria for inclusion in RIV (Czech register of scientific outcomes) as an expected outcome and will be submitted on behalf of the institution.
  - Contains project acknowledgement.
     - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
-
-## Creative Commons license
-
-For granting a license, the author must retain ownership rights.
-
-- [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license is necessary for accepting the article as a project output; it allows end users to use the work under the condition of attribution  
-- More restrictive [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) or [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licenses are only acceptable for longer texts (e.g. monographs) after justification; the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work).
 
 ---
 
