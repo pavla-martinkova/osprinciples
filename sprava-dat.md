@@ -48,7 +48,7 @@ Data musí být uložena ve vhodném formátu a dostatečně popsána metadaty, 
 - [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
 - [FAIRsharing.org](https://fairsharing.org/): databáze standardů, formátů a dalších zdrojů pro FAIR data
 
-**Doporučené repozitáře pro data**
+### Doporučené repozitáře pro data
 - [re3data.org](https://www.re3data.org/): rejstřík datových repozitářů s možností vyhledávání a filtrování
 - [LINDAT/CLARIAH-CZ](https://lindat.mff.cuni.cz/repository/): pro lingvistická data
 
