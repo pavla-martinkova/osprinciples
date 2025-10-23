@@ -37,9 +37,7 @@ B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejně
 
 Uznatelné verze článku pro nahrání do repozitáře jsou Author Accepted Manuscript (verze po recenzním řízení) nebo Version of Record (finální vydavatelská verze).
 
-❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. 
-
-Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu. Pokud vydavatel licenci CC BY 4.0 nenabízí, pokusíme se najít řešení.
+❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu.
 
 <details markdown="1">
   <summary>Jak uhradit APC (Article Processing Charge)</summary> 
@@ -65,7 +63,7 @@ Pokud to podmínky vydavatele dovolují, lze data vložit do repozitáře ješt�
 Nahrání článku do repozitáře pod licencí CC BY 4.0 a vyplnění publikačního záznamu pro RIV.
 
 #### Doporučené repozitáře pro publikace
-- Institucionální repozitáře: [Masarykova univerzita](https://is.muni.cz/repozitar/), [Univerzita Karlova](https://dspace.cuni.cz/), [Psychologický ústav AV ČR](https://asep-portal.lib.cas.cz/)
+- Institucionální repozitáře: [Masarykova univerzita](https://is.muni.cz/repozitar/), [Univerzita Karlova](https://dspace.cuni.cz/), [Psychologický ústav AV ČR](https://asep.lib.cas.cz/arl-cav/)
 - Obecný repozitář [Zenodo](https://zenodo.org/); komunita projektu, ke které lze výstupy přiřadit: [zenodo.org/communities/langinlife]
 
 Pro asistenci s výběrem repozitáře a nahráním publikace se neváhejte obracet na OS podporu.
