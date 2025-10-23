@@ -2,8 +2,6 @@
 
 # Other open science practices
 
-If you apply any of the following practices (excluding ORCID) please inform project administration.
-
 ## ORCID
 
 Authors will create and maintain [ORCID](https://orcid.org/) and include it in their outputs when possible. 
