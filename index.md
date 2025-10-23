@@ -10,7 +10,6 @@
 ## Řešíte problém?
 - [Jak postupovat při publikování článku](/osprinciples/open-access#jak-postupovat-při-publikování-článku)
 - [Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅](/osprinciples/open-access#co-musí-splňovat-článek-aby-byl-uznatelný-jako-výstup-projektu)
-- [Jak nakládat s daty v průběhu projektu](/osprinciples/sprava-dat#jak-nakládat-s-daty-v-průběhu-projektu)
 - [Kde a jak zveřejnit výzkumná data](/osprinciples/sprava-dat#kde-a-jak-zveřejnit-výzkumná-data)
 - [Co musí splňovat zveřejněná výzkumná data ✅](/osprinciples/sprava-dat#co-musí-splňovat-zveřejněná-výzkumná-data)
 
