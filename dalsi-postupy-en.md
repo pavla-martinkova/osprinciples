@@ -20,9 +20,8 @@ In order for publications entered in the IS to be displayed in your ORCID profil
 
 Authors will share preprint versions of articles ‘when relevant’, unless this conflicts with the terms and conditions of the chosen journal. 
 
-[Preprint servers registry ASAPbio](https://asapbio.org/preprint-servers)
-
-[Lingbuzz preprint server](https://lingbuzz.net/)
+- [Preprint servers registry ASAPbio](https://asapbio.org/preprint-servers)
+- [Lingbuzz preprint server](https://lingbuzz.net/)
 
 ### Pre-registration of research 
 
