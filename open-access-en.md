@@ -86,11 +86,10 @@ Other checkboxes remain unchecked, unless there is a combination of funding.
   
  - Was verifiably produced within the project – submission to a journal after the project has started and author has signed the contract.
  - DOI is assigned.
- - The version after peer review or the final version is uploaded to a trusted repository under a CC BY 4.0 license – this applies to both green and gold OA.
+ - The version after peer review or the final version is uploaded to a trusted repository under a CC BY 4.0 license. This also applies if the article was published in an open journal.
  - Underlying data are published and linked to the article by metadata.
  - Meets the criteria for inclusion in RIV (Czech register of scientific outcomes) as an expected outcome and will be submitted on behalf of the institution.
  - Contains project acknowledgement.
-    - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
 ---
 
