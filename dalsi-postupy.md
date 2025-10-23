@@ -2,8 +2,6 @@
 
 # Další postupy otevřené vědy
 
-Pokud využijete některou z níže uvedených možností (kromě ORCID), informujte administrátorky\*y projektu kvůli vykazování.
-
 ## Identifikátor ORCID
 
 Autorky\*ři budou mít zřízený [ORCID](https://orcid.org/) a budou jej uvádět u svých výstupů.
@@ -39,7 +37,7 @@ Pokud časopis nabízí otevřené recenzní řízení, měli bychom tuto možno
 
 ## Zveřejňování výzkumných zpráv
 
-Výzkumné zprávy budou opatřeny persistentním identifikátorem,vloženy do institucionálních repozitářů partnerů a odkazovány na webu projektu.
+Výzkumné zprávy budou opatřeny persistentním identifikátorem, vloženy do institucionálních repozitářů partnerů a odkazovány na webu projektu.
 
 ## Občanská věda
 
