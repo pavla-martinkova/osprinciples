@@ -39,6 +39,8 @@ Uznatelné verze článku pro nahrání do repozitáře jsou Author Accepted Man
 
 ❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu.
 
+👉 Nástroj pro ověření politiky časopisu [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/)
+
 <details markdown="1">
   <summary>Jak uhradit APC (Article Processing Charge)</summary> 
 

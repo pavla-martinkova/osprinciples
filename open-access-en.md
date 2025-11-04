@@ -39,6 +39,8 @@ Acceptable versions for depositing:
 
 ❗ Publishers have various conditions for uploading to repositories, which often include embargoes, the option to store only preprints, or only in institutional, non-commercial or closed repositories, or without granting a license. It is always necessary to familiarize yourself with the conditions before submitting an article. For assistance with selecting a journal and checking compliance with OA principles, please do not hesitate to contact OS support.
 
+👉 Tool for checking journals‘ policies [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/)
+
 <details markdown="1">
   <summary>How to pay the APC (Article Processing Charge)</summary> 
 
