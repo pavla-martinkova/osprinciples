@@ -16,6 +16,9 @@ Tak, aby byla srozumitelná a dostupná i v případě odchodu klíčových prac
 
 Při znovupoužití dat je potřeba dokumentovat filtrování nebo výběr, pokud nebude využit kompletní dataset.
 
+- [Doporučerní pro užívání uložišť](https://it.muni.cz/prehledy/doporuceni-pro-uzivani-ulozist) pro MU, s užitečnou kategorizací dat
+- [OwnCloud](https://www.cesnet.cz/sluzby/datova-uloziste-3/owncloud-16) uložiště od CESNETu, 100 GB (lze navýšit)
+
 ## Jaká data je potřeba zveřejňovat
 
 - Podkladová data k recenzovaným publikacím vzniklým v rámci projektu.

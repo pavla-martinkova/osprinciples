@@ -13,8 +13,11 @@ So that it remains understandable and accessible even in case of departure of ke
 - Consistent naming of files and folders.
 - Secure storage and backup to ensure that data is stored in at least two locations.
 - Sufficient documentation to clarify, for example, the meaning of column names in tables or abbreviations used.
+- When reusing data, it is necessary to document filtering or selection if the complete dataset is not used.
 
-When reusing data, it is necessary to document filtering or selection if the complete dataset is not used.
+
+- [Recommendations for the usage of storages](https://it.muni.cz/en/overviews/recommendations-for-the-usage-of-storages) for MU, but categorisation of data useful for everyone
+- [OwnCloud](https://www.cesnet.cz/en/services/data-storage-3/owncloud-16) storage from CESNET, 100 GB (and more upon request)
 
 ## Which data needs to be open
 
@@ -65,7 +68,7 @@ If there is no suitable subject-specific repository, general repositories can be
 - Publisher and its persistent identifier (ROR)
 - Comprehensible description of the dataset
 - Information about data availability (time embargo, license, and other details)
-- Persistent identifiers of the dataset
+- Persistent identifier of the dataset
 - Information about funding (funding provider and project number)
 - Classification according to scientific disciplines
 - Keywords
