@@ -57,8 +57,7 @@ If there is no suitable subject-specific repository, general repositories can be
 - [Dataverse](https://dataverse.org/) maintained by Harvard
 - [Národní datový repozitář](https://data.narodni-repozitar.cz/) maintained by CESNET
 
-<details markdown="1"> 
-<summary>What metadata to provide for datasets</summary>
+### What metadata to provide for datasets
 
 - Name of the dataset, understandable on its own (not Data for the article)
 - Full names of the creators (authors and contributors) and their permanent identifier (ORCID)
@@ -72,8 +71,6 @@ If there is no suitable subject-specific repository, general repositories can be
 - Keywords
 
 The list is based on [General recommendations for metadata description of research results (NTK, Czech only)](https://doi.org/10.48813/yt6w-6h15).
-
-</details>
 
 <details markdown="1"> 
 <summary>Relevant metadata standards</summary>

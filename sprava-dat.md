@@ -59,8 +59,7 @@ Pokud neexistuje vhodný oborový repozitář, lze využít repozitáře obecné
 - [Dataverse](https://dataverse.org/) spravuje Harvard
 - [Národní datový repozitář](https://data.narodni-repozitar.cz/) spravuje CESNET
 
-<details markdown="1"> 
-<summary>Jaká poskytnout metadata k datovým sadám</summary>
+### Jaká poskytnout metadata k datovým sadám
 
 - Název datové sady, srozumitelný sám o sobě (ne Data k článku)
 - Celá jména původců (autorů a přispěvatelů) a jejich trvalý identifikátor (ORCID)
@@ -74,8 +73,6 @@ Pokud neexistuje vhodný oborový repozitář, lze využít repozitáře obecné
 - Klíčová slova
 
 Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výzkumu (NTK)](https://doi.org/10.48813/yt6w-6h15).
-
-</details>
 
 <details markdown="1"> 
 <summary>Relevantní metadatové standardy</summary>
