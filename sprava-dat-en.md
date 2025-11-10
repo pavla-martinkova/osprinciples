@@ -53,7 +53,7 @@ Data needs to be stored in a suitable format and adequately described by metadat
 If there is no suitable subject-specific repository, general repositories can be used.
 - [Zenodo](https://zenodo.org/) maintained by CERN; Community for LangInLife project: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
 - [Figshare](https://figshare.com/) maintained by Digital Science Company
-- [Dataverse](https://dataverse.org/) maintained Harvard
+- [Dataverse](https://dataverse.org/) maintained by Harvard
 - [Národní datový repozitář](https://data.narodni-repozitar.cz/) maintained by CESNET
 
 <details markdown="1"> 
