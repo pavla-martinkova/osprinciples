@@ -61,7 +61,7 @@ Pokud neexistuje vhodný oborový repozitář, lze využít repozitáře obecné
 
 ### Jaká poskytnout metadata k datovým sadám
 
-- Název datové sady, srozumitelný sám o sobě (ne Data k článku)
+- Název datové sady, srozumitelný sám o sobě
 - Celá jména původců (autorů a přispěvatelů) a jejich trvalý identifikátor (ORCID)
 - Datum (plánovaného, v případě embarga) zveřejnění
 - Vydavatel a jeho trvalý identifikátor (ROR)

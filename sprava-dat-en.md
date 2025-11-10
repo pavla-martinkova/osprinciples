@@ -59,7 +59,7 @@ If there is no suitable subject-specific repository, general repositories can be
 
 ### What metadata to provide for datasets
 
-- Name of the dataset, understandable on its own (not Data for the article)
+- Name of the dataset, understandable on its own
 - Full names of the creators (authors and contributors) and their permanent identifier (ORCID)
 - Date (planned, in case of embargo) of publication
 - Publisher and its persistent identifier (ROR)
