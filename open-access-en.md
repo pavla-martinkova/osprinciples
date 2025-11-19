@@ -80,6 +80,7 @@ For assistance with selecting a repository and uploading a publication, please d
 When creating a publication record in the [IS Publications app](https://is.muni.cz/auth/publikace/?lang=en) it is necessary to enter two codes in the relevant sections to ensure the correct attribution to the project: 
 - CZ.02.01.01/00/23_025/0008726 as interní kód MU (not translated)
 - EH23_025/0008726 as research and development project  
+
 Other checkboxes remain unchecked, unless there is a combination of funding.
 
 </details>

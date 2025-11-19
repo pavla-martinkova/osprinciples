@@ -76,6 +76,7 @@ Pro asistenci s výběrem repozitáře a nahráním publikace se neváhejte obra
 Při vytváření záznamu [v aplikaci Publikace (IS)](https://is.muni.cz/auth/publikace) je pro zajištění návaznosti na projekt v příslušné sekci potřeba vložit dva kódy:
 - CZ.02.01.01/00/23_025/0008726 s příznakem interní kód MU
 - EH23_025/0008726 s příznakem řešení projektu VaV
+
 Nic jiného se nezaškrtává, pokud nejde o kombinaci financování.
 
 </details>
