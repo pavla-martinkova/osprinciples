@@ -18,7 +18,7 @@ Aby se publikace vyplněné v ISu zobrazovaly v ORCID profilu, je nutno udělit 
 
 ### Preprinty
 
-Autorky\*ři budou „v relevantních případech“ sdílet články ve verzi před recenzním řízením, pokud to není v rozporu s podmínkami zvoleného časopisu.
+Autorky\*ři budou sdílet články ve verzi před recenzním řízením, pokud to není v rozporu s podmínkami zvoleného časopisu.
 
 - [Rejstřík preprintových serverů](https://doapr.coar-repositories.org/repositories/)
 - [Server pro lingvistiku Lingbuzz](https://lingbuzz.net/)

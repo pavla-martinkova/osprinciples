@@ -42,7 +42,7 @@ Do not hesitate to contact OS support for more information.
 
 Data needs to be published in a trusted repository. The publisher's platform (data supplement) is not sufficient, even if DOI has been assigned this way.
 
-Data needs to be stored in a suitable format and adequately described by metadata, ideally in accordance with standards. Adequate documentation will ensure that data is comprehensible for re-users.
+Data needs to be stored in a suitable format and adequately described by metadata, in accordance with subject specific standards. Adequate documentation will ensure that data is comprehensible for re-users.
 
 - [File formats recommended by the UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
 - [FAIRsharing.org](https://fairsharing.org/): database of standards, formats, and other resources for FAIR data

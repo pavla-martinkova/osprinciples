@@ -7,20 +7,17 @@ Open Access according to OP JAK is:
 - **Unlimited** – outcomes are reusable thanks to licenses 
 - **Immediate** – access is provided without time embargo
 
-Mandatory OA for all publication outputs of the type: 
-- **J, peer-reviewed article** – includes article, review and letter 
-- **B, peer-reviewed book**
-- **C, chapter in a peer-reviewed book**
-- **D, paper in proceedings**
+Mandatory OA for all publication outputs of the type **J, peer-reviewed article** – includes article, review and letter.
+**An exception** applies to articles with a main (corresponding) author affiliated mainly to a foreign institution.
 
-For other types of outputs (**O, conference presentations, posters**), OA is recommended and welcome.
+For other types of outputs (**B, peer-reviewed book**; **C, chapter in a peer-reviewed book**; **D, paper in proceedings**; **O, conference presentations, posters**), OA is recommended and welcome.
 
 ## Creative Commons licenses
 
 For granting a license, the author must retain copyright ownership.
 
 - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license is necessary for accepting the article as a project output; it allows end users to use the work under the condition of attribution  
-- More restrictive [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) or [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licenses are only acceptable for longer texts (e.g. monographs) after justification; the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work).
+- More restrictive [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) or [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licenses are not acceptable for articles; the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work).
 
 ## How to proceed when publishing an article
 
@@ -57,7 +54,7 @@ Acceptable versions for depositing:
 ### 2) Submitting the article 
 Create a screenshot or archive the email communication to prove the date of submission. The date must be after the start of your contract with the project.
 
-❗ If possible, opt for open peer review and publish a preprint.
+❗ Publish a preprint and if possible, opt for open peer review.
 
 The article must contain project acknowledgement:
     - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).

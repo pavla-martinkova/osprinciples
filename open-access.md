@@ -7,26 +7,23 @@ Otevřený přístup v OP JAK je:
 - **Neomezený** – umožněno opětovné využití díky licencím 
 - **Okamžitý** – zpřístupnění bez časového embarga
 
-Povinný je OA pro všechny publikační výstupy typu: 
-- **J, recenzovaný odborný článek** – zahrnuje article (původní článek), review (přehledový článek) a letter (krátké sdělení) 
-- **B, odborná kniha**
-- **C, kapitola v odborné knize**
-- **D, stať ve sborníku**
+Povinný je OA pro všechny publikační výstupy typu **J, recenzovaný odborný článek** – zahrnuje article (původní článek), review (přehledový článek) a letter (krátké sdělení).
+**Výjimka** platí pro články se zahraničním korespondenčním autorem.
 
-U ostatních typů výsledků (**O, prezentace na konferenci, poster**) je OA doporučený a vítaný. 
+U ostatních typů výsledků (**B, odborná kniha**; **C, kapitola v odborné knize**; **D, stať ve sborníku**; **O, prezentace na konferenci, poster**) je OA doporučený a vítaný. 
 
 ## Jak fungují Creative Commons licence
 
 Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 - Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) je nutnou podmínkou pro uznání výstupu v projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
-- Restriktivnější licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) nebo [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) jsou po zdůvodnění možné pro delší texty, např. monografie. Doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
+- Restriktivnější licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) nebo [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) nejsou u článků uznávány; doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
 
 ## Jak postupovat při publikování článku
 
 ### 1) Výběr časopisu a seznámení se s podmínkami vydavatele
 
-A) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY.
+A) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY 4.0 (bez dalších omezení).
 
 - **Gold časopis**: všechny články jsou otevřené po uhrazení APC
 - **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
@@ -35,7 +32,9 @@ A) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY.
 
 B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY. 
 
-Uznatelné verze článku pro nahrání do repozitáře jsou Author Accepted Manuscript (verze po recenzním řízení) nebo Version of Record (finální vydavatelská verze).
+Uznatelné verze článku pro nahrání do repozitáře:
+- Author Accepted Manuscript (verze po recenzním řízení)
+- Version of Record (finální vydavatelská verze)
 
 ❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu.
 
@@ -52,7 +51,7 @@ Uznatelné verze článku pro nahrání do repozitáře jsou Author Accepted Man
 ### 2) Odeslání článku do recenzního řízení 
 Vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení. To nesmí předcházet datu uzavření smlouvy s projektem.
 
-❗Zavázali jsme se využívat **otevřené recenzní řízení** (je-li to možné) a **publikovat preprinty**.
+❗Zavázali jsme se **publikovat preprinty** a vždy, když je to možné, využívat **otevřené recenzní řízení**.
 
 V článku musí být obsažena **dedikace projektu**:
  - Tato práce vznikla za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj.
