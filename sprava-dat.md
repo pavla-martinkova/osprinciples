@@ -44,7 +44,7 @@ Pro asistenci se neváhejte obracet na OS podporu.
 
 Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma vydavatele (supplement u článku), ani v případě, že má dataset takto přidělené DOI.
 
-Data musí být uložena ve vhodném formátu a dostatečně popsána metadaty, ideálně podle oborových standardů. Dostatečná dokumentace zajistí srozumitelnost dat pro další využití.
+Data musí být uložena ve vhodném formátu a dostatečně popsána metadaty, podle oborových standardů. Dostatečná dokumentace zajistí srozumitelnost dat pro další využití.
 
 - [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
 - [FAIRsharing.org](https://fairsharing.org/): databáze standardů, formátů a dalších zdrojů pro FAIR data
