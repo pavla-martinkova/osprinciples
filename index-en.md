@@ -2,12 +2,12 @@
 
 # Open Science manual for LangInLife project 
 
-By participating on the project, we committed to open science principles which are presented in this manual. 
+By participating on the project, we committed to open science principles which are presented in this online manual. 
 - [Open Access to publications](/osprinciples/open-access-en)
 - [Research data management](/osprinciples/sprava-dat-en)
 - [Other open science principles](/osprinciples/dalsi-postupy-en)
 
-## Are you dealing with a specific issue? 
+## Life situations and checklists ✅ 
 - [How to proceed when publishing an article](/osprinciples/open-access-en#how-to-proceed-when-publishing-an-article)
 - [What criteria must an article meet to be recognized as a project output ✅](/osprinciples/open-access-en#what-criteria-must-an-article-meet-to-be-recognized-as-a-project-output)
 - [Where and how to publish research data](/osprinciples/sprava-dat-en#where-and-how-to-publish-research-data)

@@ -23,13 +23,18 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 ### 1) Výběr časopisu a seznámení se s podmínkami vydavatele
 
-A) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY 4.0 (bez dalších omezení).
+A) Publikovat u vydavatele, který publikaci zpřístupní **pod licencí CC BY 4.0**.
 
 - **Gold časopis**: všechny články jsou otevřené po uhrazení APC
 - **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
 - **Diamantový časopis**: všechny články jsou otevřené a autor\*ka nic neplatí
-  
 
+<details markdown="1">
+  <summary>Jak uhradit APC (Article Processing Charge)</summary> 
+
+  Prosíme, informujte administrátorky\*a o případném APC poplatku. Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib – [instrukce pro autory](https://www.czechelib.cz/cs/419-instrukce-pro-autory).
+- Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, je možné využít plošných slev a odpuštění poplatků.
+  
 B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY. 
 
 Uznatelné verze článku pro nahrání do repozitáře:
@@ -39,12 +44,6 @@ Uznatelné verze článku pro nahrání do repozitáře:
 ❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu.
 
 👉 Nástroj pro ověření politiky časopisu [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/)
-
-<details markdown="1">
-  <summary>Jak uhradit APC (Article Processing Charge)</summary> 
-
-  Prosíme, informujte administrátorky\*a o případném APC poplatku. Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib – [instrukce pro autory](https://www.czechelib.cz/cs/419-instrukce-pro-autory).
-- Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, je možné využít plošných slev a odpuštění poplatků.
 
 </details>
 
@@ -58,7 +57,7 @@ V článku musí být obsažena **dedikace projektu**:
   - This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
 ### 3) Přijetí článku k publikaci
-Pokud to podmínky vydavatele dovolují, lze data vložit do repozitáře ještě před samotným publikováním článku, v souladu s principem včasného sdílení výsledků.
+Pokud to podmínky vydavatele dovolují, lze **v repozitáři zveřejnit podkladová data** ještě před samotným publikováním článku, v souladu s principem včasného sdílení výsledků.
 
 ### 4) Článek je publikován v časopise
 Nahrání článku do repozitáře pod licencí CC BY 4.0 a vyplnění publikačního záznamu pro RIV.

@@ -23,10 +23,19 @@ For granting a license, the author must retain copyright ownership.
 
 ### 1) Selecting a journal 
 
-A) Publishing with a publisher that will make the publication available under a CC BY license.
+A) Publishing with a publisher that will make the publication available **under a CC BY 4.0 license**.
+
 - **Gold journal**: all articles are open after APC is paid 
 - **Hybrid journal**: some articles are open after APC is paid 
 - **Diamond journal**: all articles are open with no cost for the author
+
+<details markdown="1">
+  <summary>How to pay the APC (Article Processing Charge)</summary> 
+
+  The fees for opening an article are around EUR 3,000 (it can be much more) and project funds are allocated for this purpose. It is possible to take advantage of discounts thanks to agreements with publishers within the Czechelib project – [instructions for authors](https://www.czechelib.cz/en/442-instructions-for-authors).
+- For MU: Limited-number tokens are not allocated to project publications; discounts and fee waivers are available.
+
+</details>
 
 B) Publishing in a subscription-based journal and depositing the publication in a trusted repository under a CC BY license.
 
@@ -37,14 +46,6 @@ Acceptable versions for depositing:
 ❗ Publishers have various conditions for uploading to repositories, which often include embargoes, the option to store only preprints, or only in institutional, non-commercial or closed repositories, or without granting a license. It is always necessary to familiarize yourself with the conditions before submitting an article. For assistance with selecting a journal and checking compliance with OA principles, please do not hesitate to contact OS support.
 
 👉 Tool for checking journals‘ policies [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/)
-
-<details markdown="1">
-  <summary>How to pay the APC (Article Processing Charge)</summary> 
-
-  The fees for opening an article are around EUR 3,000 (it can be much more) and project funds are allocated for this purpose. It is possible to take advantage of discounts thanks to agreements with publishers within the Czechelib project – [instructions for authors](https://www.czechelib.cz/en/442-instructions-for-authors).
-- For MU: Limited-number tokens are not allocated to project publications; discounts and fee waivers are available.
-
-</details>
 
 #### Characteristics of a compliant journal
  - Publisher's terms and conditions allow the author to retain copyright ownership.
@@ -60,7 +61,7 @@ The article must contain project acknowledgement:
     - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
 ### 3) Article is accepted for publication
-If the publisher's conditions allow, this can be done before the article is published – in line with the principle of early access to results.
+If the publisher's conditions allow, the **data can be uploaded to a repository** even before the article is published, in line with the principle of early access to results.
 
 ### 4) Article is published 
 Depositing the appropriate version of the article to a trusted repository and creating a publication record for RIV (Czech register of scientific outcomes).

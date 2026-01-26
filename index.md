@@ -2,12 +2,12 @@
 
 # Příručka otevřené vědy pro projekt LangInLife
 
-Účastí na projektu jsme se zavázali naplňovat principy otevřené vědy přiblížené v této příručce.
+Účastí na projektu jsme se zavázali naplňovat principy otevřené vědy přiblížené v této onlibne příručce.
 - [Otevřený přístup k publikacím](/osprinciples/open-access)
 - [Správa výzkumných dat](/osprinciples/sprava-dat)
 - [Další postupy otevřené vědy](/osprinciples/dalsi-postupy)
   
-## Řešíte problém?
+## Životní situace a kontrolní seznamy ✅
 - [Jak postupovat při publikování článku](/osprinciples/open-access#jak-postupovat-při-publikování-článku)
 - [Co musí splňovat článek, aby byl uznatelný jako výstup projektu ✅](/osprinciples/open-access#co-musí-splňovat-článek-aby-byl-uznatelný-jako-výstup-projektu)
 - [Kde a jak zveřejnit výzkumná data](/osprinciples/sprava-dat#kde-a-jak-zveřejnit-výzkumná-data)
