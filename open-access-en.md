@@ -37,6 +37,7 @@ A) Publishing with a publisher that will make the publication available **under 
 
 </details>
 
+
 B) Publishing in a subscription-based journal and depositing the publication in a trusted repository under a CC BY license.
 
 Acceptable versions for depositing: 
@@ -58,7 +59,7 @@ Create a screenshot or archive the email communication to prove the date of subm
 ❗ Publish a preprint and if possible, opt for open peer review.
 
 The article must contain project acknowledgement:
-    - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
+  - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
 ### 3) Article is accepted for publication
 If the publisher's conditions allow, the **data can be uploaded to a repository** even before the article is published, in line with the principle of early access to results.

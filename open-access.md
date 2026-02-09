@@ -34,7 +34,9 @@ A) Publikovat u vydavatele, který publikaci zpřístupní **pod licencí CC BY 
 
   Prosíme, informujte administrátorky\*a o případném APC poplatku. Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib – [instrukce pro autory](https://www.czechelib.cz/cs/419-instrukce-pro-autory).
 - Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, je možné využít plošných slev a odpuštění poplatků.
-  
+  </details>
+
+
 B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY. 
 
 Uznatelné verze článku pro nahrání do repozitáře:
@@ -44,8 +46,6 @@ Uznatelné verze článku pro nahrání do repozitáře:
 ❗ Vydavatelé mají pro nahrání do repozitáře různé podmínky, které mnohdy zahrnují embargo, možnost uložení pouze preprintu nebo pouze do institucionálního, nekomerčního, nebo uzavřeného repozitáře nebo bez udělení licence. Vždy je nutné se s podmínkami před zasláním článku seznámit. Pro asistenci s výběrem časopisu a kontrolou naplnění principů OA se neváhejte obracet na OS podporu.
 
 👉 Nástroj pro ověření politiky časopisu [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/)
-
-</details>
 
 ### 2) Odeslání článku do recenzního řízení 
 Vytvoření screenshotu nebo archivace mailové komunikace pro případné doložení data odeslání do recenzního řízení. To nesmí předcházet datu uzavření smlouvy s projektem.
