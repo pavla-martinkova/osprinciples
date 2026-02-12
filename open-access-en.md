@@ -23,7 +23,7 @@ For granting a license, the author must retain copyright ownership.
 
 ### 1) Selecting a journal 
 
-A) Publishing with a publisher that will make the publication available **under a CC BY 4.0 license**.
+#### A) Publishing with a publisher that will make the publication available **under a CC BY 4.0 license**.
 
 - **Gold journal**: all articles are open after APC is paid 
 - **Hybrid journal**: some articles are open after APC is paid 
@@ -37,8 +37,7 @@ A) Publishing with a publisher that will make the publication available **under 
 
 </details>
 
-
-B) Publishing in a subscription-based journal and depositing the publication in a trusted repository under a CC BY license.
+#### B) Publishing in a subscription-based journal and depositing the publication in a trusted repository under a CC BY license.
 
 Acceptable versions for depositing: 
 - Author Accepted Manuscript (version after peer-review)
