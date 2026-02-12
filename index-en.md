@@ -31,8 +31,6 @@ By participating on the project, we committed to open science principles which a
 
 <img src="/osprinciples/footer.png" alt="Logo" style="width: 60%;">
 
-Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz).
-
-This site was built using [GitHub Pages](https://pages.github.com/).
+Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Otevřená věda v projektu LangInLife](https://pavla-martinkova.github.io/osprinciples/) © 2026 by [Pavla Martinková](https://github.com/pavla-martinkova) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

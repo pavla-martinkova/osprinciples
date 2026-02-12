@@ -110,8 +110,6 @@ Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výz
 
 [langinlife.muni.cz](https://langinlife.muni.cz)
 
-Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz).
-
-This site was built using [GitHub Pages](https://pages.github.com/).
+Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Otevřená věda v projektu LangInLife](https://pavla-martinkova.github.io/osprinciples/) © 2026 by [Pavla Martinková](https://github.com/pavla-martinkova) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
