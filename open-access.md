@@ -30,10 +30,12 @@ A) Publikovat u vydavatele, který publikaci zpřístupní **pod licencí CC BY 
 - **Diamantový časopis**: všechny články jsou otevřené a autor\*ka nic neplatí
 
 <details markdown="1">
+
   <summary>Jak uhradit APC (Article Processing Charge)</summary> 
 
   Prosíme, informujte administrátorky\*a o případném APC poplatku. Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib – [instrukce pro autory](https://www.czechelib.cz/cs/419-instrukce-pro-autory).
 - Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, je možné využít plošných slev a odpuštění poplatků.
+ 
   </details>
 
 
