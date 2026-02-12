@@ -23,7 +23,7 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 ### 1) Výběr časopisu a seznámení se s podmínkami vydavatele
 
-#### A) Publikovat u vydavatele, který publikaci zpřístupní **pod licencí CC BY 4.0**.
+#### A) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY 4.0.
 
 - **Gold časopis**: všechny články jsou otevřené po uhrazení APC
 - **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
@@ -38,7 +38,7 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
  
 </details>
 
-#### B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY. 
+#### B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY 4.0. 
 
 Uznatelné verze článku pro nahrání do repozitáře:
 - Author Accepted Manuscript (verze po recenzním řízení)
