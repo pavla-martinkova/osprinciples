@@ -38,7 +38,6 @@ A) Publikovat u vydavatele, který publikaci zpřístupní **pod licencí CC BY 
  
 </details>
 
-
 B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY. 
 
 Uznatelné verze článku pro nahrání do repozitáře:
