@@ -47,11 +47,6 @@ Acceptable versions for depositing:
 
 👉 Tool for checking journals‘ policies [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/)
 
-#### Characteristics of a compliant journal
- - Publisher's terms and conditions allow the author to retain copyright ownership.
- - The article will be published with a CC BY 4.0 license (in case of Gold, Hybrid or Diamond journal).
- - Publisher allows for the Author Accepted Manuscript or the final version of the article to be deposited in a repository under a CC BY 4.0 license immediately after publication (no embargo period).
-
 ### 2) Submitting the article 
 Create a screenshot or archive the email communication to prove the date of submission. The date must be after the start of your contract with the project.
 
