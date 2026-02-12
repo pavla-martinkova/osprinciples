@@ -27,7 +27,7 @@ By participating on the project, we committed to open science principles which a
 
 ---
 
-[langinlife.muni.cz](https://langinlife.muni.cz)
+[langinlife.muni.cz](https://langinlife.muni.cz/en)
 
 <img src="/osprinciples/footer.png" alt="Logo" style="width: 60%;">
 
