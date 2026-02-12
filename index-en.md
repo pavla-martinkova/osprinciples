@@ -35,4 +35,4 @@ Text is based on the Methodology for Open Science in [the RES-HUM project](https
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-[Otevřená věda v projektu LangInLife](https://pavla-martinkova.github.io/osprinciples/) © 2025 by [Pavla Martinková](https://github.com/pavla-martinkova) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+[Otevřená věda v projektu LangInLife](https://pavla-martinkova.github.io/osprinciples/) © 2026 by [Pavla Martinková](https://github.com/pavla-martinkova) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
