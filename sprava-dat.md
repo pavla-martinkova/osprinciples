@@ -56,6 +56,7 @@ Data musí být uložena ve vhodném formátu a dostatečně popsána metadaty, 
 Pokud neexistuje vhodný oborový repozitář, lze využít repozitáře obecné.
 - [Zenodo](https://zenodo.org/) spravuje CERN; komunita projektu, ke které lze výstupy přiřadit: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
 - [Figshare](https://figshare.com/) spravuje Digital Science Company
+- [Dryad](https://datadryad.org/) komunitně spravovaný, s kurátorskou kontrolou
 - [Dataverse](https://dataverse.org/) spravuje Harvard
 - [Národní datový repozitář](https://data.narodni-repozitar.cz/) spravuje CESNET
 
