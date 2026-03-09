@@ -28,7 +28,7 @@
 
 ---
 
-[langinlife.muni.cz](https://langinlife.muni.cz)
+[langinlife.muni.cz](https://langinlife.muni.cz) |
 
 <img src="/osprinciples/LOGO.png" alt="Logo projektu" style="width: 60%;">
 
