@@ -30,7 +30,9 @@
 
 [langinlife.muni.cz](https://langinlife.muni.cz)
 
-<img src="/osprinciples/footer.png" alt="Logo projektu" style="width: 60%;">
+<img src="/osprinciples/LOGO.png" alt="Logo projektu" style="width: 60%;">
+
+*Toto dílo vzniklo za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj.​*
 
 Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
 

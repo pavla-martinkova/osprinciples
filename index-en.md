@@ -29,7 +29,9 @@ By participating on the project, we committed to open science principles which a
 
 [langinlife.muni.cz](https://langinlife.muni.cz/en)
 
-<img src="/osprinciples/footer.png" alt="Logo" style="width: 60%;">
+<img src="/osprinciples/LOGO-en.png" alt="Logo" style="width: 60%;">
+
+*This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).​*
 
 Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
 
