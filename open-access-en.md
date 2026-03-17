@@ -83,7 +83,7 @@ Other checkboxes remain unchecked, unless there is a combination of funding.
  - Was verifiably produced within the project – submission to a journal after the project has started and author has signed the contract.
  - DOI is assigned.
  - The version after peer review or the final version is uploaded to a trusted repository under a CC BY 4.0 license. This also applies if the article was published in an open journal.
- - Underlying data are published and linked to the article by metadata.
+ - Research data supporting findings in the article are stored in a trusted repository and linked to the article by metadata. If legal requirements allow, data are published under CC BY 4.0 or similar license.
  - Meets the criteria for inclusion in RIV (Czech register of scientific outcomes) as an expected outcome and will be submitted on behalf of the institution.
  - Contains project acknowledgement.
 
