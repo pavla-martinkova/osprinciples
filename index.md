@@ -2,7 +2,7 @@
 
 # Příručka otevřené vědy pro projekt LangInLife
 
-Účastí na projektu jsme se zavázali naplňovat principy otevřené vědy přiblížené v této onlibne příručce.
+Účastí na projektu jsme se zavázali naplňovat principy otevřené vědy přiblížené v této online příručce.
 - [Otevřený přístup k publikacím](/osprinciples/open-access)
 - [Správa výzkumných dat](/osprinciples/sprava-dat)
 - [Další postupy otevřené vědy](/osprinciples/dalsi-postupy)
