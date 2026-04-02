@@ -46,11 +46,6 @@ Pro asistenci se neváhejte obracet na OS podporu.
 
 Data musí být zveřejněna v důvěryhodném repozitáři. Nestačí platforma vydavatele (supplement u článku), ani v případě, že má dataset takto přidělené DOI.
 
-Data musí být uložena ve vhodném formátu a dostatečně popsána metadaty, podle oborových standardů. Dostatečná dokumentace zajistí srozumitelnost dat pro další využití.
-
-- [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
-- [FAIRsharing.org](https://fairsharing.org/): databáze standardů, formátů a dalších zdrojů pro FAIR data
-
 ### Doporučené repozitáře pro data
 - [re3data.org](https://www.re3data.org/): rejstřík datových repozitářů s možností vyhledávání a filtrování
 - [LINDAT/CLARIAH-CZ](https://lindat.mff.cuni.cz/repository/): pro lingvistická data
@@ -61,6 +56,11 @@ Pokud neexistuje vhodný oborový repozitář, lze využít repozitáře obecné
 - [Dryad](https://datadryad.org/) komunitně spravovaný, s kurátorskou kontrolou
 - [Dataverse](https://dataverse.org/) spravuje Harvard
 - [Národní datový repozitář](https://data.narodni-repozitar.cz/) spravuje CESNET
+
+Data musí být uložena ve vhodném formátu a dostatečně popsána metadaty. Dostatečná dokumentace zajistí srozumitelnost dat pro další využití.
+
+- [Přehledová tabulka vhodných formátů podle typu dat (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
+- [FAIRsharing.org](https://fairsharing.org/): databáze standardů, formátů a dalších zdrojů pro FAIR data
 
 ### Jaká poskytnout metadata k datovým sadám
 
@@ -78,7 +78,7 @@ Pokud neexistuje vhodný oborový repozitář, lze využít repozitáře obecné
 Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výzkumu (NTK)](https://doi.org/10.48813/yt6w-6h15).
 
 <details markdown="1"> 
-<summary>Relevantní metadatové standardy</summary>
+<summary>Relevantní metadatové standardy →</summary>
 
 - [Brain Imaging Data Structure](https://bids.neuroimaging.io/) (BIDS)
 - [Component Metadata Specification](https://fairsharing.org/FAIRsharing.2e0599) (CMDI)
