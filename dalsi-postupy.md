@@ -33,7 +33,7 @@ Sdílení dat v důvěryhodném repozitáři ještě před zveřejněním danéh
 
 ## Open peer-review
 
-Pokud časopis nabízí otevřené recenzní řízení, měli bychom tuto možnost využít.
+Pokud časopis nabízí otevřené recenzní řízení, je nutné bychom tuto možnost využít.
 
 ## Zveřejňování výzkumných zpráv
 

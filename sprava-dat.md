@@ -12,21 +12,23 @@ Tak, aby byla srozumitelná a dostupná i v případě odchodu klíčových prac
 
 - Konzistentní pojmenovávání souborů a složek.
 - Využívání bezpečných uložišť a zálohování, aby byla data uložena alespoň na dvou místech.
-  - [Doporučerní pro užívání uložišť](https://it.muni.cz/prehledy/doporuceni-pro-uzivani-ulozist) pro MU, s užitečnou kategorizací dat
+  - [Doporučení pro užívání uložišť](https://it.muni.cz/prehledy/doporuceni-pro-uzivani-ulozist) pro MU, s užitečnou kategorizací dat
   - [OwnCloud](https://www.cesnet.cz/sluzby/datova-uloziste-3/owncloud-16) uložiště od CESNETu, 100 GB (lze navýšit)
 - Udržování dokumentace, aby bylo jasné například co znamenají názvy sloupců v tabulce nebo použité zkratky.
 - Při znovupoužití dat je potřeba dokumentovat filtrování nebo výběr, pokud nebude využit kompletní dataset.
 
-## Jaká data je potřeba zveřejňovat
+## Jaká data je potřeba ukládat do repozitáře
 
 - Podkladová data k recenzovaným publikacím vzniklým v rámci projektu.
 - Data spjatá s dalšími (nepublikačními) výsledky.
 - Data, která nejsou spjatá s konkrétním výsledkem, ale mohou být využitelná mimo projekt.
 
+„*Uložení se týká zejména podkladových dat spjatých s recenzovanou publikací potřebných k ověření výsledků prezentovaných v publikaci nebo jakýchkoli jiných dat spjatých s dalšími (nepublikačními) výsledky výzkumu nebo dat, která nejsou spjatá s žádným konkrétním výsledkem výzkumu, ale mohou být využitelná i mimo projekt. (...) Zda se budou do repozitáře ukládat surová („raw“) nebo zpracovaná data záleží na oborových zvyklostech, kontextu a typu shromážděných či vytvořených dat;*“
+
 V odůvodněných případech je možné ponechat data uzavřená, zpřístupnit je na vyžádání, nebo se zpožděním. Vždy musí být zveřejněna metadata.
 
 <details markdown="1"> 
-  <summary>Oprávněné důvody pro nezveřejnění dat</summary>
+  <summary>Oprávněné důvody pro nezveřejnění dat →</summary>
 
 - Právo na ochranu soukromí
 - Ochrana osobních údajů

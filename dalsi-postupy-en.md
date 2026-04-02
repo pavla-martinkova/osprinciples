@@ -33,7 +33,7 @@ Sharing data in a trusted repository before article publication date.
 
 ## Open peer-review
 
-If a journal offers open peer-review, we should take advantage of this opportunity.   
+If a journal offers open peer-review, it is neccessary take advantage of this opportunity.   
 
 ## Publishing research reports 
 

@@ -23,21 +23,21 @@ For granting a license, the author must retain copyright ownership.
 
 ### 1) Selecting a journal 
 
-#### A) Publishing with a publisher that will make the publication available **under a CC BY 4.0 license**.
+#### 1A) Publishing with a publisher that will make the publication available **under a CC BY 4.0 license**.
 
 - **Gold journal**: all articles are open after APC is paid 
 - **Hybrid journal**: some articles are open after APC is paid 
 - **Diamond journal**: all articles are open with no cost for the author
 
 <details markdown="1">
-  <summary>How to pay the APC (Article Processing Charge)</summary> 
+  <summary>How to pay the APC (Article Processing Charge) →</summary> 
 
   The fees for opening an article are around EUR 3,000 (it can be much more) and project funds are allocated for this purpose. It is possible to take advantage of discounts thanks to agreements with publishers within the Czechelib project – [instructions for authors](https://www.czechelib.cz/en/442-instructions-for-authors).
 - For MU: Limited-number tokens are not allocated to project publications; discounts and fee waivers are available.
 
 </details>
 
-#### B) Publishing in a subscription-based journal and depositing the publication in a trusted repository under a CC BY license.
+#### 1B) Publishing in a subscription-based journal and depositing the publication in a trusted repository under a CC BY license.
 
 Acceptable versions for depositing: 
 - Author Accepted Manuscript (version after peer-review)
@@ -81,11 +81,12 @@ Other checkboxes remain unchecked, unless there is a combination of funding.
 ## What criteria must an article meet to be recognized as a project output
   
  - Was verifiably produced within the project – submission to a journal after the project has started and author has signed the contract.
- - DOI is assigned.
- - The version after peer review or the final version is uploaded to a trusted repository under a CC BY 4.0 license. This also applies if the article was published in an open journal.
- - Research data supporting findings in the article are stored in a trusted repository and linked to the article by metadata. If legal requirements allow, data are published under CC BY 4.0 or similar license.
- - Meets the criteria for inclusion in RIV (Czech register of scientific outcomes) as an expected outcome and will be submitted on behalf of the institution.
  - Contains project acknowledgement.
+ - The version after peer review or the final version is uploaded to a trusted repository under a CC BY 4.0 license. This also applies if the article was published in an open journal.
+ - Research data supporting findings in the article are stored in a trusted repository and linked to the article by metadata. If legal requirements allow, data are published under **CC BY 4.0** or similar license.
+ - Meets the criteria for inclusion in RIV (Czech register of scientific outcomes) as an expected outcome and will be submitted on behalf of the institution.
+ - DOI is assigned.
+
 
 ---
 

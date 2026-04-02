@@ -23,7 +23,7 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 ### 1) Výběr časopisu a seznámení se s podmínkami vydavatele
 
-#### A) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY 4.0.
+#### 1A) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY 4.0.
 
 - **Gold časopis**: všechny články jsou otevřené po uhrazení APC
 - **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
@@ -31,14 +31,14 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 <details markdown="1">
 
-  <summary>Jak uhradit APC (Article Processing Charge)</summary> 
+  <summary>Jak uhradit APC (Article Processing Charge) →</summary> 
 
   Prosíme, informujte administrátorky\*a o případném APC poplatku. Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib – [instrukce pro autory](https://www.czechelib.cz/cs/419-instrukce-pro-autory).
 - Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, je možné využít plošných slev a odpuštění poplatků.
  
 </details>
 
-#### B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY 4.0. 
+#### 1B) Publikovat v **uzavřeném časopise** a neprodleně (bez embarga) zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY 4.0. 
 
 Uznatelné verze článku pro nahrání do repozitáře:
 - Author Accepted Manuscript (verze po recenzním řízení)
@@ -80,14 +80,14 @@ Nic jiného se nezaškrtává, pokud nejde o kombinaci financování.
 
 </details>
 
-## Co musí splňovat článek, aby byl uznatelný jako výstup projektu
+## Co musí splňovat publikace, aby byla uznatelná jako výstup projektu
   
-- Prokazatelně vznikl v rámci projektu – odeslání do časopisu po začátku projektu a uzavření smlouvy.
-- Má přiděleno DOI.
-- Verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí CC BY 4.0. Platí i pokud článek vyšel v otevřeném časopise.
-- Má publikována podkladová data a je s nimi pomocí metadat propojen.
-- Splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a bude za instituci odveden.
+- Prokazatelně vznikla v rámci projektu – odeslání do časopisu po začátku projektu a uzavření smlouvy.
 - Obsahuje dedikaci projektu.
+- Verze po recenzním řízení nebo finální verze je nahrána v důvěryhodném repozitáři pod licencí **CC BY 4.0**. Platí i pokud publikace vyšla v otevřeném časopise.
+- Podkladová data jsou uložena a pokud možno publikována v důvěryhodném repozitáři. Publikace a data jsou propojeny pomocí metadat.
+- Splňuje kritéria pro odvod do RIV jako očekávaný druh výsledku a bude za instituci odvedena.
+- Má přiděleno DOI.
 
 ---
 

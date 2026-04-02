@@ -23,10 +23,12 @@ So that it remains understandable and accessible even in case of departure of ke
 - Data associated with other (non-publication) results.
 - Data that are not associated with a specific result but may be usable outside the project.
 
+„*Publication of data mainly concerns underlying data related to peer reviewed publication that is necessary to verify the results presented in such publication (...) Whether raw or processed data will be stored in the repository depends on the customs of the field, the context, and the type of data collected or created.*“
+
 In justified cases, data may be kept closed, made available on request or after an embargo period. Metadata must always be published. 
 
 <details markdown="1"> 
-  <summary>Legitimate reasons for non-disclosure</summary>
+  <summary>Legitimate reasons for non-disclosure →</summary>
 
 - Right to privacy
 - Data protection and confidentiality
@@ -42,11 +44,6 @@ Do not hesitate to contact OS support for more information.
 
 Data needs to be published in a trusted repository. The publisher's platform (data supplement) is not sufficient, even if DOI has been assigned this way.
 
-Data needs to be stored in a suitable format and adequately described by metadata, in accordance with subject specific standards. Adequate documentation will ensure that data is comprehensible for re-users.
-
-- [File formats recommended by the UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
-- [FAIRsharing.org](https://fairsharing.org/): database of standards, formats, and other resources for FAIR data
-
 ### Recommended trusted repositorie
 - [re3data.org](https://www.re3data.org/): data repositories registry with search and filter options
 - [LINDAT/CLARIAH-CZ](https://lindat.mff.cuni.cz/repository/): for linguistic data
@@ -57,6 +54,11 @@ If there is no suitable subject-specific repository, general repositories can be
 - [Dryad](https://datadryad.org/) community-run with curatorial oversight
 - [Dataverse](https://dataverse.org/) maintained by Harvard
 - [Národní datový repozitář](https://data.narodni-repozitar.cz/) maintained by CESNET
+
+Data needs to be stored in a suitable format and adequately described by metadata, in accordance with subject specific standards. Adequate documentation will ensure that data is comprehensible for re-users.
+
+- [File formats recommended by the UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats)
+- [FAIRsharing.org](https://fairsharing.org/): database of standards, formats, and other resources for FAIR data
 
 ### What metadata to provide for datasets
 
@@ -74,7 +76,7 @@ If there is no suitable subject-specific repository, general repositories can be
 The list is based on [General recommendations for metadata description of research results (NTK, Czech only)](https://doi.org/10.48813/yt6w-6h15).
 
 <details markdown="1"> 
-<summary>Relevant metadata standards</summary>
+<summary>Relevant metadata standards →</summary>
 
 - [Brain Imaging Data Structure](https://bids.neuroimaging.io/) (BIDS)
 - [Component Metadata Specification](https://fairsharing.org/FAIRsharing.2e0599) (CMDI)
