@@ -33,8 +33,7 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 </details>
 
-
-Typy otevřených časopisů:
+##### Typy otevřených časopisů
 - **Gold časopis**: všechny články jsou otevřené po uhrazení APC
 - **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
 - **Diamantový časopis**: všechny články jsou otevřené a autor\*ka nic neplatí
@@ -52,7 +51,7 @@ Typy otevřených časopisů:
 
 V takovém případě je potřeba neprodleně (bez embarga) po datu publikace zveřejněnit článek v důvěryhodném repozitáři pod licencí **CC BY 4.0**.
 
-Uznatelné verze článku pro nahrání do repozitáře:
+##### Uznatelné verze článku pro nahrání do repozitáře
 - Author Accepted Manuscript (verze po recenzním řízení)
 - Version of Record (finální vydavatelská verze)
 
