@@ -16,8 +16,13 @@ U ostatních typů výsledků (**B, odborná kniha**; **C, kapitola v odborné k
 
 ### 1) Výběr časopisu a seznámení se s podmínkami vydavatele
 
-#### 1A) Publikovat u vydavatele, který publikaci zpřístupní pod licencí CC BY 4.0.
+#### 1A) Publikovat v otevřeném časopise.
 
+Vydavatel publikaci zpřístupní pod licencí **CC BY 4.0**. 
+
+❗Požadavkem je tato konkrétní licence, restriktivnější (NC, ND) jsou uznávány pouze pokud vydavatel licenci CC BY 4.0 nenabízí, což je potřeba doložit.
+
+Typy otevřených časopisů:
 - **Gold časopis**: všechny články jsou otevřené po uhrazení APC
 - **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
 - **Diamantový časopis**: všechny články jsou otevřené a autor\*ka nic neplatí
@@ -42,7 +47,9 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
  
 </details>
 
-#### 1B) Publikovat v uzavřeném časopise a neprodleně (bez embarga) zveřejněnit verzi výstupu v důvěryhodném repozitáři pod licencí CC BY 4.0. 
+#### 1B) Publikovat v uzavřeném časopise.
+
+V takovém případě je potřeba neprodleně (bez embarga) po datu publikace zveřejněnit článek v důvěryhodném repozitáři pod licencí **CC BY 4.0**.
 
 Uznatelné verze článku pro nahrání do repozitáře:
 - Author Accepted Manuscript (verze po recenzním řízení)
