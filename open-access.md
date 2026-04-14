@@ -16,7 +16,7 @@ U ostatních typů výsledků (**B, odborná kniha**; **C, kapitola v odborné k
 
 ### 1) Výběr časopisu a seznámení se s podmínkami vydavatele
 
-#### 1A) Publikovat v otevřeném časopise.
+#### 1A) Publikování v otevřeném časopise
 
 Vydavatel publikaci zpřístupní pod licencí **CC BY 4.0**. 
 
@@ -47,7 +47,7 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
  
 </details>
 
-#### 1B) Publikovat v uzavřeném časopise.
+#### 1B) Publikování v uzavřeném časopise
 
 V takovém případě je potřeba neprodleně (bez embarga) po datu publikace zveřejněnit článek v důvěryhodném repozitáři pod licencí **CC BY 4.0**.
 
