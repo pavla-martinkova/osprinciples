@@ -22,14 +22,10 @@ Vydavatel publikaci zpřístupní pod licencí **CC BY 4.0**.
 
 ❗Požadavkem je tato konkrétní licence, restriktivnější (NC, ND) jsou uznávány pouze pokud vydavatel licenci CC BY 4.0 nenabízí, což je potřeba doložit.
 
-Typy otevřených časopisů:
-- **Gold časopis**: všechny články jsou otevřené po uhrazení APC
-- **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
-- **Diamantový časopis**: všechny články jsou otevřené a autor\*ka nic neplatí
-
 <details markdown="1">
 
 <summary>Jak fungují Creative Commons licence →</summary> 
+
 
 Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
@@ -38,9 +34,15 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 </details>
 
+Typy otevřených časopisů:
+- **Gold časopis**: všechny články jsou otevřené po uhrazení APC
+- **Hybridní časopis**: některé články jsou otevřené po uhrazení APC
+- **Diamantový časopis**: všechny články jsou otevřené a autor\*ka nic neplatí
+
 <details markdown="1">
 
   <summary>Jak uhradit APC (Article Processing Charge) →</summary> 
+
 
   Prosíme, informujte administrátorky\*a o případném APC poplatku. Poplatky za otevření článku se pohybují okolo 3000 EUR (může to být mnohem víc) a jsou na ně vyčleněny projektové finance. Je možné využít slev díky smlouvám s vydavateli v rámci projektu Czechelib – [instrukce pro autory](https://www.czechelib.cz/cs/419-instrukce-pro-autory).
 - Pro MU: Tokeny s omezeným počtem nejsou přidělovány projektovým publikacím, je možné využít plošných slev a odpuštění poplatků.
