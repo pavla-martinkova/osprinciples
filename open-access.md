@@ -97,7 +97,7 @@ Pro asistenci s výběrem repozitáře a nahráním publikace se neváhejte obra
 - Publikace prokazatelně vznikla v rámci projektu – odeslání do časopisu po nástupu na projekt.
 - Obsahuje dedikaci projektu.
 - Má přiděleno DOI.
-- Autork*ka si zachová majetková práva k dílu a článek vyjde pod licencí **CC BY 4.0**, pokud to vydavatel umožňuje.
+- Autor*ka si zachová majetková práva k dílu a článek vyjde pod licencí **CC BY 4.0**, pokud to vydavatel umožňuje.
 - Verze po recenzním řízení nebo finální verze článku je nahrána v důvěryhodném repozitáři pod licencí **CC BY 4.0**. Platí i pokud publikace vyšla v otevřeném časopise.
 - Podkladová data jsou uložena a pokud možno publikována v důvěryhodném repozitáři. 
 - Publikace a data jsou propojeny pomocí metadat.
