@@ -14,7 +14,7 @@
 - [Kde a jak zveřejnit výzkumná data](/osprinciples/sprava-dat#kde-a-jak-zveřejnit-výzkumná-data)
 - [Co musí splňovat zveřejněná výzkumná data ✅](/osprinciples/sprava-dat#co-musí-splňovat-zveřejněná-výzkumná-data)
 
-> ✉️ V případě nejasností neváhejte s čímkoliv kontaktovat OS podporu: langinlife.os@phil.muni.cz <br>
+> ✉️ V případě nejasností neváhejte s čímkoliv kontaktovat OS podporu: **langinlife.os@phil.muni.cz** <br>
 > Mirjana Stanojević – projektová manažerka <br>
 > Pavla Martinková – OS manažerka <br>
 > Jiří Šťastný – finanční manažer

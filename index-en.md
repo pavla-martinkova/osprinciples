@@ -14,7 +14,7 @@ By participating on the project, we committed to open science principles which a
 - [Where and how to publish research data](/osprinciples/sprava-dat-en#where-and-how-to-publish-research-data)
 - [What criteria must published dataset meet to be recognized as a project output ✅](/osprinciples/sprava-dat-en#what-criteria-must-published-dataset-meet-to-be-recognized-as-a-project-output)
 
-> ✉️ Do not hesitate to contact OS support: langinlife.os@phil.muni.cz <br>
+> ✉️ Do not hesitate to contact OS support: **langinlife.os@phil.muni.cz** <br>
 > Mirjana Stanojević – project manager <br>
 > Pavla Martinková – OS manager <br>
 > Jiří Šťastný – financial manager
