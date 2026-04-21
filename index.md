@@ -8,14 +8,17 @@
 - [Další postupy otevřené vědy](/osprinciples/dalsi-postupy)
   
 ## Životní situace a kontrolní seznamy ✅
-- [Jak postupovat při publikování článku](/osprinciples/open-access#jak-postupovat-při-publikování-článku)
+- [Jak postupovat při publikování článku](/osprinciples/open-access#publikování-článku)
+- [Jak postupovat při publikování monografie](/osprinciples/open-access#publikování-monografie)
 - [Co musí splňovat publikace, aby byla uznatelná jako výstup projektu ✅](/osprinciples/open-access#co-musí-splňovat-publikace-aby-byla-uznatelná-jako-výstup-projektu)
 - [Kde a jak zveřejnit výzkumná data](/osprinciples/sprava-dat#kde-a-jak-zveřejnit-výzkumná-data)
 - [Co musí splňovat zveřejněná výzkumná data ✅](/osprinciples/sprava-dat#co-musí-splňovat-zveřejněná-výzkumná-data)
 
 > ✉️ V případě nejasností neváhejte s čímkoliv kontaktovat OS podporu: <br>
-> Pavla Martinková – martinkova[at]phil.muni.cz <br>
-> CC Mirjana Stanojević – stanojevic[at]phil.muni.cz
+> langinlife.os@phil.muni.cz <br>
+> Mirjana Stanojević – projektová manažerka <br>
+> Pavla Martinková – OS manažerka <br>
+> Jiří Šťastný – finanční manažer
 
 ## Další informace o otevřené vědě
 
@@ -27,7 +30,7 @@
 
 ---
 
-[langinlife.muni.cz](https://langinlife.muni.cz) |
+[langinlife.muni.cz](https://langinlife.muni.cz) |  langinlife.os@phil.muni.cz
 
 <img src="/osprinciples/LOGO.png" alt="Logo projektu" style="width: 60%;">
 

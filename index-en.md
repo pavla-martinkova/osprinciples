@@ -5,10 +5,11 @@
 By participating on the project, we committed to open science principles which are presented in this online manual. 
 - [Open Access to publications](/osprinciples/open-access-en)
 - [Research data management](/osprinciples/sprava-dat-en)
-- [Other open science principles](/osprinciples/dalsi-postupy-en)
+- [Other open science principles](/osprinciples/dalsi-postupy-en): e.g., ORCID, preprints, citizen science
 
 ## Life situations and checklists ✅ 
-- [How to proceed when publishing an article](/osprinciples/open-access-en#how-to-proceed-when-publishing-an-article)
+- [How to proceed when publishing an article](/osprinciples/open-access-en#publishing-an-article)
+- [How to proceed when publishing a monograph](/osprinciples/open-access-en#publishing-a-monograph)
 - [What criteria must an article meet to be recognized as a project output ✅](/osprinciples/open-access-en#what-criteria-must-an-article-meet-to-be-recognized-as-a-project-output)
 - [Where and how to publish research data](/osprinciples/sprava-dat-en#where-and-how-to-publish-research-data)
 - [What criteria must published dataset meet to be recognized as a project output ✅](/osprinciples/sprava-dat-en#what-criteria-must-published-dataset-meet-to-be-recognized-as-a-project-output)
@@ -27,11 +28,11 @@ By participating on the project, we committed to open science principles which a
 
 ---
 
-[langinlife.muni.cz](https://langinlife.muni.cz/en) |
+[langinlife.muni.cz](https://langinlife.muni.cz) |  langinlife.os@phil.muni.cz
 
 <img src="/osprinciples/LOGO-en.png" alt="Logo" style="width: 60%;">
 
-*This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).​*
+*This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726).​*
 
 Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
 

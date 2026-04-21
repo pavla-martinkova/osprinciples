@@ -17,27 +17,38 @@ For other types of outputs (**B, peer-reviewed book**; **C, chapter in a peer-re
 For granting a license, the author must retain copyright ownership.
 
 - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license is necessary for accepting the article as a project output; it allows end users to use the work under the condition of attribution  
-- More restrictive [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) or [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licenses are not acceptable for articles; the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work).
+- More restrictive [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) or [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licenses are acceptable only for longer publications (typically monographs); the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work).
+- If you are unsure about which license to choose, please contact OS Support.
 
-## How to proceed when publishing an article
+## Publishing an article
 
 ### 1) Selecting a journal 
 
-#### 1A) Publishing with a publisher that will make the publication available **under a CC BY 4.0 license**.
+#### 1A) Publishing in an open journal
 
+A publisher will make the publication available under a **CC BY 4.0** license.
+
+❗This specific license is required; more restrictive licenses (NC, ND) are accepted only if the publisher does not offer a CC BY 4.0 license, which must be documented.
+
+##### Types of open journals
 - **Gold journal**: all articles are open after APC is paid 
 - **Hybrid journal**: some articles are open after APC is paid 
 - **Diamond journal**: all articles are open with no cost for the author
 
 <details markdown="1">
+
   <summary>How to pay the APC (Article Processing Charge) →</summary> 
 
+  The project's financial manager will handle the payment with the publisher's representative.
   The fees for opening an article are around EUR 3,000 (it can be much more) and project funds are allocated for this purpose. It is possible to take advantage of discounts thanks to agreements with publishers within the Czechelib project – [instructions for authors](https://www.czechelib.cz/en/442-instructions-for-authors).
+
 - For MU: Limited-number tokens are not allocated to project publications; discounts and fee waivers are available.
 
 </details>
 
-#### 1B) Publishing in a subscription-based journal and depositing the publication in a trusted repository under a CC BY license.
+#### 1B) Publishing in a subscription-based journal 
+
+The article needs to be deposited in a trusted repository under a **CC BY 4.0** license immediately after publication (without an embargo).
 
 Acceptable versions for depositing: 
 - Author Accepted Manuscript (version after peer-review)
@@ -50,22 +61,16 @@ Acceptable versions for depositing:
 ### 2) Submitting the article 
 Create a screenshot or archive the email communication to prove the date of submission. The date must be after the start of your contract with the project.
 
-❗ Publish a preprint and if possible, opt for open peer review.
+❗ Publish **a preprint** and if possible, opt for **open peer review**.
 
-The article must contain project acknowledgement:
-  - This work was supported by the European Regional Development Fund project “ A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife) ” (reg. no.: CZ.02.01.01/00/23_025/0008726).
+The article must contain **project acknowledgement**:
+  - This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726).
 
 ### 3) Article is accepted for publication
 If the publisher's conditions allow, the **data can be uploaded to a repository** even before the article is published, in line with the principle of early access to results.
 
 ### 4) Article is published 
 Depositing the appropriate version of the article to a trusted repository and creating a publication record for RIV (Czech register of scientific outcomes).
-
-#### Recommended repositories for publications
-- Institutional repositories: [Masaryk University](https://is.muni.cz/repozitar/?lang=en), [Charles University](https://dspace.cuni.cz/?locale-attribute=en), [Institute of Psychology of the Czech Academy of Sciences](https://asep.lib.cas.cz/arl-cav/en/search/)
-- General repository [Zenodo](https://zenodo.org/); project community to which outputs can be assigned: [[zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)]
-
-For assistance with selecting a repository and uploading a publication, please do not hesitate to contact OS support.
 
 <details markdown="1">
 <summary>For MU: How to fill in a publication record for RIV</summary>
@@ -78,6 +83,12 @@ Other checkboxes remain unchecked, unless there is a combination of funding.
 
 </details>
 
+#### Recommended repositories for publications
+- Institutional repositories: [Masaryk University](https://is.muni.cz/repozitar/?lang=en), [Charles University](https://dspace.cuni.cz/?locale-attribute=en), [Institute of Psychology of the Czech Academy of Sciences](https://asep.lib.cas.cz/arl-cav/en/search/)
+- General repository [Zenodo](https://zenodo.org/); project community to which outputs can be assigned: [[zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)]
+
+For assistance with selecting a repository and uploading a publication, please do not hesitate to contact OS support.
+
 ## What criteria must an article meet to be recognized as a project output
   
  - Was verifiably produced within the project – submission to a journal after the project has started and author has signed the contract.
@@ -87,10 +98,19 @@ Other checkboxes remain unchecked, unless there is a combination of funding.
  - Meets the criteria for inclusion in RIV (Czech register of scientific outcomes) as an expected outcome and will be submitted on behalf of the institution.
  - DOI is assigned.
 
+## Publishing a monograph
+
+- Open publishing of monographs is **recommended**. 
+- You may choose any CC license, including more restrictive versions: CC BY 4.0, CC BY-NC 4.0, CC BY-ND 4.0, CC BY-NC-ND 4.0
+  - The **NC** clause allows only non-commercial use, **ND** allows use without modification (e.g. excludes translations of the work).
+  - If you are unsure about which license to choose, contact OS support.
+- The project’s financial manager will handle payment for publication with the publisher’s representative.
+- Furthermore, monographs must meet the same conditions as articles (but with the option of a more restrictive license).
+
 
 ---
 
-[langinlife.muni.cz](https://langinlife.muni.cz/en)
+[langinlife.muni.cz](https://langinlife.muni.cz) |  langinlife.os@phil.muni.cz
 
 Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
 

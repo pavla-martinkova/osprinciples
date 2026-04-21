@@ -23,6 +23,8 @@ Authors will share preprint versions of articles, unless this conflicts with the
 - [Preprint servers registry ASAPbio](https://asapbio.org/preprint-servers)
 - [Lingbuzz preprint server](https://lingbuzz.net/)
 
+Publisher should be informed about the published preprint.
+
 ### Pre-registration of research 
 
 Pre-registration of research (hypotheses, methodology) will ensure greater transparency. The feasibility study promised to use the platform [Open Science Framework (OSF)](https://osf.io/).

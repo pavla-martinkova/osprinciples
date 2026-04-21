@@ -23,6 +23,8 @@ Autorky\*ři budou sdílet články ve verzi před recenzním řízením, pokud 
 - [Rejstřík preprintových serverů](https://doapr.coar-repositories.org/repositories/)
 - [Server pro lingvistiku Lingbuzz](https://lingbuzz.net/)
 
+O publikaci preprintu je potřeba informovat vydavatele.
+
 ### Předregistrace výzkumu
 
 Předregistrace výzkumu (hypotéz, metodologie) zajistí větší transparentnost. Ve studii proveditelnosti bylo slíbeno využití platformy [Open Science Framework (OSF)](https://osf.io/).
