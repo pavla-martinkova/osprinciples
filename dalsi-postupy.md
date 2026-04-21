@@ -50,7 +50,7 @@ Občanská věda (Citizen Science) představuje zapojení dalších aktérů mim
 
 ---
 
-[langinlife.muni.cz](https://langinlife.muni.cz)
+[langinlife.muni.cz](https://langinlife.muni.cz) |  langinlife.os@phil.muni.cz
 
 Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
 

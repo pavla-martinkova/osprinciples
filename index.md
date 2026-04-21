@@ -5,7 +5,7 @@
 Účastí na projektu jsme se zavázali naplňovat principy otevřené vědy přiblížené v této online příručce.
 - [Otevřený přístup k publikacím](/osprinciples/open-access)
 - [Správa výzkumných dat](/osprinciples/sprava-dat)
-- [Další postupy otevřené vědy](/osprinciples/dalsi-postupy)
+- [Další postupy otevřené vědy](/osprinciples/dalsi-postupy): ORCID, preprinty, citizen science a další
   
 ## Životní situace a kontrolní seznamy ✅
 - [Jak postupovat při publikování článku](/osprinciples/open-access#publikování-článku)
@@ -14,8 +14,7 @@
 - [Kde a jak zveřejnit výzkumná data](/osprinciples/sprava-dat#kde-a-jak-zveřejnit-výzkumná-data)
 - [Co musí splňovat zveřejněná výzkumná data ✅](/osprinciples/sprava-dat#co-musí-splňovat-zveřejněná-výzkumná-data)
 
-> ✉️ V případě nejasností neváhejte s čímkoliv kontaktovat OS podporu: <br>
-> langinlife.os@phil.muni.cz <br>
+> ✉️ V případě nejasností neváhejte s čímkoliv kontaktovat OS podporu: langinlife.os@phil.muni.cz <br>
 > Mirjana Stanojević – projektová manažerka <br>
 > Pavla Martinková – OS manažerka <br>
 > Jiří Šťastný – finanční manažer

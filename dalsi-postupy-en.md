@@ -49,7 +49,7 @@ Citizen Science is the involvement of stakeholders other than scientists in the 
 
 ---
 
-[langinlife.muni.cz](https://langinlife.muni.cz/en)
+[langinlife.muni.cz](https://langinlife.muni.cz) |  langinlife.os@phil.muni.cz
 
 Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/). 
 
