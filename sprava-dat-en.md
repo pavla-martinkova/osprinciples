@@ -62,7 +62,7 @@ Data needs to be stored in a suitable format and adequately described by metadat
 
 ### What metadata to provide for datasets
 
-- Name of the dataset, understandable on its own
+- Title of the dataset, understandable on its own
 - Full names of the creators (authors and contributors) and their permanent identifier (ORCID)
 - Date (planned, in case of embargo) of publication
 - Publisher and its persistent identifier (ROR)

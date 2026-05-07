@@ -17,7 +17,7 @@ For other types of outputs (**B, peer-reviewed book**; **C, chapter in a peer-re
 For granting a license, the author must retain copyright ownership.
 
 - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license is necessary for accepting the article as a project output; it allows end users to use the work under the condition of attribution  
-- More restrictive [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) or [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) licenses are acceptable only for longer publications (typically monographs); the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work).
+- More restrictive [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) or [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) and other licenses are acceptable only for longer publications (typically monographs); the NC clause allows only non-commercial use, ND allows use without modification (e.g. excludes translations of the work), SA requires that any derivative works be shared under the same license.
 - If you are unsure about which license to choose, please contact OS Support.
 
 ## Publishing an article
@@ -28,7 +28,7 @@ For granting a license, the author must retain copyright ownership.
 
 A publisher will make the publication available under a **CC BY 4.0** license.
 
-❗This specific license is required; more restrictive licenses (NC, ND) are accepted only if the publisher does not offer a CC BY 4.0 license, which must be documented.
+❗This specific license is required; more restrictive licenses (NC, ND, SA) are accepted only if the publisher does not offer a CC BY 4.0 license, which must be documented.
 
 ##### Types of open journals
 - **Gold journal**: all articles are open after APC is paid 
@@ -101,8 +101,8 @@ For assistance with selecting a repository and uploading a publication, please d
 ## Publishing a monograph
 
 - Open publishing of monographs is **recommended**. 
-- You may choose any CC license, including more restrictive versions: CC BY 4.0, CC BY-NC 4.0, CC BY-ND 4.0, CC BY-NC-ND 4.0
-  - The **NC** clause allows only non-commercial use, **ND** allows use without modification (e.g. excludes translations of the work).
+- You may choose any CC license, including more restrictive versions.
+  - The **NC** clause allows only non-commercial use, **ND** allows use without modification (e.g. excludes translations of the work), **SA** SA requires that any derivative works be shared under the same license.
   - If you are unsure about which license to choose, contact OS support.
 - The project’s financial manager will handle payment for publication with the publisher’s representative.
 - Furthermore, monographs must meet the same conditions as articles (but with the option of a more restrictive license).

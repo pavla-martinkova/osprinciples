@@ -17,7 +17,7 @@ U ostatních typů výsledků (**B, odborná kniha**; **C, kapitola v odborné k
 Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 - Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) je nutnou podmínkou pro uznání článku jako výstupu projektu. Koncovým uživatelům umožňuje s dílem nakládat za dodržení podmínky uvedení autorství.
-- Restriktivnější licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) nebo [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) jsou možné pouze u delších publikačních výsledků (typicky monografie); doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla).
+- Restriktivnější licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) nebo [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) a další jsou možné pouze u delších publikačních výsledků (typicky monografie); doložka NC povoluje pouze nekomerční využití, ND povoluje pouze využití beze změn (vylučuje např. překlady díla), SA ukládá sdílení případných odvozenin pod stejnou licencí.
 - Pokud si nejste jisti volbou licence, obraťte se na OS podporu.
 
 
@@ -29,7 +29,7 @@ Pro udělení licence musí mít autor\*ka zachována majetková práva k dílu.
 
 Vydavatel publikaci zpřístupní pod licencí **CC BY 4.0**. 
 
-❗Požadavkem je tato konkrétní licence, restriktivnější (NC, ND) jsou uznávány pouze pokud vydavatel licenci CC BY 4.0 nenabízí, což je potřeba doložit.
+❗Požadavkem je tato konkrétní licence, restriktivnější (NC, ND, SA) jsou uznávány pouze pokud vydavatel licenci CC BY 4.0 nenabízí, což je potřeba doložit.
 
 ##### Typy otevřených časopisů
 - **Gold časopis**: všechny články jsou otevřené po uhrazení APC
@@ -105,8 +105,8 @@ Pro asistenci s výběrem repozitáře a nahráním publikace se neváhejte obra
 ## Publikování monografie
 
 - Otevřené publikování monografií je **doporučené**. 
-- Lze zvolit libovolnou CC licenci, včetně restriktivnějších verzí: CC BY 4.0, CC BY-NC 4.0, CC BY-ND 4.0, CC BY-NC-ND 4.0
-  - Doložka **NC** povoluje pouze nekomerční využití, **ND** povoluje pouze využití beze změn (vylučuje např. překlady díla).
+- Lze zvolit libovolnou CC licenci, včetně restriktivnějších verzí.
+  - Doložka **NC** povoluje pouze nekomerční využití, **ND** povoluje pouze využití beze změn (vylučuje např. překlady díla), **SA** udává povinnost sdílet případné odvozeniny pod stejnou licencí.
   - Pokud si nejste jisti volbou licence, obraťte se na OS podporu.
 - Platbu za publikování bude se zástupcem vydavatele řešit finanční manažer projektu.
 - Dále musí monografie splňovat stejné podmínky jako články (ale s možností restriktivnější licence).
