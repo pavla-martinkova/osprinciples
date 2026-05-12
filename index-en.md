@@ -19,6 +19,10 @@ By participating on the project, we committed to open science principles which a
 > Pavla Martinková – OS manager <br>
 > Jiří Šťastný – financial manager
 
+### Diagram
+[Full version here](/diagram/pub_diagram.pdf)
+<img src="/osprinciples/diagram/pub_diagram.png" alt="Diagram of publication process" style="width: 60%;">
+
 ## Resources on Open Science
 
 - [Open Science @ MU](https://www.openscience.muni.cz/en)

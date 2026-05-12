@@ -19,6 +19,11 @@
 > Pavla Martinková – OS manažerka <br>
 > Jiří Šťastný – finanční manažer
 
+### Diagram postupu
+[Plná verze](/diagram/pub_diagram.pdf)
+<img src="/osprinciples/diagram/pub_diagram.png" alt="Shrnutí postupu při publikování článku (v angličtině)" style="width: 60%;">
+
+
 ## Další informace o otevřené vědě
 
 - [Open Science na MU](https://www.openscience.muni.cz)
