@@ -21,6 +21,7 @@
 
 ### Diagram postupu
 [Plná verze](/diagram/pub_diagram.pdf)
+
 <img src="/osprinciples/diagram/pub_diagram.png" alt="Shrnutí postupu při publikování článku (v angličtině)" style="width: 60%;">
 
 
