@@ -111,7 +111,7 @@ Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výz
 
 ---
 
-[langinlife.muni.cz](https://langinlife.muni.cz)
+[langinlife.muni.cz](https://langinlife.muni.cz) |  langinlife.os@phil.muni.cz
 
 Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
 

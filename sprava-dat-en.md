@@ -108,7 +108,7 @@ The list is based on [General recommendations for metadata description of resear
 
 ---
 
-[langinlife.muni.cz](https://langinlife.muni.cz/en)
+[langinlife.muni.cz](https://langinlife.muni.cz/en) |  langinlife.os@phil.muni.cz
 
 Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
 
