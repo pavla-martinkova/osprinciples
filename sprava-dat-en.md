@@ -72,6 +72,7 @@ Data needs to be stored in a suitable format and adequately described by metadat
 - Information about funding (funding provider and project number)
 - Classification according to scientific disciplines
 - Keywords
++ README file
 
 The list is based on [General recommendations for metadata description of research results (NTK, Czech only)](https://doi.org/10.48813/yt6w-6h15).
 
@@ -86,6 +87,12 @@ The list is based on [General recommendations for metadata description of resear
 - [Open Language Archives Community Metadata](https://fairsharing.org/FAIRsharing.17fbae) (OLAC Metadata)
 
 </details>
+
+## Why and how to provide a README file
+README file is a manual for the dataset. It helps other researcher to reuse the data. 
+
+You can use a template provided by the collective of Czech Data Stewards on Github.
+- [README file templates](https://github.com/Czech-Data-Steward-Community/README_FILES_EXAMPLES)
 
 ## What criteria must published dataset meet to be recognized as a project output
 
