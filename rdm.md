@@ -1,4 +1,4 @@
-[Home](/osprinciples/index-en) | [Open Access to publications](/osprinciples/open-access-en) | [Research data management](/osprinciples/sprava-dat-en) | [Other open science practices](/osprinciples/dalsi-postupy-en) | [ČEŠTINA 🇨🇿](/osprinciples/sprava-dat) |
+[Open Access to publications](/osprinciples/oa) | [Research data management](/osprinciples/rdm) | [Other practices](/osprinciples/practices) |
 
 # Research data management
 
@@ -72,7 +72,6 @@ Data needs to be stored in a suitable format and adequately described by metadat
 - Information about funding (funding provider and project number)
 - Classification according to scientific disciplines
 - Keywords
-+ README file
 
 The list is based on [General recommendations for metadata description of research results (NTK, Czech only)](https://doi.org/10.48813/yt6w-6h15).
 
@@ -88,13 +87,13 @@ The list is based on [General recommendations for metadata description of resear
 
 </details>
 
-## Why and how to provide a README file
+### Why and how to provide a README file
 README file is a manual for the dataset. It helps other researcher to reuse the data. It is uploaded to the repository alongside the dataset.
 
 You can use a template provided by the collective of Czech Data Stewards on Github.
 - [README file templates](https://github.com/Czech-Data-Steward-Community/README_FILES_EXAMPLES)
 
-## What criteria must published dataset meet to be recognized as a project output
+## What criteria must published dataset meet to be recognized as a project output | Checklist
 
 - No non-anonymised sensitive or personal data are included.
 - DOI (or another persistent identifier) is assigned.
@@ -117,6 +116,10 @@ You can use a template provided by the collective of Czech Data Stewards on Gith
 
 [langinlife.muni.cz](https://langinlife.muni.cz/en) |  langinlife.os@phil.muni.cz
 
+<img src="/osprinciples/LOGO.png" alt="Logo" style="width: 60%;">
+
+*This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726).​*
+
 Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
 
-[Otevřená věda v projektu LangInLife](https://pavla-martinkova.github.io/osprinciples/) © 2026 by [Pavla Martinková](https://github.com/pavla-martinkova) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+[Open Science for LangInLife project](https://pavla-martinkova.github.io/osprinciples/) © 2026 by [Pavla Martinková](https://github.com/pavla-martinkova) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

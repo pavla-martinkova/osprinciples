@@ -1,46 +1,39 @@
-[Otevřený přístup k publikacím](/osprinciples/open-access) | [Správa výzkumných dat](/osprinciples/sprava-dat) | [Další postupy otevřené vědy](/osprinciples/dalsi-postupy) | [ENGLISH 🇬🇧](/osprinciples/index-en) |
+[Open Access to publications](/osprinciples/oa) | [Research data management](/osprinciples/rdm) | [Other practices](/osprinciples/practices) |
 
-# Příručka otevřené vědy pro projekt LangInLife
+# Open Science manual for LangInLife project 
 
-Účastí na projektu jsme se zavázali naplňovat principy otevřené vědy přiblížené v této online příručce.
-- [Otevřený přístup k publikacím](/osprinciples/open-access)
-- [Správa výzkumných dat](/osprinciples/sprava-dat)
-- [Další postupy otevřené vědy](/osprinciples/dalsi-postupy): ORCID, preprinty, citizen science a další
-  
-## Životní situace a kontrolní seznamy ✅
-- [Jak postupovat při publikování článku](/osprinciples/open-access#publikování-článku)
-- [Jak postupovat při publikování monografie](/osprinciples/open-access#publikování-monografie)
-- [Co musí splňovat publikace, aby byla uznatelná jako výstup projektu ✅](/osprinciples/open-access#co-musí-splňovat-publikace-aby-byla-uznatelná-jako-výstup-projektu)
-- [Kde a jak zveřejnit výzkumná data](/osprinciples/sprava-dat#kde-a-jak-zveřejnit-výzkumná-data)
-- [Co musí splňovat zveřejněná výzkumná data ✅](/osprinciples/sprava-dat#co-musí-splňovat-zveřejněná-výzkumná-data)
+By participating on the project, we committed to open science principles which are presented in this online manual. 
+- [Open Access to publications](/osprinciples/open-access-en)
+- [Research data management](/osprinciples/sprava-dat-en)
+- [Other open science principles](/osprinciples/dalsi-postupy-en): e.g., ORCID, preprints, citizen science
 
-> ✉️ V případě nejasností neváhejte s čímkoliv kontaktovat OS podporu: **langinlife.os@phil.muni.cz** <br>
-> Mirjana Stanojević – projektová manažerka <br>
-> Pavla Martinková – OS manažerka <br>
-> Jiří Šťastný – finanční manažer
+> ✉️ Do not hesitate to contact the administrative team: **langinlife.os@phil.muni.cz** <br>
+> Mirjana Stanojević – project manager <br>
+> Monika Koutná – project administrator <br>
+> Pavla Martinková – OS manager <br>
+> Jiří Šťastný – financial manager
 
-### Diagram postupu
-[Plná verze](/diagram/pub_diagram.pdf)
+### Diagram of publication process
+[Display full version (PDF)](/diagram/pub_diagram.pdf)
 
-<img src="/osprinciples/diagram/pub_diagram.png" alt="Shrnutí postupu při publikování článku (v angličtině)" style="width: 60%;">
+<img src="/osprinciples/diagram/pub_diagram.png" alt="Diagram of publication process" style="width: 60%;">
 
+## Resources on Open Science
 
-## Další informace o otevřené vědě
-
-- [Open Science na MU](https://www.openscience.muni.cz)
-- [Open Science na UK](https://openscience.cuni.cz)
-- [Open Science na AV ČR](https://openscience.lib.cas.cz/)
-- [Národní platforma Open Science](https://openscience.cz/cs/)
-- [Příručka Otevřená věda OP JAK](https://opjak.cz/dokumenty/otevrena-veda/)
+- [Open Science @ MU](https://www.openscience.muni.cz/en)
+- [Open Science @ UK](https://openscience.cuni.cz/en)
+- [Open Science @ CAS](https://openscience.lib.cas.cz/en/)
+- [Národní platforma Open Science (Czech only)](https://openscience.cz)
+- [Open Science policy for OP JAK/P JAC projects](https://opjak.cz/wp-content/uploads/2025/07/P-JAC-Open-Science-Policy.pdf)
 
 ---
 
 [langinlife.muni.cz](https://langinlife.muni.cz) |  langinlife.os@phil.muni.cz
 
-<img src="/osprinciples/LOGO.png" alt="Logo projektu" style="width: 60%;">
+<img src="/osprinciples/LOGO.png" alt="Logo" style="width: 60%;">
 
-*Toto dílo vzniklo za podpory projektu „Celý život s jazykem: povaha a ontogeneze jazykové komunikace (LangInLife)“, reg. Č.: CZ.02.01.01/00/23_025/0008726, financovaného z Evropského fondu pro regionální rozvoj.​*
+*This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726).​*
 
-Texty vznikly na základě příručky Metodika pro Open Science [projektu RES-HUM](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
+Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
 
-[Otevřená věda v projektu LangInLife](https://pavla-martinkova.github.io/osprinciples/) © 2026 by [Pavla Martinková](https://github.com/pavla-martinkova) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+[Open Science for LangInLife project](https://pavla-martinkova.github.io/osprinciples/) © 2026 by [Pavla Martinková](https://github.com/pavla-martinkova) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
