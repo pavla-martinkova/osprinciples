@@ -79,7 +79,7 @@ Data musí být uložena ve vhodném formátu a dostatečně popsána metadaty. 
 Seznam vychází z [Obecných doporučení pro metadatový popis výsledků výzkumu (NTK)](https://doi.org/10.48813/yt6w-6h15).
 
 ## Why and how to provide a README file
-README file je v podstatě návod pro dataset. Pomáhá ostatním data znovupoužít. 
+README file je v podstatě návod pro dataset. Pomáhá ostatním data znovupoužít. Nahrává se jako soubor v záznamu datasetu v repozitáři.
 
 Můžete využít wšablony poskytnuté českou komunitou data stewardů.
 - [README file templates](https://github.com/Czech-Data-Steward-Community/README_FILES_EXAMPLES)

@@ -89,7 +89,7 @@ The list is based on [General recommendations for metadata description of resear
 </details>
 
 ## Why and how to provide a README file
-README file is a manual for the dataset. It helps other researcher to reuse the data. 
+README file is a manual for the dataset. It helps other researcher to reuse the data. It is uploaded to the repository alongside the dataset.
 
 You can use a template provided by the collective of Czech Data Stewards on Github.
 - [README file templates](https://github.com/Czech-Data-Steward-Community/README_FILES_EXAMPLES)
