@@ -120,6 +120,6 @@ You can use a template provided by the collective of Czech Data Stewards on Gith
 
 *This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726).​*
 
-Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
+Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz). This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Open Science for LangInLife project](https://pavla-martinkova.github.io/osprinciples/) © 2026 by [Pavla Martinková](https://github.com/pavla-martinkova) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
