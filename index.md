@@ -3,9 +3,9 @@
 # Open Science manual for LangInLife project 
 
 By participating on the project, we committed to open science principles which are presented in this online manual. 
-- [Open Access to publications](/osprinciples/open-access-en)
-- [Research data management](/osprinciples/sprava-dat-en)
-- [Other open science principles](/osprinciples/dalsi-postupy-en): e.g., ORCID, preprints, citizen science
+- [Open Access to publications](/osprinciples/oa)
+- [Research data management](/osprinciples/rdm)
+- [Other open science practices](/osprinciples/practices): ORCID & citizen science
 
 > ✉️ Do not hesitate to contact the administrative team: **langinlife.os@phil.muni.cz** <br>
 > Mirjana Stanojević – project manager <br>
@@ -28,9 +28,9 @@ By participating on the project, we committed to open science principles which a
 
 ---
 
-[langinlife.muni.cz](https://langinlife.muni.cz) |  langinlife.os@phil.muni.cz
+[langinlife.muni.cz](https://langinlife.muni.cz/en) |  langinlife.os@phil.muni.cz
 
-<img src="/osprinciples/LOGO.png" alt="Logo" style="width: 60%;">
+<img src="/osprinciples/LOGO-en.png" alt="Logo" style="width: 60%;">
 
 *This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726).​*
 

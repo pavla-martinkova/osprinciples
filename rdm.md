@@ -116,7 +116,7 @@ You can use a template provided by the collective of Czech Data Stewards on Gith
 
 [langinlife.muni.cz](https://langinlife.muni.cz/en) |  langinlife.os@phil.muni.cz
 
-<img src="/osprinciples/LOGO.png" alt="Logo" style="width: 60%;">
+<img src="/osprinciples/LOGO-en.png" alt="Logo" style="width: 60%;">
 
 *This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726).​*
 
