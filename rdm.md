@@ -110,7 +110,7 @@ You can use a template provided by the collective of Czech Data Stewards on Gith
 - **I**nteroperable thanks to open formats and standards.
 - **R**eusable  thanks to providing context through metadata and documentation.
 
-[How FAIR are your data checklist](https://zenodo.org/records/3739188)
+Checklist [How FAIR are your data →](https://zenodo.org/records/3739188)
 
 ---
 

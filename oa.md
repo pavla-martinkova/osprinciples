@@ -129,10 +129,10 @@ You may choose any CC license, including more restrictive versions. If you are u
 
 [langinlife.muni.cz](https://langinlife.muni.cz/en) |  langinlife.os@phil.muni.cz
 
-<img src="/osprinciples/LOGO.png" alt="Logo" style="width: 60%;">
+<img src="/osprinciples/LOGO-en.png" alt="Logo" style="width: 60%;">
 
 *This work was supported by the European Regional Development Fund project “A lifetime with language: the nature and ontogeny of linguistic communication (LangInLife)” (reg. no.: CZ.02.01.01/00/23_025/0008726).​*
 
-Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz). | This site was built using [GitHub Pages](https://pages.github.com/).
+Text is based on the Methodology for Open Science in [the RES-HUM project](https://reshum.muni.cz). This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Open Science for LangInLife project](https://pavla-martinkova.github.io/osprinciples/) © 2026 by [Pavla Martinková](https://github.com/pavla-martinkova) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
