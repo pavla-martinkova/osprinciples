@@ -1,4 +1,4 @@
-[Open Access to publications](/osprinciples/oa) | [Research data management](/osprinciples/rdm) | [Other practices](/osprinciples/practices) |
+[Home](/osprinciples/index) | [Open Access to publications](/osprinciples/oa) | [Publishing an article](/osprinciples/oa-articles) | [Publishing a monograph](/osprinciples/oa-books) | [Sharing research data](/osprinciples/rdm-share) | [Research data management](/osprinciples/rdm) | [Other practices](/osprinciples/practices) |
 
 # Open Access to publications (OA)
 
@@ -13,7 +13,7 @@ OA is **mandatory** for all publication outputs of the type **J, peer-reviewed a
 
 For other types of outputs (**B, peer-reviewed book**; **C, chapter in a peer-reviewed book**; **D, paper in proceedings**; **O, conference presentations, posters**), OA is recommended and welcome.
 
-[→ Publishing an article | Step by step guide](/osprinciples/oa-articles) | [→ Publishing a monograph](/osprinciples/oa-books)
+[Publishing an article →](/osprinciples/oa-articles) | [Publishing a monograph →](/osprinciples/oa-books)
 
 ## | Checklist for publications ✅
 What criteria must a publication meet to be recognized as a project output.
