@@ -62,18 +62,18 @@ If a journal offers open peer-review (meaning that the reviews are published alo
 ## 3 After the article is accepted for publication
 
 ## Repository submission
-All articles need to be **deposited to a trusted repository under CC BY 4.0 license**, even those openly available at publisher‘s website.
+All articles need to be **uploaded to a repository under CC BY 4.0 license**, even those openly available at publisher‘s website.
 
 -  Institutional repositories:
     - [Masaryk University](https://is.muni.cz/repozitar/?lang=en)
     - [Charles University](https://dspace.cuni.cz/?locale-attribute=en)
     - [Institute of Psychology of the Czech Academy of Sciences](https://asep.lib.cas.cz/arl-cav/en/search/)
--  General repository [Zenodo](https://zenodo.org/); project community to which outputs can be assigned: [[zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)]
+-  General repository [Zenodo](https://zenodo.org/); project community to which outputs can be assigned: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
 
 ## Data sharing
-If the publisher's conditions allow, the **data can be uploaded to a repository** even before the article is published, in line with the principle of early access to results.
+If the publisher's conditions allow, the data can be uploaded to a repository even before the article is published, in line with the principle of early access to results.
 
-[→ More on sharing research data](/osprinciples/rdm) |
+[More on sharing research data →](/osprinciples/rdm) |
 
 ## Creating a publication record for RIV 
 RIV is the Czech register of scientific outcomes. All project outputs need to be recorded.
