@@ -28,7 +28,7 @@ In **justified cases**, data may be kept closed, made available on request or af
 ## Where to publish research data
 Data needs to be published **in a trusted repository**. The publisher's platform (data supplement) is not sufficient, even if DOI has been assigned this way.
 
-### Recommended repositorie
+### Recommended repositories
 - [re3data.org](https://www.re3data.org/): data repositories registry with search and filter options
 - [LINDAT/CLARIAH-CZ](https://lindat.mff.cuni.cz/repository/): for linguistic research data
 - [CSDA](https://archivdv.soc.cas.cz/): Czech Social Science Data Archive, for social science research data
