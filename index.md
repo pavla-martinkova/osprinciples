@@ -2,16 +2,16 @@
 
 # Open Science manual for LangInLife project 
 
-This material is intended for researchers on [the LangInLife project](https://langinlife.muni.cz/en). By participating on the project, we committed to open science principles which are presented in this online manual. 
+This material is intended for researchers on [the LangInLife project](https://langinlife.muni.cz/en).
 
-> ✉️ Do not hesitate to contact the administrative team: **langinlife.os@phil.muni.cz** <br>
+> 📧 Do not hesitate to contact the administrative team: **langinlife.os@phil.muni.cz** <br>
 > Mirjana Stanojević – project manager <br>
 > Monika Koutná – project administrator <br>
 > Pavla Martinková – OS manager <br>
 > Jiří Šťastný – financial manager
 
 ### Diagram of publication process
-[Display full version (PDF)](/diagram/pub_diagram.pdf)
+[Display full version (PDF) →](/diagram/pub_diagram.pdf)
 
 <img src="/osprinciples/diagram/pub_diagram.png" alt="Diagram of publication process" style="width: 60%;">
 

@@ -1,4 +1,4 @@
-[Open Access to publications](/osprinciples/oa) | [Research data management](/osprinciples/rdm) | [Other practices](/osprinciples/practices) |
+[Home](/osprinciples/index) | [Open Access to publications](/osprinciples/oa) | [Publishing an article](/osprinciples/oa-articles) | [Publishing a monograph](/osprinciples/oa-books) | [Sharing research data](/osprinciples/rdm-share) | [Research data management](/osprinciples/rdm) | [Other practices](/osprinciples/practices) |
 
 # Research data management
 
@@ -24,20 +24,6 @@ Checklist [How FAIR are your data](https://zenodo.org/records/3739188).
 - **A**ccessible thanks to trusted repositories.
 - **I**nteroperable thanks to open formats and standards.
 - **R**eusable  thanks to providing context through metadata and documentation.
-
-## Checklist for published datasets ✅
-What criteria must published dataset meet to be recognized as a project output.
-
-- Non-anonymised sensitive or personal data are NOT included.
-- DOI (or another persistent identifier) is assigned.
-- Data are deposited in a trusted repository under a clearly stated licence (CC BY 4.0 or equivalent).
-- Data are deposited in an appropriate format.
-- Data are described by rich metadata.
-- Metadata are available in a machine readable format.
-- Related publication is linked to the dataset by metadata.
-
-[→ More on sharing research data](/osprinciples/rdm-share) |
-
 
 ---
 

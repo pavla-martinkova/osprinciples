@@ -15,7 +15,7 @@ For other types of outputs (**B, peer-reviewed book**; **C, chapter in a peer-re
 
 [Publishing an article →](/osprinciples/oa-articles) | [Publishing a monograph →](/osprinciples/oa-books)
 
-## | Checklist for publications ✅
+## Checklist for publications ✅
 What criteria must a publication meet to be recognized as a project output.
   
  - Was verifiably produced within the project; it was submitted after the project has started and author has signed the contract.
