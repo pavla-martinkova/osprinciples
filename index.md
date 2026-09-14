@@ -4,11 +4,11 @@
 
 This material is intended for researchers on [the LangInLife project](https://langinlife.muni.cz/en).
 
-> 📧 Do not hesitate to contact the administrative team: **langinlife.os@phil.muni.cz** <br>
-> Mirjana Stanojević – project manager <br>
-> Monika Koutná – project administrator <br>
-> Pavla Martinková – OS manager <br>
-> Jiří Šťastný – financial manager
+📧 Do not hesitate to contact the administrative team: **langinlife.os@phil.muni.cz** <br>
+- Mirjana Stanojević – project manager
+- Monika Koutná – project administrator
+- Pavla Martinková – OS manager
+- Jiří Šťastný – financial manager
 
 ### Diagram of publication process
 [Display full version (PDF) →](/diagram/pub_diagram.pdf)
