@@ -10,7 +10,7 @@ This material is intended for researchers on [the LangInLife project](https://la
 - Pavla Martinková – OS manager
 - Jiří Šťastný – financial manager
 
-### Diagram of publication process
+## Diagram of publication process
 [Display full version (PDF) →](/diagram/pub_diagram.pdf)
 
 <img src="/osprinciples/diagram/pub_diagram.png" alt="Diagram of publication process" style="width: 60%;">
