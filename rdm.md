@@ -44,7 +44,7 @@ In justified cases, data may be kept closed, made available on request or after 
 
 Data needs to be published in a trusted repository. The publisher's platform (data supplement) is not sufficient, even if DOI has been assigned this way.
 
-### Recommended trusted repositorie
+### Recommended repositorie
 - [re3data.org](https://www.re3data.org/): data repositories registry with search and filter options
 - [LINDAT/CLARIAH-CZ](https://lindat.mff.cuni.cz/repository/): for linguistic data
 
@@ -93,11 +93,12 @@ README file is a manual for the dataset. It helps other researcher to reuse the 
 You can use a template provided by the collective of Czech Data Stewards on Github.
 - [README file templates](https://github.com/Czech-Data-Steward-Community/README_FILES_EXAMPLES)
 
-## What criteria must published dataset meet to be recognized as a project output | Checklist
+## Checklist for published datasets ✅
+What criteria must published dataset meet to be recognized as a project output.
 
-- No non-anonymised sensitive or personal data are included.
+- Non-anonymised sensitive or personal data are NOT included.
 - DOI (or another persistent identifier) is assigned.
-- Data are deposited in a trusted repository under a clearly stated licence (CC 0, CC BY 4.0 or equivalent).
+- Data are deposited in a trusted repository under a clearly stated licence (CC BY 4.0 or equivalent).
 - Data are deposited in an appropriate format.
 - Data are described by rich metadata.
 - Metadata are available in a machine readable format.

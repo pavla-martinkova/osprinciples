@@ -2,7 +2,7 @@
 
 # Open Science manual for LangInLife project 
 
-**This material is intended for researchers on the LangInLife project.**
+This material is intended for researchers on [the LangInLife project](https://langinlife.muni.cz/en).
 
 By participating on the project, we committed to open science principles which are presented in this online manual. 
 - [Open Access to publications](/osprinciples/oa)

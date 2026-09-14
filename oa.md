@@ -108,20 +108,21 @@ Open publishing of monographs is **recommended**.
 The project’s financial managers will handle payment for publication with the publisher’s representative. Please, **always** consult the publishing agreement with the administrative team.
 
 You may choose any CC license, including more restrictive versions. If you are unsure about which license to choose, contact OS support.
-- The **NC** clause allows only non-commercial use, **ND** allows use without modification (e.g. excludes translations of the work), **SA** SA requires that any derivative works be shared under the same license.
+- The **NC** clause allows only non-commercial use, **ND** allows use without modification (e.g. excludes translations of the work), **SA** requires that any derivative works be shared under the same license.
 
 Conditions for sharing underlying research data also apply for monographs.
 
 [→ More on research data management](/osprinciples/rdm) |
 
-## What criteria must an article meet to be recognized as a project output | Checklist
+## | Checklist for publications ✅
+What criteria must an article meet to be recognized as a project output.
   
- - Was verifiably produced within the project – submission to a journal after the project has started and author has signed the contract.
+ - Was verifiably produced within the project; it was submitted after the project has started and author has signed the contract.
  - Contains project acknowledgement.
- - The version after peer review or the final version is uploaded to a trusted repository under a CC BY 4.0 license. This also applies if the article was published in an open journal.
- - Research data supporting findings in the article are stored in a trusted repository and linked to the article by metadata. If legal requirements allow, data are published under **CC BY 4.0** or similar license.
+ - Research data supporting findings in the publication are stored in a trusted repository and linked to the article by metadata. If legal requirements allow, data are published under **CC BY 4.0** or similar license.
  - Meets the criteria for inclusion in RIV (Czech register of scientific outcomes) as an expected outcome and will be submitted on behalf of the institution.
  - DOI is assigned.
+ - For articles: The version after peer review or the final version is uploaded to a trusted repository under a **CC BY 4.0** license. This also applies if the article was published in an open journal.
 
 
 ---
