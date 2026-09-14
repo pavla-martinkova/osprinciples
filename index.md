@@ -2,12 +2,7 @@
 
 # Open Science manual for LangInLife project 
 
-This material is intended for researchers on [the LangInLife project](https://langinlife.muni.cz/en).
-
-By participating on the project, we committed to open science principles which are presented in this online manual. 
-- [Open Access to publications](/osprinciples/oa)
-- [Research data management](/osprinciples/rdm)
-- [Other open science practices](/osprinciples/practices): ORCID & citizen science
+This material is intended for researchers on [the LangInLife project](https://langinlife.muni.cz/en). By participating on the project, we committed to open science principles which are presented in this online manual. 
 
 > ✉️ Do not hesitate to contact the administrative team: **langinlife.os@phil.muni.cz** <br>
 > Mirjana Stanojević – project manager <br>
