@@ -2,6 +2,8 @@
 
 # Open Science manual for LangInLife project 
 
+**This material is intended for researchers on the LangInLife project.**
+
 By participating on the project, we committed to open science principles which are presented in this online manual. 
 - [Open Access to publications](/osprinciples/oa)
 - [Research data management](/osprinciples/rdm)

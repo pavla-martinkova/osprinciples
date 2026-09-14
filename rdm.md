@@ -8,7 +8,7 @@ Data management is described in detail in the project's Data Management Plan.
 
 ## How to handle data during the project
 
-So that it remains understandable and accessible even in case of departure of key project members or other unexpected events.
+The underlying principle is that the data should remain understandable and accessible (when possible) even in case of departure of key project members or other unexpected events.
 
 - Consistent naming of files and folders.
 - Secure storage and backup to ensure that data is stored in at least two locations.
@@ -40,7 +40,7 @@ In justified cases, data may be kept closed, made available on request or after 
 </details>
 
 ## Where and how to publish research data
-Do not hesitate to contact OS support for more information.
+📧 Do not hesitate to consult the data sharing with OS support.
 
 Data needs to be published in a trusted repository. The publisher's platform (data supplement) is not sufficient, even if DOI has been assigned this way.
 
@@ -104,13 +104,13 @@ You can use a template provided by the collective of Czech Data Stewards on Gith
 - Related publication is linked to the dataset by metadata.
 
 ## FAIR principles
+Checklist [How FAIR are your data](https://zenodo.org/records/3739188).
 
 - **F**indable by both humans and machines thanks to descriptive metadata and persistent identifiers.
 - **A**ccessible thanks to trusted repositories.
 - **I**nteroperable thanks to open formats and standards.
 - **R**eusable  thanks to providing context through metadata and documentation.
 
-Checklist [How FAIR are your data →](https://zenodo.org/records/3739188)
 
 ---
 
