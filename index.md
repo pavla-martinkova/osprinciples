@@ -1,4 +1,4 @@
-[Open Access to publications](/osprinciples/oa) | [Research data management](/osprinciples/rdm) | [Other practices](/osprinciples/practices) |
+[Home](/osprinciples/index) | [Open Access to publications](/osprinciples/oa) | [Publishing an article](/osprinciples/oa-articles) | [Publishing a monograph](/osprinciples/oa-books) | [Sharing research data](/osprinciples/rdm-share) | [Research data management](/osprinciples/rdm) | [Other practices](/osprinciples/practices) |
 
 # Open Science manual for LangInLife project 
 
