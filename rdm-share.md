@@ -25,6 +25,13 @@ In **justified cases**, data may be kept closed, made available on request or af
 
 </details>
 
+❗ If there are…​
+- no data related to the publication,​
+- re-used data which are already published,​
+- legitimate reasons for non disclosure or embargo​
+
+…it has to be explained in the DMP. 
+
 ## Where to publish research data
 Data needs to be published **in a trusted repository**. The publisher's platform (data supplement) is not sufficient, even if DOI has been assigned this way.
 
