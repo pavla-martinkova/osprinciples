@@ -11,7 +11,14 @@
 
 „*Publication of data mainly concerns underlying data related to peer reviewed publication that is necessary to verify the results presented in such publication (...) Whether raw or processed data will be stored in the repository depends on the customs of the field, the context, and the type of data collected or created.*“
 
-In **justified cases**, data may be kept closed, made available on request or after an embargo period. Metadata must always be published. 
+In **justified cases**, data may be kept closed, made available on request or after an embargo period. **Metadata** must always be published. 
+
+❗ If there are…​
+- no data related to the publication,​
+- re-used data which are already published,​
+- legitimate reasons for non disclosure or embargo​
+
+…it has to be explained in the DMP. 
 
 <details markdown="1"> 
   <summary>Legitimate reasons for non-disclosure →</summary>
@@ -24,13 +31,6 @@ In **justified cases**, data may be kept closed, made available on request or af
 - Other legitimate interests and restrictions 
 
 </details>
-
-❗ If there are…​
-- no data related to the publication,​
-- re-used data which are already published,​
-- legitimate reasons for non disclosure or embargo​
-
-…it has to be explained in the DMP. 
 
 ## Where to publish research data
 Data needs to be published **in a trusted repository**. The publisher's platform (data supplement) is not sufficient, even if DOI has been assigned this way.
