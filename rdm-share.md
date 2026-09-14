@@ -30,7 +30,8 @@ Data needs to be published **in a trusted repository**. The publisher's platform
 
 ### Recommended repositorie
 - [re3data.org](https://www.re3data.org/): data repositories registry with search and filter options
-- [LINDAT/CLARIAH-CZ](https://lindat.mff.cuni.cz/repository/): for linguistic data
+- [LINDAT/CLARIAH-CZ](https://lindat.mff.cuni.cz/repository/): for linguistic research data
+- [CSDA](https://archivdv.soc.cas.cz/): Czech Social Science Data Archive, for social science research data
 
 If there is no suitable subject-specific repository, general repositories can be used.
 - [Zenodo](https://zenodo.org/) maintained by CERN; Community for LangInLife project: [zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)
