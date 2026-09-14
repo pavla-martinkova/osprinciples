@@ -5,7 +5,7 @@
 📧 For assistance with selecting a journal and checking compliance with OA principles, selecting a repository, or creating a publication record, please do not hesitate to contact OS support.
 
 ## 1.1 Publishing in an open journal
-The publisher will make the article available on their website. There might be a fee, APC (Article Processing Charge).
+The publisher will make the article available on their website. There might be a fee, the APC (Article Processing Charge).
 
 ❗**CC BY 4.0 license** is required. More restrictive licenses (NC, ND, SA) are accepted only if the publisher does not offer a CC BY 4.0 license.
 
@@ -64,7 +64,10 @@ If a journal offers open peer-review (meaning that the reviews are published alo
 ## Repository submission
 All articles need to be **deposited to a trusted repository under CC BY 4.0 license**, even those openly available at publisher‘s website.
 
--  Institutional repositories: [Masaryk University](https://is.muni.cz/repozitar/?lang=en), [Charles University](https://dspace.cuni.cz/?locale-attribute=en), [Institute of Psychology of the Czech Academy of Sciences](https://asep.lib.cas.cz/arl-cav/en/search/)
+-  Institutional repositories:
+    - [Masaryk University](https://is.muni.cz/repozitar/?lang=en)
+    - [Charles University](https://dspace.cuni.cz/?locale-attribute=en)
+    - [Institute of Psychology of the Czech Academy of Sciences](https://asep.lib.cas.cz/arl-cav/en/search/)
 -  General repository [Zenodo](https://zenodo.org/); project community to which outputs can be assigned: [[zenodo.org/communities/langinlife](https://zenodo.org/communities/langinlife)]
 
 ## Data sharing
