@@ -1,6 +1,6 @@
 [Home](/osprinciples/index) | [Open Access to publications](/osprinciples/oa) | [Publishing an article](/osprinciples/oa-articles) | [Publishing a monograph](/osprinciples/oa-books) | [Sharing research data](/osprinciples/rdm-share) | [Research data management](/osprinciples/rdm) | [Other practices](/osprinciples/practices) |
 
-# Research data management
+# Research data management 💻
 
 Data management is described in detail in the project's Data Management Plan.
 
