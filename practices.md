@@ -18,7 +18,7 @@ In order for publications entered in the IS to be displayed in your ORCID profil
 
 Citizen Science is the involvement of stakeholders other than scientists in the different phases of scientific research. This may include formulating the research question, designing methods, collecting and evaluating data, and presenting results. The involvement of citizen scientists is mentioned in the acknowledgements. 
 
-[Ten Principles of Citizen Science – European Citizen Science Association (ECSA)](https://www.ecsa.ngo/10-principles/)
+- [Ten Principles of Citizen Science – European Citizen Science Association (ECSA)](https://www.ecsa.ngo/10-principles/)
 
 ---
 
