@@ -8,7 +8,7 @@ Data management is described in detail in the project's Data Management Plan.
 
 ## How to handle data during the project
 
-The underlying principle is that the data should remain understandable and accessible (when possible) even in case of departure of key project members or other unexpected events.
+The underlying principle is that the data should remain understandable even in case of departure of key project members or other unexpected events.
 
 - Consistent naming of files and folders.
 - Secure storage and backup to ensure that data is stored in at least two locations.
