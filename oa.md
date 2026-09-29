@@ -9,7 +9,7 @@ OA according to OP JAK is:
 
 OA is **mandatory** for all publication outputs of the type **J, peer-reviewed article**.
 
-❗ **An exception** applies to articles with at least one corresponding author affiliated mainly to a foreign institution. In that case, OA is **optional**. However, data management and sharing practices need to be followed.
+❗ **An exception** applies to articles with at least one corresponding author affiliated mainly to a foreign institution. In that case, OA is **optional**. The data management and sharing practices need to be followed.
 
 For other types of outputs (**B, peer-reviewed book**; **C, chapter in a peer-reviewed book**; **D, paper in proceedings**; **O, conference presentations, posters**), OA is recommended and welcome.
 
